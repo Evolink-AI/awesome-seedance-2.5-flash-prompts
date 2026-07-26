@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Seedance 2.0 im Browser testen](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![207 einzigartige Fälle](https://img.shields.io/badge/207%20einzigartige%20F%C3%A4lle-111111)](README.md)
+[![211 einzigartige Fälle](https://img.shields.io/badge/211%20einzigartige%20F%C3%A4lle-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Willkommen im Repository Awesome Seedance 2.0 Prompts! 🤗
 
-**Dieses Repository enthält 207 einzigartige, quellennachgewiesene Seedance-2.0-Prompt-Beispiele für filmische Videogenerierung.**
+**Dieses Repository enthält 211 einzigartige, quellennachgewiesene Seedance-2.0-Prompt-Beispiele für filmische Videogenerierung.**
 
 Die Prompts stammen aus öffentlichen Creator-Beiträgen und werden als wiederverwendbares Material bewahrt.
 
@@ -73,7 +73,7 @@ Weiterführende Ressourcen: [API-Beispiele](https://github.com/Evolink-AI/Seedan
 <a id="statistics"></a>
 ## 📊 Statistik
 
-203 einzigartige Fälle in 8 Kategorien, synchronisiert über 11 README-Dateien.
+211 einzigartige Fälle in 8 Kategorien, synchronisiert über 11 README-Dateien.
 
 <a id="how-to-use"></a>
 ## 🧭 So nutzt du dieses Repository
@@ -81,7 +81,7 @@ Weiterführende Ressourcen: [API-Beispiele](https://github.com/Evolink-AI/Seedan
 Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und ersetze nur benötigte Motive oder Medienreferenzen.
 
 <a id="menu"></a>
-## 📑 Menü
+## 📑 Menu
 
 - [Introduction](#introduction)
 - [Quick Start](#quick-start)
@@ -167,7 +167,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 19: Überschall-POV durch den Wüstencanyon (by @LudovicCreator)](#pov-fpv-case-19)
   - [Fall 20: FPV-Überflug mit Feuerwerk über Frankreich (by @LudovicCreator)](#pov-fpv-case-20)
   - [Fall 21: FPV-Sturzflug über ein kybernetisches Schlachtfeld (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Commercial / Product](#commercial-product) (29)
+- [🏷️ Commercial / Product](#commercial-product) (31)
   - [Fall 1: Anime-Trio-Tanzbühne im Stil einer Parfümwerbung (by @ShadeLurk)](#commercial-product-case-1)
   - [Fall 2: Duell in einer düsteren Fantasykirche (by @ZaraIrahh)](#commercial-product-case-2)
   - [Fall 3: Duell in der Halle eines düsteren Fantasyschreins (by @MiraMusic_AI)](#commercial-product-case-3)
@@ -197,6 +197,8 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 27: Influencer-Tour durch die Klippenvilla (by @Ankit_patel211)](#commercial-product-case-27)
   - [Fall 28: Resort-Werbefilm für Yogamatte (by @ou_zhen599)](#commercial-product-case-28)
   - [Fall 29: Hero-Spot für Trinkflasche auf der Yoga-Terrasse (by @ou_zhen599)](#commercial-product-case-29)
+  - [Fall 30: Enthüllung eines gestrickten Wappens (by @insmind_com)](#commercial-product-case-30)
+  - [Fall 31: Retro-Werbespot für Crimson Cola (by @DjajaYerry75)](#commercial-product-case-31)
 - [🖼️ Reference-Driven](#reference-driven) (23)
   - [Fall 1: Auftritt eines Skelettpianisten im Miniaturdiorama (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Fall 2: Prinzessin auf dem Sturmschiff gegen den Kraken (by @applete77191758)](#reference-driven-case-2)
@@ -221,7 +223,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 21: Regentreffen unter der Laterne (by @umesh_ai)](#reference-driven-case-21)
   - [Fall 22: Ein-Take-Verwandlung im Kunqu-Backstage (by @ou_zhen599)](#reference-driven-case-22)
   - [Fall 23: Drachenstart auf dem Berggipfel (by @minuitIA)](#reference-driven-case-23)
-- [🌀 Surreal / VFX](#surreal-vfx) (16)
+- [🌀 Surreal / VFX](#surreal-vfx) (17)
   - [Fall 1: Katana-Kampf in Schwerelosigkeit (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Fall 2: Wal in den Wolken – surreales Epos (by @chaosdotjpg)](#surreal-vfx-case-2)
   - [Fall 3: Verwandlung eines Tiefseetauchers in ein Meereswesen (by @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -238,7 +240,8 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 14: Fluchtauto wird Müllwagen (by @LavrionX)](#surreal-vfx-case-14)
   - [Fall 15: Kalligrafische Verwandlung der Waldhüterin (by @LudovicCreator)](#surreal-vfx-case-15)
   - [Fall 16: Erscheinung bei der Spukteezeremonie (by @LudovicCreator)](#surreal-vfx-case-16)
-- [📐 Templates & Structured Formats](#templates-structured) (23)
+  - [Fall 17: Orakel der kosmischen Finsternis (by @itsPixieVerse)](#surreal-vfx-case-17)
+- [📐 Templates & Structured Formats](#templates-structured) (24)
   - [Fall 1: Katastrophaler Untergang eines Supercarriers (by @johnAGI168)](#templates-structured-case-1)
   - [Fall 2: Rekonstruktion von Erinnerungsfragmenten (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Fall 3: Vom Bauplan zur Realität – Verwandlung eines einstöckigen Hauses (by @craftian_keskin)](#templates-structured-case-3)
@@ -262,6 +265,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 21: Bahnsteig-Duell-Beatmap (by @SYDxStudio)](#templates-structured-case-21)
   - [Fall 22: Chibi-Sturmböe am Fenster (by @kinovi_ai)](#templates-structured-case-22)
   - [Fall 23: Fitnessstudio-Vlog nach dem Training (by @doctorwasif)](#templates-structured-case-23)
+  - [Fall 24: Beauty-Camcorder-Vlog am Schminktisch (by @doctorwasif)](#templates-structured-case-24)
 - [🎬 General Cinematic](#general-cinematic) (40)
   - [Fall 1: Beat-synchrone Mode-Nahaufnahme mit hohen Absätzen (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Fall 2: Mini-Skateboard-Flucht in einem Kinderzimmer (by @anson7956)](#general-cinematic-case-2)
@@ -1988,7 +1992,7 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 
 <a id="commercial-product"></a>
-## 🏷️ Commercial / Product (29)
+## 🏷️ Commercial / Product (31)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2686,6 +2690,36 @@ The music should feature a light, modern, and understated rhythm reflecting a pr
 
 [Restrictions]
 The subject, water bottle, and environment must remain consistent throughout; the number of fingers shown must be normal, and both hands must remain natural at all times; the drinking motion must be realistic, with no spills; no yoga poses, exaggerated poses, slow motion, shaky camera work, generated subtitles, brand text, or watermarks are allowed.
+```
+
+<a id="commercial-product-case-30"></a>
+<!-- Case 30: Knitted Crest Reveal (by @insmind_com) -->
+### Fall 30: [Enthüllung eines gestrickten Wappens](https://x.com/insmind_com/status/2080646752894664968) (von [@insmind_com](https://x.com/insmind_com))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-30"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080646752894664968.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A premium sportswear motion graphic built from knitted material. Start on a close low-angle view of the blue-and-white jersey chest. Keep the camera subtle and product-focused. Gold, sky-blue, white, and deep navy yarn flows across the fabric, interweaves, tightens, and gradually forms the full Argentina AFA crest.
+
+Where the yarn moves, the stitches grow. The camera should clearly show the yarn entering the fabric and building the crest layer by layer. The gold shield, stars, top bars, AFA lettering, and laurel branches must all form as one continuous embroidered logo. Every shape should be created by real arriving yarn, with visible plush stitch depth.
+```
+
+<a id="commercial-product-case-31"></a>
+<!-- Case 31: Crimson Cola Retro Ad (by @DjajaYerry75) -->
+### Fall 31: [Retro-Werbespot für Crimson Cola](https://x.com/DjajaYerry75/status/2080666062690140315) (von [@DjajaYerry75](https://x.com/DjajaYerry75))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-31"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080666062690140315.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
 ```
 
 <a id="reference-driven"></a>
@@ -3806,7 +3840,7 @@ No text, no title, no caption, no logo, no interface and no watermark, no music,
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Surreal / VFX (16)
+## 🌀 Surreal / VFX (17)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -4216,8 +4250,53 @@ Full magical transformation sequence: a forest guardian floating in an aged moss
 Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
 ```
 
+<a id="surreal-vfx-case-17"></a>
+<!-- Case 17: Cosmic Eclipse Oracle (by @itsPixieVerse) -->
+### Fall 17: [Orakel der kosmischen Finsternis](https://x.com/itsPixieVerse/status/2080801355908931602) (von [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080801355908931602.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Ultra cinematic cosmic fantasy sequence, endless celestial observatory floating above the universe, gigantic ancient marble platforms suspended in space, rotating golden astrolabes, enormous eclipsed sun in the distance, galaxies, nebulae and constellations slowly drifting, billions of glowing stars, soft divine volumetric light, white and gold architecture, premium Hollywood fantasy atmosphere.
+
+Aureleth, an ethereal cosmic goddess with extremely long flowing lavender hair, luminous golden eyes, elegant white ceremonial coat with intricate gold embroidery over a dark celestial bodysuit decorated with glowing runic constellations, floating geometric halo behind her head, calm, untouchable, divine presence.
+
+Sequence (15 seconds):
+
+0–3s
+Extreme wide establishing shot. Aureleth stands alone at the center of an enormous celestial platform suspended above an infinite cosmos. Her hair and robes drift gracefully in zero gravity. The camera slowly pushes toward her while countless tiny stars orbit around her feet.
+
+3–6s
+Medium cinematic shot. Aureleth slowly raises one hand with effortless elegance. Golden runic circles begin rotating around her fingers while luminous geometric symbols appear in the surrounding space. Her halo slowly expands into multiple rotating celestial rings.
+
+6–9s
+Reality begins bending around her. Marble fragments, glowing crystals and golden particles levitate into the air. Space itself ripples like water. Entire constellations rearrange into sacred geometric patterns while ribbons of stardust spiral around her body. Her expression remains perfectly calm and emotionless.
+
+9–12s
+The camera performs a dramatic orbit around Aureleth. Behind her, an immense cosmic eclipse opens, revealing a radiant celestial eye formed from galaxies and light. Thousands of glowing runes and star fragments rotate around her in synchronized motion while her robes and hair flow majestically.
+
+12–15s
+Final divine reveal. Aureleth extends her hand toward the camera. The universe freezes in complete silence as every floating object stops instantly. A brilliant pulse of white and gold cosmic energy radiates outward, illuminating galaxies before slowly fading. She remains completely motionless, gazing directly into the camera while stars continue orbiting around her like loyal satellites.
+
+Camera:
+Epic anamorphic IMAX composition, extremely slow cinematic push-ins, smooth orbital camera movement, elegant crane motion, dramatic wide-to-close transitions, shallow depth of field, subtle lens breathing, premium cinematic framing.
+
+Rendering:
+Ultra photorealistic CGI, ray tracing, global illumination, volumetric god rays, physically accurate cloth simulation, flowing hair physics, marble and gold material realism, celestial particle systems, floating dust, shimmering stardust, realistic atmospheric bloom, premium Hollywood VFX.
+
+Motion:
+Slow, elegant, regal, effortless. Every gesture feels deliberate. Reality responds to her presence rather than the other way around. No exaggerated anime movement.
+
+Style:
+AAA cinematic fantasy blockbuster, Dune × Elden Ring × Final Fantasy XVI × Arcane × Love Death + Robots, divine celestial aesthetic, museum-quality composition, emotionally overwhelming scale, premium visual effects, pure visual storytelling, no dialogue.
+```
+
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (23)
+## 📐 Templates & Structured Formats (24)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4786,7 +4865,6 @@ VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents
 Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
 ```
 
-<a id="general-cinematic"></a>
 <a id="templates-structured-case-22"></a>
 <!-- Case 22: Chibi Storm Window Blowout (by @kinovi_ai) -->
 ### Fall 22: [Chibi-Sturmböe am Fenster](https://x.com/kinovi_ai/status/2079997296000033072) (von [@kinovi_ai](https://x.com/kinovi_ai))
@@ -4835,8 +4913,6 @@ Scene 5 SFX: A sudden, hilarious record scratch cutting through the storm noise.
 Scene 6 SFX: A loud, chaotic CRASH-BAM-THUD of her landing off-screen, knocking over several objects. The deafening roar of the wind and rain continues to howl into the open bedroom as the scene ends.
 ```
 
-## 🎬 General Cinematic (40)
-
 <a id="templates-structured-case-23"></a>
 <!-- Case 23: Post-Workout Gym Vlog (by @doctorwasif) -->
 ### Fall 23: [Fitnessstudio-Vlog nach dem Training](https://x.com/doctorwasif/status/2080278207518126084) (von [@doctorwasif](https://x.com/doctorwasif))
@@ -4873,6 +4949,41 @@ Quiet evening gym corner with stretching mat, mirror, gym bag, protein shake, so
 7. Resting on knee. "Feels good to be done."
 8. Waves with bag and shake. "Alright, I'm heading out—see you guys."
 ```
+
+<a id="templates-structured-case-24"></a>
+<!-- Case 24: Beauty Vanity Camcorder Vlog (by @doctorwasif) -->
+### Fall 24: [Beauty-Camcorder-Vlog am Schminktisch](https://x.com/doctorwasif/status/2080634720824807476) (von [@doctorwasif](https://x.com/doctorwasif))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080634720824807476.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+CAMERA: DV 16mm tape camcorder, handheld POV by CHASE, occasionally propped on vanity. Natural shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cropped. Camera never visible.
+
+LOOK: Soft blurry tape, faint tape noise, bloomed vanity bulbs, flickering auto-exposure, muted contrast, natural skin.
+
+STYLE: Casual beauty vlog. Relaxed, chatty, slow pacing with quiet mirror moments.
+
+CHARACTER: CHASE, Korean idol (20s), long straight black hair, dewy skin, coral lips, robe/makeup cape. Unseen stylist's hands occasionally enter frame.
+
+SETTING: Bulb-lit vanity, styling chair, hair tools/products on counter, handheld mirror.
+
+STORYBOARD:
+1. Propped: Waves. "Hey guys, getting my hair done."
+2. Handheld CU: Hair tug. "This always takes forever."
+3. Insert: Stylist clips hair. Ambient only.
+4. Propped: Smiles. "We're getting to the good part."
+5. Handheld CU: Watches mirror, smiles. Ambient.
+6. Handheld: Checks back with mirror. "Let me see the back—"
+7. Tight: Grins. "I really like this."
+8. Selfie: Waves/thumbs up. "Hair's done—see you guys!"
+```
+
+<a id="general-cinematic"></a>
+## 🎬 General Cinematic (40)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->

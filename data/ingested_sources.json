@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 207,
+  "case_count": 211,
   "categories": [
     {
       "slug": "action-fantasy",
@@ -22,7 +22,7 @@
     {
       "slug": "commercial-product",
       "name": "🏷️ Commercial / Product",
-      "count": 29
+      "count": 31
     },
     {
       "slug": "reference-driven",
@@ -32,12 +32,12 @@
     {
       "slug": "surreal-vfx",
       "name": "🌀 Surreal / VFX",
-      "count": 16
+      "count": 17
     },
     {
       "slug": "templates-structured",
       "name": "📐 Templates & Structured Formats",
-      "count": 23
+      "count": 24
     },
     {
       "slug": "general-cinematic",
@@ -1345,6 +1345,33 @@
       "prompt_text": "15 seconds, 9:16 vertical format, realistic high-end lifestyle product ad, shot in a single take with no hard cuts.\n\n【Reference Guidelines】\n@Image 1 is used solely to establish the female subject: Maintain the same authentic face, long wavy blonde hair, light blue long-sleeved sports top, pink yoga pants, and white sneakers; body proportions and clothing color schemes must remain consistent; Do not replicate the white studio background or collage-style layout.\n@Image 2: To be used solely for the yoga water bottle: Maintain the white matte, rounded-corner bottle body, silver metal lid, and curved metal handle; the bottle proportions and lid structure must be identical; the bottle must always appear intact, rigid, and undistorted, with no text, logos, or labels; no color changes; and no straws or other accessories added.\n\n【Setting and Style】\nAn upscale outdoor yoga terrace at dawn, featuring light-colored natural stone flooring, a neat solid-wood yoga mat, a few elegant potted plants, and serene mountain scenery and sky in the distance. The space is clean and open, with no other people or clutter. Realistic commercial advertisement aesthetic, with authentic skin and fabric textures. Warm white morning light streams diagonally from the lower left rear of the frame, casting a soft contour light on the subject; a clean, understated highlight appears on the silver lid of the water bottle, with stable, flicker-free lighting. A gentle morning breeze rustles the hair, sleeves, and distant plants, while the water bottle maintains a sense of stability consistent with its weight.\n\n【Continuous Shot and Movement】\nThe camera begins from a low, three-quarter side angle close to the kettle and follows the action with a steady, forward-side tracking shot throughout the sequence; the shot composition changes naturally only when the subject walks past the light-colored pillar, using the foreground to create a natural transition—no quick cuts or shaky camera work are used.\n0–3 seconds: The woman has just finished her rest and is sitting at the edge of her yoga mat, her right hand naturally gripping the water bottle’s handle. As she stands up, she lifts the water bottle smoothly off the ground; the camera follows the rising water bottle to frame her and the terrace setting.\n3–6 seconds: She walks briskly toward the terrace railing with the water bottle, which sways slightly and naturally with her steps; as she walks, she switches the bottle from her right hand to her left, while her right hand gently tucks her hair back as it is blown by the morning breeze.\n6–9 seconds: She stops at the railing, holding the bottle steadily in her left hand while unscrewing the silver lid with her right; the camera smoothly pans to a medium-close-up from her side and front as she takes a small sip of water, her movements calm and authentic.\n9–12 seconds: She screws the lid back on, her fingertips gliding naturally over the handle; she pauses briefly facing the camera and mouths the words in English with a relaxed, natural expression: “Ready for what’s next.”\n12–15 seconds: Carrying the water bottle, she continues walking deeper into the terrace, passing a light-colored column; the camera smoothly emerges from behind the column and slows down, finally settling on a clear three-quarter front “hero shot” of the water bottle, with the subject continuing to walk against a softly focused background.\n\n[Audio]\nEnglish throughout. 0–3 seconds: Female voiceover in English: “The practice may pause.”\n3–6 seconds: Female voiceover in English: “The feeling stays with me.”\n6–9 seconds: Retain the sound of a gentle breeze, light footsteps, the sound of a metal cup lid unscrewing, and the natural sound of drinking; the music’s tempo rises slightly.\n9–12 seconds: Only the character’s synchronized line: “Ready for what’s next.”—do not overlay with voiceover.\n12–15 seconds: Female voiceover in English: “Move freely. Hydrate simply.”\nThe music should feature a light, modern, and understated rhythm reflecting a premium active lifestyle.\n\n[Restrictions]\nThe subject, water bottle, and environment must remain consistent throughout; the number of fingers shown must be normal, and both hands must remain natural at all times; the drinking motion must be realistic, with no spills; no yoga poses, exaggerated poses, slow motion, shaky camera work, generated subtitles, brand text, or watermarks are allowed."
     },
     {
+      "id": "commercial-product-case-30",
+      "category": "🏷️ Commercial / Product",
+      "case_number": 30,
+      "title": "Knitted Crest Reveal",
+      "source_url": "https://x.com/insmind_com/status/2080646752894664968",
+      "author_handle": "insmind_com",
+      "author_url": "https://x.com/insmind_com",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080646752894664968.jpg",
+      "prompt_sha256": "e4cd7b15146106b2b949720649ec4834476855d122b5d7ce4aa0808ac92de104",
+      "model_variant": null,
+      "prompt_text": "A premium sportswear motion graphic built from knitted material. Start on a close low-angle view of the blue-and-white jersey chest. Keep the camera subtle and product-focused. Gold, sky-blue, white, and deep navy yarn flows across the fabric, interweaves, tightens, and gradually forms the full Argentina AFA crest.\n\nWhere the yarn moves, the stitches grow. The camera should clearly show the yarn entering the fabric and building the crest layer by layer. The gold shield, stars, top bars, AFA lettering, and laurel branches must all form as one continuous embroidered logo. Every shape should be created by real arriving yarn, with visible plush stitch depth.",
+      "prompt_source_url": "https://x.com/insmind_com/status/2080646800407740900"
+    },
+    {
+      "id": "commercial-product-case-31",
+      "category": "🏷️ Commercial / Product",
+      "case_number": 31,
+      "title": "Crimson Cola Retro Ad",
+      "source_url": "https://x.com/DjajaYerry75/status/2080666062690140315",
+      "author_handle": "DjajaYerry75",
+      "author_url": "https://x.com/DjajaYerry75",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080666062690140315.jpg",
+      "prompt_sha256": "d18ae121d1df0a60d8ecb4a30bfcbf5ae867dc92ad4e8b6fb2cce026cdad3170",
+      "model_variant": null,
+      "prompt_text": "A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic."
+    },
+    {
       "id": "reference-driven-case-1",
       "category": "🖼️ Reference-Driven",
       "case_number": 1,
@@ -1825,6 +1852,20 @@
       "prompt_text": "Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort."
     },
     {
+      "id": "surreal-vfx-case-17",
+      "category": "🌀 Surreal / VFX",
+      "case_number": 17,
+      "title": "Cosmic Eclipse Oracle",
+      "source_url": "https://x.com/itsPixieVerse/status/2080801355908931602",
+      "author_handle": "itsPixieVerse",
+      "author_url": "https://x.com/itsPixieVerse",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080801355908931602.jpg",
+      "prompt_sha256": "591fe728a33e062ef4fce24a4e9a42bb5965ef666bf5def99d8dbb821345a46d",
+      "model_variant": null,
+      "prompt_text": "Ultra cinematic cosmic fantasy sequence, endless celestial observatory floating above the universe, gigantic ancient marble platforms suspended in space, rotating golden astrolabes, enormous eclipsed sun in the distance, galaxies, nebulae and constellations slowly drifting, billions of glowing stars, soft divine volumetric light, white and gold architecture, premium Hollywood fantasy atmosphere.\n\nAureleth, an ethereal cosmic goddess with extremely long flowing lavender hair, luminous golden eyes, elegant white ceremonial coat with intricate gold embroidery over a dark celestial bodysuit decorated with glowing runic constellations, floating geometric halo behind her head, calm, untouchable, divine presence.\n\nSequence (15 seconds):\n\n0–3s\nExtreme wide establishing shot. Aureleth stands alone at the center of an enormous celestial platform suspended above an infinite cosmos. Her hair and robes drift gracefully in zero gravity. The camera slowly pushes toward her while countless tiny stars orbit around her feet.\n\n3–6s\nMedium cinematic shot. Aureleth slowly raises one hand with effortless elegance. Golden runic circles begin rotating around her fingers while luminous geometric symbols appear in the surrounding space. Her halo slowly expands into multiple rotating celestial rings.\n\n6–9s\nReality begins bending around her. Marble fragments, glowing crystals and golden particles levitate into the air. Space itself ripples like water. Entire constellations rearrange into sacred geometric patterns while ribbons of stardust spiral around her body. Her expression remains perfectly calm and emotionless.\n\n9–12s\nThe camera performs a dramatic orbit around Aureleth. Behind her, an immense cosmic eclipse opens, revealing a radiant celestial eye formed from galaxies and light. Thousands of glowing runes and star fragments rotate around her in synchronized motion while her robes and hair flow majestically.\n\n12–15s\nFinal divine reveal. Aureleth extends her hand toward the camera. The universe freezes in complete silence as every floating object stops instantly. A brilliant pulse of white and gold cosmic energy radiates outward, illuminating galaxies before slowly fading. She remains completely motionless, gazing directly into the camera while stars continue orbiting around her like loyal satellites.\n\nCamera:\nEpic anamorphic IMAX composition, extremely slow cinematic push-ins, smooth orbital camera movement, elegant crane motion, dramatic wide-to-close transitions, shallow depth of field, subtle lens breathing, premium cinematic framing.\n\nRendering:\nUltra photorealistic CGI, ray tracing, global illumination, volumetric god rays, physically accurate cloth simulation, flowing hair physics, marble and gold material realism, celestial particle systems, floating dust, shimmering stardust, realistic atmospheric bloom, premium Hollywood VFX.\n\nMotion:\nSlow, elegant, regal, effortless. Every gesture feels deliberate. Reality responds to her presence rather than the other way around. No exaggerated anime movement.\n\nStyle:\nAAA cinematic fantasy blockbuster, Dune × Elden Ring × Final Fantasy XVI × Arcane × Love Death + Robots, divine celestial aesthetic, museum-quality composition, emotionally overwhelming scale, premium visual effects, pure visual storytelling, no dialogue.",
+      "prompt_source_url": "https://x.com/itsPixieVerse/status/2080801365815939379"
+    },
+    {
       "id": "templates-structured-case-1",
       "category": "📐 Templates & Structured Formats",
       "case_number": 1,
@@ -2107,6 +2148,19 @@
       "prompt_sha256": "ae55618eb8e7782a4517f62983c9de980fa3fdde5e870ffd1e6f03254038de56",
       "model_variant": null,
       "prompt_text": "**CAMERA:**\nDV 16mm handheld camcorder POV. CHASE holds the camera or props it on the floor/bag. Natural hand shake, soft focus, imperfect framing, occasional clumsy zooms. Camcorder never visible.\n\n**LOOK:**\nSoft vintage tape quality, slight blur, tape noise, bloomed gym lights, flickering auto-exposure, muted contrast.\n\n**STYLE:**\nCalm post-workout gym vlog. Relaxed, slightly tired, natural pacing, genuine smiles and quiet reflections.\n\n**CHARACTER:**\nCHASE — Korean woman in her 20s. Long black hair loosely tied, light post-workout sweat, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks, towel around neck.\n\n**SETTING:**\nQuiet evening gym corner with stretching mat, mirror, gym bag, protein shake, soft lighting.\n\n**SCENES:**\n1. Sits on mat, exhales. \"Okay, cool-down time.\"\n2. Hamstring stretch, laughs. \"That was a lot today.\"\n3. Shoulder stretch. \"Legs are gonna be sore tomorrow.\"\n4. Close-up grabbing protein shake.\n5. Drinks. \"That's actually really good.\"\n6. Arms overhead. \"I'd give today an eight out of ten.\"\n7. Resting on knee. \"Feels good to be done.\"\n8. Waves with bag and shake. \"Alright, I'm heading out—see you guys.\""
+    },
+    {
+      "id": "templates-structured-case-24",
+      "category": "📐 Templates & Structured Formats",
+      "case_number": 24,
+      "title": "Beauty Vanity Camcorder Vlog",
+      "source_url": "https://x.com/doctorwasif/status/2080634720824807476",
+      "author_handle": "doctorwasif",
+      "author_url": "https://x.com/doctorwasif",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080634720824807476.jpg",
+      "prompt_sha256": "e88a5c62057bcf4c86427ad9ae8cb26f6a638a9bc937e8c752cc4096314cddf1",
+      "model_variant": null,
+      "prompt_text": "CAMERA: DV 16mm tape camcorder, handheld POV by CHASE, occasionally propped on vanity. Natural shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cropped. Camera never visible.\n\nLOOK: Soft blurry tape, faint tape noise, bloomed vanity bulbs, flickering auto-exposure, muted contrast, natural skin.\n\nSTYLE: Casual beauty vlog. Relaxed, chatty, slow pacing with quiet mirror moments.\n\nCHARACTER: CHASE, Korean idol (20s), long straight black hair, dewy skin, coral lips, robe/makeup cape. Unseen stylist's hands occasionally enter frame.\n\nSETTING: Bulb-lit vanity, styling chair, hair tools/products on counter, handheld mirror.\n\nSTORYBOARD:\n1. Propped: Waves. \"Hey guys, getting my hair done.\"\n2. Handheld CU: Hair tug. \"This always takes forever.\"\n3. Insert: Stylist clips hair. Ambient only.\n4. Propped: Smiles. \"We're getting to the good part.\"\n5. Handheld CU: Watches mirror, smiles. Ambient.\n6. Handheld: Checks back with mirror. \"Let me see the back—\"\n7. Tight: Grins. \"I really like this.\"\n8. Selfie: Waves/thumbs up. \"Hair's done—see you guys!\""
     },
     {
       "id": "general-cinematic-case-1",
