@@ -5928,7 +5928,7 @@ Sound: Authentic market ambient sounds—faint, distant conversations, footsteps
 Use a superfície adjacente de API/skill para executar; este repositório continua sendo a superfície de prompts e descoberta.
 
 - [Ler exemplos da API do Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- [Instalar a skill do Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Instalar a skill do Seedance 2.0](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw)
 - [Ler a documentação da API da EvoLink](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link)
 
 <a id="contributing"></a>

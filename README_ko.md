@@ -5928,7 +5928,7 @@ Sound: Authentic market ambient sounds—faint, distant conversations, footsteps
 실행에는 인접 API/skill을 사용하고 이 저장소는 프롬프트 탐색 공간으로 유지합니다.
 
 - [Seedance 2.0 API 예제 읽기](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- [Seedance 2.0 skill 설치하기](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Seedance 2.0 skill 설치하기](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw)
 - [EvoLink API 문서 읽기](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link)
 
 <a id="contributing"></a>
