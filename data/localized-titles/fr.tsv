@@ -53,6 +53,7 @@ cinematic-realism-case-8	Séquence du phare sur la côte en tempête
 cinematic-realism-case-9	Évasion en buggy dans une tempête de sable
 cinematic-realism-case-10	Bagarre télévisée Argentine-Espagne
 cinematic-realism-case-11	Dérapage de rallye boueux en forêt
+cinematic-realism-case-12	Farce au masque de monstre a Paris
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -105,6 +106,7 @@ commercial-product-case-28	Publicité de resort pour tapis de yoga
 commercial-product-case-29	Publicité hero pour gourde sur terrasse de yoga
 commercial-product-case-30	Révélation d’un blason tricoté
 commercial-product-case-31	Publicité rétro pour Crimson Cola
+commercial-product-case-32	Pub d ete Sprite a la fontaine
 reference-driven-case-1	Performance d’un pianiste squelette dans un diorama miniature
 reference-driven-case-2	Princesse sur un navire en pleine tempête contre le kraken
 reference-driven-case-3	Danse des lames des servantes : Mei contre Coco
@@ -169,6 +171,8 @@ templates-structured-case-21	Beatmap du duel sur quai
 templates-structured-case-22	Bourrasque chibi à la fenêtre
 templates-structured-case-23	Vlog de salle après l’entraînement
 templates-structured-case-24	Vlog au caméscope sur une coiffeuse beauté
+templates-structured-case-25	Marche neon avec telephone a clapet
+templates-structured-case-26	Vlog de comparaison de tenues en coulisses
 general-cinematic-case-1	Gros plan de mode sur des talons synchronisés au rythme
 general-cinematic-case-2	Évasion en mini-skateboard dans une chambre d’enfant
 general-cinematic-case-3	Duel de grands-mères à Rucker Park
@@ -209,3 +213,4 @@ general-cinematic-case-37	Promenade d’astronaute dans un parc d’attractions 
 general-cinematic-case-38	Voyage en baignoire du canard pirate
 general-cinematic-case-39	VHS orbital avec Terre obscure
 general-cinematic-case-40	Mésaventure MiniDV à l’étal de citrouilles
+general-cinematic-case-41	Horreur d anniversaire a la poupee de porcelaine

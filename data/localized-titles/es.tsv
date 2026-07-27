@@ -53,6 +53,7 @@ cinematic-realism-case-8	Secuencia del faro en la costa tormentosa
 cinematic-realism-case-9	Escape en buggy en plena tormenta de arena
 cinematic-realism-case-10	Pelea televisada Argentina-España
 cinematic-realism-case-11	Derrape de rally en bosque embarrado
+cinematic-realism-case-12	Broma de máscara monstruosa en París
 pov-fpv-case-1	Secuencia de persecución camuflada con cámara en el pecho
 pov-fpv-case-2	Vídeo promocional de una Shanghái ciberpunk
 pov-fpv-case-3	Prompt de acción consistente de un samurái maldito
@@ -105,6 +106,7 @@ commercial-product-case-28	Anuncio de resort para esterilla de yoga
 commercial-product-case-29	Anuncio hero de botella en terraza de yoga
 commercial-product-case-30	Revelación de escudo tejido
 commercial-product-case-31	Anuncio retro de Crimson Cola
+commercial-product-case-32	Anuncio veraniego de Sprite en la fuente
 reference-driven-case-1	Actuación de un pianista esqueleto en diorama miniatura
 reference-driven-case-2	Princesa del barco en la tormenta contra el kraken
 reference-driven-case-3	Danza de espadas de sirvientas: Mei contra Coco
@@ -169,6 +171,8 @@ templates-structured-case-21	Guía de duelo en andén
 templates-structured-case-22	Ventanal reventado por la tormenta chibi
 templates-structured-case-23	Vlog de gimnasio tras el entrenamiento
 templates-structured-case-24	Vlog de tocador de belleza con videocámara
+templates-structured-case-25	Paseo por callejón neón con teléfono plegable
+templates-structured-case-26	Vlog de comparación de vestuario entre bastidores
 general-cinematic-case-1	Primer plano de moda con tacones sincronizados al ritmo
 general-cinematic-case-2	Huida en monopatín miniatura dentro de un dormitorio infantil
 general-cinematic-case-3	Duelo de abuelas en Rucker Park
@@ -209,3 +213,4 @@ general-cinematic-case-37	Paseo de un astronauta por un parque de atracciones ab
 general-cinematic-case-38	Viaje en bañera del pato pirata
 general-cinematic-case-39	VHS orbital con la Tierra oscura
 general-cinematic-case-40	Percance MiniDV en el puesto de calabazas
+general-cinematic-case-41	Horror de cumpleaños con muñeca de porcelana

@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Testar Seedance 2.0 no navegador](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Prompts-211 casos únicos](https://img.shields.io/badge/Prompts-211%20casos%20%C3%BAnicos-111111)](README.md)
+[![Prompts-216 casos únicos](https://img.shields.io/badge/Prompts-216%20casos%20%C3%BAnicos-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Bem-vindo ao repositório Awesome Seedance 2.0 Prompts! 🤗
 
-**Este repositório contém 211 casos únicos de prompts do Seedance 2.0 com fonte atribuída para geração de vídeo cinematográfica.**
+**Este repositório contém 216 casos únicos de prompts do Seedance 2.0 com fonte atribuída para geração de vídeo cinematográfica.**
 
 Os prompts são selecionados de publicações públicas de criadores e preservados como material reutilizável.
 
@@ -73,7 +73,7 @@ Recursos de apoio: [exemplos de API](https://github.com/Evolink-AI/Seedance-2.0-
 <a id="statistics"></a>
 ## 📊 Estatísticas
 
-211 casos únicos em 8 categorias, sincronizados em 11 arquivos README.
+216 casos únicos em 8 categorias, sincronizados em 11 arquivos README.
 
 <a id="how-to-use"></a>
 ## 🧭 Como usar este repositório
@@ -133,7 +133,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 42: Guarda-costas derruba atacantes no armazém (by @Rosey_watson)](#action-fantasy-case-42)
   - [Caso 43: Ataque do verme na estação ártica (by @StevieMac03)](#action-fantasy-case-43)
   - [Caso 44: Montagem do andarilho pós-apocalíptico (by @DjajaYerry75)](#action-fantasy-case-44)
-- [🎞️ Cinematic Realism](#cinematic-realism) (11)
+- [🎞️ Cinematic Realism](#cinematic-realism) (12)
   - [Caso 1: Sequência documental do Japão moderno (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Caso 2: Descida de longboard seguindo uma sombra (by @Dheepanratnam)](#cinematic-realism-case-2)
   - [Caso 3: Heroína de guerra despertada por um meteoro (by @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -145,6 +145,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 9: Fuga de buggy na tempestade de areia (by @umesh_ai)](#cinematic-realism-case-9)
   - [Caso 10: Briga transmitida Argentina-Espanha (by @Ankit_patel211)](#cinematic-realism-case-10)
   - [Caso 11: Derrapagem de rali na floresta lamacenta (by @LudovicCreator)](#cinematic-realism-case-11)
+  - [Caso 12: Pegadinha de máscara monstruosa em Paris (by @Ankit_patel211)](#cinematic-realism-case-12)
 - [🥽 POV / FPV](#pov-fpv) (21)
   - [Caso 1: Sequência de perseguição camuflada com câmera no peito (by @genel_ai)](#pov-fpv-case-1)
   - [Caso 2: Vídeo promocional de uma Xangai cyberpunk (by @Adam38363368936)](#pov-fpv-case-2)
@@ -167,7 +168,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 19: POV supersônica por um cânion desértico (by @LudovicCreator)](#pov-fpv-case-19)
   - [Caso 20: Sobrevoo FPV dos fogos de artifício na França (by @LudovicCreator)](#pov-fpv-case-20)
   - [Caso 21: Mergulho FPV no campo de batalha cibernético (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Commercial / Product](#commercial-product) (31)
+- [🏷️ Commercial / Product](#commercial-product) (32)
   - [Caso 1: Palco de dança de trio de anime em estilo de anúncio de perfume (by @ShadeLurk)](#commercial-product-case-1)
   - [Caso 2: Duelo em igreja de fantasia sombria (by @ZaraIrahh)](#commercial-product-case-2)
   - [Caso 3: Duelo no salão de um santuário de fantasia sombria (by @MiraMusic_AI)](#commercial-product-case-3)
@@ -199,6 +200,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 29: Anúncio hero da garrafa na varanda de yoga (by @ou_zhen599)](#commercial-product-case-29)
   - [Caso 30: Revelação do brasão em tricô (by @insmind_com)](#commercial-product-case-30)
   - [Caso 31: Anúncio retrô da Crimson Cola (by @DjajaYerry75)](#commercial-product-case-31)
+  - [Caso 32: Anúncio de verão da Sprite na fonte (by @AIwithSynthia)](#commercial-product-case-32)
 - [🖼️ Reference-Driven](#reference-driven) (23)
   - [Caso 1: Apresentação de pianista esqueleto em diorama miniatura (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Caso 2: Princesa do navio na tempestade contra o kraken (by @applete77191758)](#reference-driven-case-2)
@@ -241,7 +243,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 15: Transformação caligráfica da guardiã da floresta (by @LudovicCreator)](#surreal-vfx-case-15)
   - [Caso 16: Aparição na cerimônia de chá assombrada (by @LudovicCreator)](#surreal-vfx-case-16)
   - [Caso 17: Oráculo do eclipse cósmico (by @itsPixieVerse)](#surreal-vfx-case-17)
-- [📐 Templates & Structured Formats](#templates-structured) (24)
+- [📐 Templates & Structured Formats](#templates-structured) (26)
   - [Caso 1: Afundamento catastrófico de um superporta-aviões (by @johnAGI168)](#templates-structured-case-1)
   - [Caso 2: Reconstrução de fragmentos de memória (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Caso 3: Da planta à realidade: transformação de uma casa térrea (by @craftian_keskin)](#templates-structured-case-3)
@@ -266,7 +268,9 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 22: Janela chibi arrebentada pela tempestade (by @kinovi_ai)](#templates-structured-case-22)
   - [Caso 23: Vlog de academia pós-treino (by @doctorwasif)](#templates-structured-case-23)
   - [Caso 24: Vlog com filmadora na penteadeira de beleza (by @doctorwasif)](#templates-structured-case-24)
-- [🎬 General Cinematic](#general-cinematic) (40)
+  - [Caso 25: Caminhada no beco neon com celular flip (by @itsPixieVerse)](#templates-structured-case-25)
+  - [Caso 26: Vlog de comparação de looks nos bastidores (by @doctorwasif)](#templates-structured-case-26)
+- [🎬 General Cinematic](#general-cinematic) (41)
   - [Caso 1: Close de moda com salto alto sincronizado à batida (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Caso 2: Fuga em mini-skate dentro de um quarto infantil (by @anson7956)](#general-cinematic-case-2)
   - [Caso 3: Confronto de avós no Rucker Park (by @techhalla)](#general-cinematic-case-3)
@@ -307,6 +311,7 @@ Escolha uma categoria, abra um caso com fonte, copie o prompt e substitua apenas
   - [Caso 38: Viagem de banheira do pato pirata (by @CharaspowerAI)](#general-cinematic-case-38)
   - [Caso 39: VHS orbital com a Terra escura (by @LudovicCreator)](#general-cinematic-case-39)
   - [Caso 40: Percalço MiniDV na barraca de abóboras (by @ou_zhen599)](#general-cinematic-case-40)
+  - [Caso 41: Horror de aniversário com boneca de porcelana (by @Ankit_patel211)](#general-cinematic-case-41)
 
 <a id="action-fantasy"></a>
 ## ⚔️ Action / Fantasy (44)
@@ -1255,7 +1260,7 @@ Fast-paced action montage of a lone wanderer sprinting through a post-apocalypti
 ```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Cinematic Realism (11)
+## 🎞️ Cinematic Realism (12)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1480,6 +1485,35 @@ Hyper-real motorsport realism, practical mud physics, natural camera shake, 4K.
 Made in @dreamina_ai
 
 #DreaminaCPP #DreaminaAI
+```
+
+<a id="cinematic-realism-case-12"></a>
+<!-- Case 12: Paris Monster Mask Prank (by @Ankit_patel211) -->
+### Caso 12: [Pegadinha de máscara monstruosa em Paris](https://x.com/Ankit_patel211/status/2081353932849520997) (por [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081353932849520997.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Photorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.
+
+0-3s: [Close Handheld Tracking]
+A young woman in her mid-20s with a completely natural face, no makeup, soft features, wind-tousled hair, wearing a simple 1970s wool coat and scarf, walks past a tiny Paris flower shop. The camera stays close to her profile, shaking naturally with each step. She slows briefly to admire the flowers before looking toward the camera with a quiet, genuine smile.
+
+3-6s: [Fast Unsteady Following Shot]
+She continues through a lively Paris plaza. The handheld camera becomes more energetic, weaving through pedestrians, bouncing with every stride. Children sprint across the square chasing each other, pigeons explode into flight, cyclists pass close, conversations overlap, creating an authentic, chaotic street atmosphere.
+
+6-9s: [Handheld Chase Movement]
+She enters a narrow stone tunnel beneath an old Paris building. The light suddenly becomes dimmer. The camera follows closely behind, footsteps echoing naturally. She hears quick footsteps somewhere ahead and instinctively slows, glancing over her shoulder.
+
+9-12s: [Sudden Reveal]
+As she exits the tunnel, two teenage boys suddenly pop out from behind a stone pillar wearing exaggerated vintage monster masks. She startles instinctively, taking a quick step backward with a surprised gasp. The handheld camera jolts naturally with her movement. The boys immediately remove the masks and burst into laughter, clearly revealing it was an innocent prank. She exhales, laughs at herself, and shakes her head with relief.
+
+12-15s: [Raw Tracking Finale]
+Still smiling, she continues walking across the lively square while the boys laugh in the background before running off. The camera stays close, capturing her genuine laughter, shifting afternoon sunlight across her face, bustling pedestrians, fluttering pigeons, and the vibrant rhythm of everyday 1970s Paris life. The imperfect handheld movement and authentic documentary feel remain uninterrupted until the final frame.
 ```
 
 <a id="pov-fpv"></a>
@@ -1992,7 +2026,7 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 
 <a id="commercial-product"></a>
-## 🏷️ Commercial / Product (31)
+## 🏷️ Commercial / Product (32)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2528,6 +2562,8 @@ prompt 👇
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075600475299447000.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
+Variante do modelo: Seedance 2 Omni
+
 **Prompt:**
 
 ```
@@ -2720,6 +2756,25 @@ Where the yarn moves, the stitches grow. The camera should clearly show the yarn
 
 ```
 A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+<a id="commercial-product-case-32"></a>
+<!-- Case 32: Sprite Fountain Summer Ad (by @AIwithSynthia) -->
+### Caso 32: [Anúncio de verão da Sprite na fonte](https://x.com/AIwithSynthia/status/2081383131668701519) (por [@AIwithSynthia](https://x.com/AIwithSynthia))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-32"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081383131668701519.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and natural expressions throughout. She wears a white fitted crop top, emerald green pleated mini skirt, white sneakers, silver jewelry, and sunglasses resting on her head. Bright summer afternoon, colorful downtown plaza with murals, fountains, palm trees, and skate park. Premium commercial cinematography, vibrant green-and-white Sprite-inspired color palette, photorealistic 4K HDR, 16:9.
+The video opens with her smiling confidently at the camera while balancing an ice-cold Sprite can on her palm. She flips the can into the air, catches it effortlessly, and pops it open with a crisp "pssst!" A cinematic macro shot captures sparkling fizz, crushed ice, lime slices, and condensation glistening in the sunlight as she takes a refreshing sip.
+Instantly energized, she laughs while running through dancing fountains, playfully chases floating bubbles, then joins friends at a skate park where she briefly rides a skateboard and celebrates together. Dynamic handheld tracking shots capture genuine smiles, splashing water, and carefree summer energy.
+The final hero shot shows her stepping toward the camera, holding the chilled Sprite can close to the lens as the fountain sparkles behind her. She smiles and says,
+"Stay cool. Stay fresh."
+Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water, skateboard wheels, footsteps, laughter, birds, gentle breeze, and city ambience. No background music, no subtitles, no logos, no watermarks, and no on-screen text (except the Sprite branding on the can). Premium beverage advertising, realistic liquid physics, cinematic handheld and gimbal movement, shallow depth of field, vibrant summer storytelling.
 ```
 
 <a id="reference-driven"></a>
@@ -4296,7 +4351,7 @@ AAA cinematic fantasy blockbuster, Dune × Elden Ring × Final Fantasy XVI × Ar
 ```
 
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (24)
+## 📐 Templates & Structured Formats (26)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4982,8 +5037,40 @@ STORYBOARD:
 8. Selfie: Waves/thumbs up. "Hair's done—see you guys!"
 ```
 
+<a id="templates-structured-case-25"></a>
+<!-- Case 25: Neon Alley Flip-Phone Walk (by @itsPixieVerse) -->
+### Caso 25: [Caminhada no beco neon com celular flip](https://x.com/itsPixieVerse/status/2081539251947372587) (por [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081539251947372587.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+WORLD: Rain-slicked back-alley at night, palette of deep slate blue wet asphalt and warm golden-amber neon ambient light, volumetric mist, floating rain droplets caught in light, drifting cigarette smoke, layered fog depth.
+CHARACTER: A tall slim man MILO [@Image] with a short dark buzzcut, narrow dark sunglasses, small fine-line tattoos on his neck and cheekbone, intricate dark tattoos covering his hands, wearing a massive oversized black leather bomber jacket, unbuttoned ivory shirt, wide charcoal trousers, and chunky loafers, with elongated stylized fashion proportions and painterly matte skin with brush-stroke shading.
+ACTION (one continuous 15s moment): Opens mid-moment with him leaning casually against a classic dark vintage sedan in the rain, hands in jacket pockets. He steps forward slowly into the light, pulls one tattooed hand out to flip open a vintage flip-phone, checks a glowing amber message, flips it shut with his thumb, and looks up directly past the camera with a calm, unbothered deadpan smirk.
+CAMERA: One continuous low-angle tracking shot in front of him moving backward as he walks, then smoothly speed-ramps into a tight slow push-in on his face and sunglasses as he flips the phone. No cuts.
+Weighty natural character animation, heavy leather jacket and cloth reacting to momentum and wind, 24fps filmic motion, shallow depth of field. Final frame holds on a cool hero shot of him looking down the camera lens.
+```
+
+<a id="templates-structured-case-26"></a>
+<!-- Case 26: Backstage Outfit Comparison Vlog (by @doctorwasif) -->
+### Caso 26: [Vlog de comparação de looks nos bastidores](https://x.com/doctorwasif/status/2081353850779550056) (por [@doctorwasif](https://x.com/doctorwasif))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081353850779550056.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.
+```
+
 <a id="general-cinematic"></a>
-## 🎬 General Cinematic (40)
+## 🎬 General Cinematic (41)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5822,6 +5909,19 @@ Filmed with a home-use MiniDV camera in the early 2000s; the friend unintentiona
 Sound: Authentic market ambient sounds—faint, distant conversations, footsteps, the gentle rustling of awnings, the rustling of plastic bags, the dull thud of a pumpkin being placed back into the wicker basket, her sharp intake of breath, and her friend’s hushed laughter; Faint background music from a radio at a distant stall, with lyrics too faint to make out. No narration, no subtitles, no post-production soundtrack, and no exaggerated sound effects.
 ```
 
+<a id="general-cinematic-case-41"></a>
+<!-- Case 41: Porcelain Doll Birthday Horror (by @Ankit_patel211) -->
+### Caso 41: [Horror de aniversário com boneca de porcelana](https://x.com/Ankit_patel211/status/2081453371962384886) (por [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-41"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081453371962384886.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+
+```
 <a id="related-repositories"></a>
 ## 🔗 Repositórios relacionados
 

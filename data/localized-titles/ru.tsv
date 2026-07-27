@@ -53,6 +53,7 @@ cinematic-realism-case-8	Сцена маяка на штормовом побе�
 cinematic-realism-case-9	Побег на багги сквозь песчаную бурю
 cinematic-realism-case-10	Теледрака Аргентина против Испании
 cinematic-realism-case-11	Ралли-дрифт по грязному лесу
+cinematic-realism-case-12	Парижский розыгрыш с маской монстра
 pov-fpv-case-1	Погоня в камуфляже с нагрудной камерой
 pov-fpv-case-2	Динамичный ролик о киберпанковском Шанхае
 pov-fpv-case-3	Согласованный экшен-промпт о проклятом самурае
@@ -105,6 +106,7 @@ commercial-product-case-28	Рекламный ролик курортного к
 commercial-product-case-29	Героический ролик бутылки на йога-террасе
 commercial-product-case-30	Появление вязаного герба
 commercial-product-case-31	Ретро-реклама багряной колы
+commercial-product-case-32	Летняя реклама Sprite у фонтана
 reference-driven-case-1	Выступление пианиста-скелета в миниатюрной диораме
 reference-driven-case-2	Принцесса на корабле в шторме против кракена
 reference-driven-case-3	Танец клинков служанок: Мэй против Коко
@@ -169,6 +171,8 @@ templates-structured-case-21	Битмап дуэли на платформе
 templates-structured-case-22	Chibi и штормовой взрыв окна
 templates-structured-case-23	Влог из зала после тренировки
 templates-structured-case-24	Влог на винтажную камеру у туалетного столика
+templates-structured-case-25	Прогулка по неоновому переулку с раскладушкой
+templates-structured-case-26	Бэкстейдж-влог со сравнением нарядов
 general-cinematic-case-1	Модный крупный план каблуков в такт музыке
 general-cinematic-case-2	Побег на мини-скейтборде в детской спальне
 general-cinematic-case-3	Противостояние бабушек в Ракер-парке
@@ -209,3 +213,4 @@ general-cinematic-case-37	Прогулка астронавта по забро�
 general-cinematic-case-38	Плавание пиратской утки по ванне
 general-cinematic-case-39	Орбитальный VHS с тёмной Землёй
 general-cinematic-case-40	MiniDV-казус у тыквенной лавки
+general-cinematic-case-41	День рождения с фарфоровой куклой

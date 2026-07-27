@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 211,
+  "case_count": 216,
   "categories": [
     {
       "slug": "action-fantasy",
@@ -12,7 +12,7 @@
     {
       "slug": "cinematic-realism",
       "name": "🎞️ Cinematic Realism",
-      "count": 11
+      "count": 12
     },
     {
       "slug": "pov-fpv",
@@ -22,7 +22,7 @@
     {
       "slug": "commercial-product",
       "name": "🏷️ Commercial / Product",
-      "count": 31
+      "count": 32
     },
     {
       "slug": "reference-driven",
@@ -37,12 +37,12 @@
     {
       "slug": "templates-structured",
       "name": "📐 Templates & Structured Formats",
-      "count": 24
+      "count": 26
     },
     {
       "slug": "general-cinematic",
       "name": "🎬 General Cinematic",
-      "count": 40
+      "count": 41
     }
   ],
   "cases": [
@@ -731,6 +731,20 @@
       "prompt_text": "A rally car races through a muddy forest road during overcast daylight. The camera is positioned low near the track, lens splashed with mud, trees close to the road, engine echoing between trunks.\nAt the 2-second mark, the car enters a tight corner too fast, slides sideways, wheels spinning, mud spraying violently behind. The suspension compresses over ruts, the driver corrects, and the car powers out of the bend without losing control. The movement stays grounded, fast, dirty, and believable.\nFinal moment: the car disappears into the forest, leaving mud and exhaust hanging in the air.\nHyper-real motorsport realism, practical mud physics, natural camera shake, 4K.\n\nMade in @dreamina_ai\n\n#DreaminaCPP #DreaminaAI"
     },
     {
+      "id": "cinematic-realism-case-12",
+      "category": "🎞️ Cinematic Realism",
+      "case_number": 12,
+      "title": "Paris Monster Mask Prank",
+      "source_url": "https://x.com/Ankit_patel211/status/2081353932849520997",
+      "prompt_source_url": "https://x.com/Ankit_patel211/status/2081353932849520997",
+      "author_handle": "Ankit_patel211",
+      "author_url": "https://x.com/Ankit_patel211",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081353932849520997.jpg",
+      "prompt_sha256": "931569d239ba9acba0f66658aeef23c0355c29e76004fb16f4a9de430e6a47ef",
+      "model_variant": null,
+      "prompt_text": "Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Photorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.\n\n0-3s: [Close Handheld Tracking]\nA young woman in her mid-20s with a completely natural face, no makeup, soft features, wind-tousled hair, wearing a simple 1970s wool coat and scarf, walks past a tiny Paris flower shop. The camera stays close to her profile, shaking naturally with each step. She slows briefly to admire the flowers before looking toward the camera with a quiet, genuine smile.\n\n3-6s: [Fast Unsteady Following Shot]\nShe continues through a lively Paris plaza. The handheld camera becomes more energetic, weaving through pedestrians, bouncing with every stride. Children sprint across the square chasing each other, pigeons explode into flight, cyclists pass close, conversations overlap, creating an authentic, chaotic street atmosphere.\n\n6-9s: [Handheld Chase Movement]\nShe enters a narrow stone tunnel beneath an old Paris building. The light suddenly becomes dimmer. The camera follows closely behind, footsteps echoing naturally. She hears quick footsteps somewhere ahead and instinctively slows, glancing over her shoulder.\n\n9-12s: [Sudden Reveal]\nAs she exits the tunnel, two teenage boys suddenly pop out from behind a stone pillar wearing exaggerated vintage monster masks. She startles instinctively, taking a quick step backward with a surprised gasp. The handheld camera jolts naturally with her movement. The boys immediately remove the masks and burst into laughter, clearly revealing it was an innocent prank. She exhales, laughs at herself, and shakes her head with relief.\n\n12-15s: [Raw Tracking Finale]\nStill smiling, she continues walking across the lively square while the boys laugh in the background before running off. The camera stays close, capturing her genuine laughter, shifting afternoon sunlight across her face, bustling pedestrians, fluttering pigeons, and the vibrant rhythm of everyday 1970s Paris life. The imperfect handheld movement and authentic documentary feel remain uninterrupted until the final frame."
+    },
+    {
       "id": "pov-fpv-case-1",
       "category": "🥽 POV / FPV",
       "case_number": 1,
@@ -1370,6 +1384,20 @@
       "prompt_sha256": "d18ae121d1df0a60d8ecb4a30bfcbf5ae867dc92ad4e8b6fb2cce026cdad3170",
       "model_variant": null,
       "prompt_text": "A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic."
+    },
+    {
+      "id": "commercial-product-case-32",
+      "category": "🏷️ Commercial / Product",
+      "case_number": 32,
+      "title": "Sprite Fountain Summer Ad",
+      "source_url": "https://x.com/AIwithSynthia/status/2081383131668701519",
+      "prompt_source_url": "https://x.com/AIwithSynthia/status/2081383131668701519",
+      "author_handle": "AIwithSynthia",
+      "author_url": "https://x.com/AIwithSynthia",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081383131668701519.jpg",
+      "prompt_sha256": "0c595944252255242f7582ab8c128bcc4dd56d67d47e6424020dece6a9b4bfb3",
+      "model_variant": null,
+      "prompt_text": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and natural expressions throughout. She wears a white fitted crop top, emerald green pleated mini skirt, white sneakers, silver jewelry, and sunglasses resting on her head. Bright summer afternoon, colorful downtown plaza with murals, fountains, palm trees, and skate park. Premium commercial cinematography, vibrant green-and-white Sprite-inspired color palette, photorealistic 4K HDR, 16:9.\nThe video opens with her smiling confidently at the camera while balancing an ice-cold Sprite can on her palm. She flips the can into the air, catches it effortlessly, and pops it open with a crisp \"pssst!\" A cinematic macro shot captures sparkling fizz, crushed ice, lime slices, and condensation glistening in the sunlight as she takes a refreshing sip.\nInstantly energized, she laughs while running through dancing fountains, playfully chases floating bubbles, then joins friends at a skate park where she briefly rides a skateboard and celebrates together. Dynamic handheld tracking shots capture genuine smiles, splashing water, and carefree summer energy.\nThe final hero shot shows her stepping toward the camera, holding the chilled Sprite can close to the lens as the fountain sparkles behind her. She smiles and says,\n\"Stay cool. Stay fresh.\"\nNatural ambient audio only: can opening, fizzy bubbles, splashing fountain water, skateboard wheels, footsteps, laughter, birds, gentle breeze, and city ambience. No background music, no subtitles, no logos, no watermarks, and no on-screen text (except the Sprite branding on the can). Premium beverage advertising, realistic liquid physics, cinematic handheld and gimbal movement, shallow depth of field, vibrant summer storytelling."
     },
     {
       "id": "reference-driven-case-1",
@@ -2163,6 +2191,34 @@
       "prompt_text": "CAMERA: DV 16mm tape camcorder, handheld POV by CHASE, occasionally propped on vanity. Natural shake, imperfect framing, delayed focus, clumsy zooms, face occasionally cropped. Camera never visible.\n\nLOOK: Soft blurry tape, faint tape noise, bloomed vanity bulbs, flickering auto-exposure, muted contrast, natural skin.\n\nSTYLE: Casual beauty vlog. Relaxed, chatty, slow pacing with quiet mirror moments.\n\nCHARACTER: CHASE, Korean idol (20s), long straight black hair, dewy skin, coral lips, robe/makeup cape. Unseen stylist's hands occasionally enter frame.\n\nSETTING: Bulb-lit vanity, styling chair, hair tools/products on counter, handheld mirror.\n\nSTORYBOARD:\n1. Propped: Waves. \"Hey guys, getting my hair done.\"\n2. Handheld CU: Hair tug. \"This always takes forever.\"\n3. Insert: Stylist clips hair. Ambient only.\n4. Propped: Smiles. \"We're getting to the good part.\"\n5. Handheld CU: Watches mirror, smiles. Ambient.\n6. Handheld: Checks back with mirror. \"Let me see the back—\"\n7. Tight: Grins. \"I really like this.\"\n8. Selfie: Waves/thumbs up. \"Hair's done—see you guys!\""
     },
     {
+      "id": "templates-structured-case-25",
+      "category": "📐 Templates & Structured Formats",
+      "case_number": 25,
+      "title": "Neon Alley Flip-Phone Walk",
+      "source_url": "https://x.com/itsPixieVerse/status/2081539251947372587",
+      "prompt_source_url": "https://x.com/itsPixieVerse/status/2081539251947372587",
+      "author_handle": "itsPixieVerse",
+      "author_url": "https://x.com/itsPixieVerse",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081539251947372587.jpg",
+      "prompt_sha256": "ea10e633805ea62e1b7148e9efa2871b47f44fdaf7e6dc3597aa81aa4e8916a6",
+      "model_variant": null,
+      "prompt_text": "WORLD: Rain-slicked back-alley at night, palette of deep slate blue wet asphalt and warm golden-amber neon ambient light, volumetric mist, floating rain droplets caught in light, drifting cigarette smoke, layered fog depth.\nCHARACTER: A tall slim man MILO [@Image] with a short dark buzzcut, narrow dark sunglasses, small fine-line tattoos on his neck and cheekbone, intricate dark tattoos covering his hands, wearing a massive oversized black leather bomber jacket, unbuttoned ivory shirt, wide charcoal trousers, and chunky loafers, with elongated stylized fashion proportions and painterly matte skin with brush-stroke shading.\nACTION (one continuous 15s moment): Opens mid-moment with him leaning casually against a classic dark vintage sedan in the rain, hands in jacket pockets. He steps forward slowly into the light, pulls one tattooed hand out to flip open a vintage flip-phone, checks a glowing amber message, flips it shut with his thumb, and looks up directly past the camera with a calm, unbothered deadpan smirk.\nCAMERA: One continuous low-angle tracking shot in front of him moving backward as he walks, then smoothly speed-ramps into a tight slow push-in on his face and sunglasses as he flips the phone. No cuts.\nWeighty natural character animation, heavy leather jacket and cloth reacting to momentum and wind, 24fps filmic motion, shallow depth of field. Final frame holds on a cool hero shot of him looking down the camera lens."
+    },
+    {
+      "id": "templates-structured-case-26",
+      "category": "📐 Templates & Structured Formats",
+      "case_number": 26,
+      "title": "Backstage Outfit Comparison Vlog",
+      "source_url": "https://x.com/doctorwasif/status/2081353850779550056",
+      "prompt_source_url": "https://x.com/doctorwasif/status/2081353850779550056",
+      "author_handle": "doctorwasif",
+      "author_url": "https://x.com/doctorwasif",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081353850779550056.jpg",
+      "prompt_sha256": "38886d51cd56f735b188e04383742c2ff852509d6106a36ba3b64525d0a7088c",
+      "model_variant": null,
+      "prompt_text": "DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn (\"Okay, first outfit—let's see.\"), smooths fabric (\"I really like this fit.\"), stylist pins waist (ambient only), playful spin (\"Moves pretty well!\"), quick change to outfit 2 (\"Now let's compare.\"), compares (\"More elegant, but the first had better movement.\"), close-up thinking (\"I genuinely can't decide.\"), selfie spin ending (\"I'll let the team decide—see you on stage!\"). Camcorder never visible."
+    },
+    {
       "id": "general-cinematic-case-1",
       "category": "🎬 General Cinematic",
       "case_number": 1,
@@ -2647,6 +2703,20 @@
       "prompt_sha256": "ffc51fde05c630137687864ca9a19f75313160f82466cd9c082525ca7075fbf2",
       "model_variant": null,
       "prompt_text": "Main Character: An adult East Asian woman with medium-length black hair tied in a low ponytail, with natural bangs framing her forehead and a small, dark green hair clip on the left side. She wears a warm orange-red cotton-linen short-sleeved square-neck shirt with naturally curled cuffs, the hem fully tucked into off-white high-waisted straight-leg pants; dark brown low-top canvas sneakers, light beige short socks, small gold stud earrings, and a thin gold bracelet. No necklace, no hat, no jacket, no bag, no cell phone. Maintains the same identity, hairstyle, clothing, and accessories throughout.\n\nSetting: A typical open-air market fruit stall on a sunny day. In the foreground is a stationary wicker pumpkin basket containing only one large, round, deep-green pumpkin; to the right of the basket is a small pile of neatly arranged oranges, topped by an off-white awning. The girl walks down the market aisle toward the pumpkin basket, while her friend walks behind her on her right, casually filming as they go. The background consists only of blurred stalls and passing crowds; no clear shots of the vendor or a second person’s face appear.\n\nFilmed with a home-use MiniDV camera in the early 2000s; the friend unintentionally captured a genuine, minor embarrassing moment. The footage features strong yet natural handheld shaking, compositional shifts, subjects occasionally approaching the edge of the frame, turning around, and a slight delay in refocusing on the subject; autofocus jumps between her shoes, the pumpkins, the oranges in the foreground, and her face; exposure fluctuates slightly due to the interplay of sunlight and the shade from the awning; low contrast, slight color fading, soft details, digital compression noise, and natural motion blur. Stabilizers, cinematic color grading, precise dolly shots, and polished vlog compositions are strictly prohibited. The photographer, their hands, and the camcorder must not appear in focus; if they are partially obscured by the frame’s edges, they must be intentionally out of focus.\n\n00:00–00:03: The girl, with her hands empty, walks down the aisle toward the fruit stand and stops in front of a wicker basket, looking down at the pumpkin. Her friend follows her from the right rear; the camera first pans slightly off-center to her shoes and the ground, then lifts up a half-frame late to find her.\n\n00:03–00:06: She squats down, cupping the left and right sides of this single large pumpkin with both hands, and slowly lifts it out of the wicker basket; as she stands up, the pumpkin remains close to her abdomen, her arms steady, without the pumpkin rotating or rolling.\n\n00:06–00:09: She originally intended to turn around to gauge its weight but discovers the pumpkin is much heavier than expected. Her arms dropped naturally, her shoulders hunched, and she immediately bent her knees, pulling the pumpkin close to her body. She took a half-step back with her right foot to steady herself, keeping her left foot in place; her expression shifted from confidence to a momentary look of surprise. Her friend, hearing her sharp intake of breath, hurriedly stepped back, and the camera, which had briefly framed the shot too low, refocused to capture her full figure. She didn’t fall, didn’t bump into anything, and didn’t let the pumpkin hit the ground.\n\n00:09–00:12: She stopped moving, bent her knees along the same path, and placed the pumpkin back in the center of the same wicker basket. Only after confirming it was stable did she release her hands. The pumpkin remained intact, undamaged, and did not roll out of the basket. After standing up, she gently shook her right wrist, and her furrowed brow relaxed.\n\n00:12–00:15: Feigning composure, she turns her head to look at the oranges beside her. Upon hearing her friend’s muffled laughter, she turns back and glares at the camera, pursing her lips but still unable to suppress a smile. Only then does her friend briefly zoom in manually—a bit too late and slightly too far—causing the focus to first land incorrectly on the oranges in the foreground before returning to her face; The camera then pans down toward her shoes, the wicker basket, and the pumpkin, and as it moves, the screen suddenly goes black as if by accident.\n\nSound: Authentic market ambient sounds—faint, distant conversations, footsteps, the gentle rustling of awnings, the rustling of plastic bags, the dull thud of a pumpkin being placed back into the wicker basket, her sharp intake of breath, and her friend’s hushed laughter; Faint background music from a radio at a distant stall, with lyrics too faint to make out. No narration, no subtitles, no post-production soundtrack, and no exaggerated sound effects."
+    },
+    {
+      "id": "general-cinematic-case-41",
+      "category": "🎬 General Cinematic",
+      "case_number": 41,
+      "title": "Porcelain Doll Birthday Horror",
+      "source_url": "https://x.com/Ankit_patel211/status/2081453371962384886",
+      "prompt_source_url": "https://x.com/Ankit_patel211/status/2081453371962384886",
+      "author_handle": "Ankit_patel211",
+      "author_url": "https://x.com/Ankit_patel211",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081453371962384886.jpg",
+      "prompt_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "model_variant": null,
+      "prompt_text": ""
     }
   ]
 }

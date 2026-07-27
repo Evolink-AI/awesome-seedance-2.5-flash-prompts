@@ -53,6 +53,7 @@ cinematic-realism-case-8	嵐の海岸灯台シーケンス
 cinematic-realism-case-9	砂嵐を突っ切るバギー脱出
 cinematic-realism-case-10	アルゼンチン対スペイン乱闘中継
 cinematic-realism-case-11	泥濘の森ラリー・ドリフト
+cinematic-realism-case-12	パリの怪物マスクいたずら
 pov-fpv-case-1	胸部カメラによる迷彩チェイス
 pov-fpv-case-2	上海サイバーパンク都市のショーリール
 pov-fpv-case-3	呪われた侍の一貫性アクションプロンプト
@@ -105,6 +106,7 @@ commercial-product-case-28	高級リゾートのヨガマット広告
 commercial-product-case-29	ヨガテラスのボトル・ヒーロー広告
 commercial-product-case-30	編み込み紋章のリビール
 commercial-product-case-31	深紅のコーラのレトロ広告
+commercial-product-case-32	スプライト噴水サマー広告
 reference-driven-case-1	骸骨ピアニストのミニチュアジオラマ演奏
 reference-driven-case-2	嵐の船上の王女対クラーケン
 reference-driven-case-3	メイド剣舞：メイ対ココ
@@ -169,6 +171,8 @@ templates-structured-case-21	駅ホーム決闘ビートマップ
 templates-structured-case-22	ちびキャラの嵐の窓吹き飛び
 templates-structured-case-23	ワークアウト後のジムVlog
 templates-structured-case-24	ドレッサー前の美容系カムコーダーVlog
+templates-structured-case-25	ネオン路地の折りたたみ携帯ウォーク
+templates-structured-case-26	舞台裏衣装比較Vlog
 general-cinematic-case-1	ハイヒールとビートが同期するファッション接写
 general-cinematic-case-2	子ども部屋でミニスケートボード脱出
 general-cinematic-case-3	ラッカー・パークのおばあちゃん対決
@@ -209,3 +213,4 @@ general-cinematic-case-37	廃遊園地を歩く宇宙飛行士
 general-cinematic-case-38	海賊アヒルのバスタブ航海
 general-cinematic-case-39	闇の地球を映す軌道基地VHS
 general-cinematic-case-40	かぼちゃ屋台の MiniDV ハプニング
+general-cinematic-case-41	磁器人形の誕生日ホラー
