@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![브라우저에서 Seedance 2.0 체험](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![프롬프트-고유 사례 216개](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EA%B3%A0%EC%9C%A0%20%EC%82%AC%EB%A1%80%20216%EA%B0%9C-111111)](README.md)
+[![프롬프트-고유 사례 219개](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EA%B3%A0%EC%9C%A0%20%EC%82%AC%EB%A1%80%20219%EA%B0%9C-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts 저장소에 오신 것을 환영합니다! 🤗
 
-**이 저장소에는 출처가 표시된 Seedance 2.0 영상 생성 프롬프트 216개가 있습니다.**
+**이 저장소에는 출처가 표시된 Seedance 2.0 영상 생성 프롬프트 219개가 있습니다.**
 
 공개된 크리에이터 게시물에서 프롬프트를 선별해 재사용 가능한 자료로 보존합니다.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 통계
 
-216개의 고유 사례를 8개 카테고리로 구성하고 11개 README에 동기화했습니다.
+219개의 고유 사례를 8개 카테고리로 구성하고 11개 README에 동기화했습니다.
 
 <a id="how-to-use"></a>
 ## 🧭 이 저장소 사용법
@@ -88,7 +88,7 @@ curl --request GET \
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (44)
+- [⚔️ Action / Fantasy](#action-fantasy) (45)
   - [사례 1: 거리 랩 뮤직비디오 공연 (by @songguoxiansen)](#action-fantasy-case-1)
   - [사례 2: 검은 고양이의 사막 무술 대결 (by @nopinduoduo)](#action-fantasy-case-2)
   - [사례 3: 실사판 호흡 기술 결투 (by @johnAGI168)](#action-fantasy-case-3)
@@ -133,6 +133,7 @@ curl --request GET \
   - [사례 42: 창고 경호원 제압전 (by @Rosey_watson)](#action-fantasy-case-42)
   - [사례 43: 북극 기지 웜 습격 (by @StevieMac03)](#action-fantasy-case-43)
   - [사례 44: 포스트아포칼립스 방랑자 몽타주 (by @DjajaYerry75)](#action-fantasy-case-44)
+  - [사례 45: 벚꽃 검격 충격파 (by @MO_IAI)](#action-fantasy-case-45)
 - [🎞️ Cinematic Realism](#cinematic-realism) (12)
   - [사례 1: 현대 일본 다큐멘터리 시퀀스 (by @kuranoayashi)](#cinematic-realism-case-1)
   - [사례 2: 그림자를 추적하는 롱보드 내리막 (by @Dheepanratnam)](#cinematic-realism-case-2)
@@ -225,7 +226,7 @@ curl --request GET \
   - [사례 21: 가로등 아래 빗속 재회 (by @umesh_ai)](#reference-driven-case-21)
   - [사례 22: 곤극 분장실 원테이크 변신 (by @ou_zhen599)](#reference-driven-case-22)
   - [사례 23: 산 정상의 드래곤 이륙 (by @minuitIA)](#reference-driven-case-23)
-- [🌀 Surreal / VFX](#surreal-vfx) (17)
+- [🌀 Surreal / VFX](#surreal-vfx) (18)
   - [사례 1: 무중력 카타나 전투 (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [사례 2: 구름 속 고래의 초현실적 서사시 (by @chaosdotjpg)](#surreal-vfx-case-2)
   - [사례 3: 심해 잠수부의 해양 생물 변신 (by @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -243,7 +244,8 @@ curl --request GET \
   - [사례 15: 숲의 수호자 서예 변신 (by @LudovicCreator)](#surreal-vfx-case-15)
   - [사례 16: 저주받은 다도회 망령 (by @LudovicCreator)](#surreal-vfx-case-16)
   - [사례 17: 우주 일식의 신탁자 (by @itsPixieVerse)](#surreal-vfx-case-17)
-- [📐 Templates & Structured Formats](#templates-structured) (26)
+  - [사례 18: 사이키델릭 현실 균열 (by @Ankit_patel211)](#surreal-vfx-case-18)
+- [📐 Templates & Structured Formats](#templates-structured) (27)
   - [사례 1: 초대형 항공모함의 재앙적 침몰 (by @johnAGI168)](#templates-structured-case-1)
   - [사례 2: 기억 파편 재구성 (by @TechTalkNAVI)](#templates-structured-case-2)
   - [사례 3: 설계도에서 현실로 — 단층 주택 변신 (by @craftian_keskin)](#templates-structured-case-3)
@@ -270,6 +272,7 @@ curl --request GET \
   - [사례 24: 뷰티 화장대 캠코더 브이로그 (by @doctorwasif)](#templates-structured-case-24)
   - [사례 25: 네온 골목 플립폰 워크 (by @itsPixieVerse)](#templates-structured-case-25)
   - [사례 26: 백스테이지 의상 비교 브이로그 (by @doctorwasif)](#templates-structured-case-26)
+  - [사례 27: 아이돌의 하루 몽타주 (by @doctorwasif)](#templates-structured-case-27)
 - [🎬 General Cinematic](#general-cinematic) (41)
   - [사례 1: 하이힐과 비트가 동기화된 패션 클로즈업 (by @TingFengAIAI)](#general-cinematic-case-1)
   - [사례 2: 아이 방에서 미니 스케이트보드 탈출 (by @anson7956)](#general-cinematic-case-2)
@@ -314,7 +317,7 @@ curl --request GET \
   - [사례 41: 도자기 인형 생일 호러 (by @Ankit_patel211)](#general-cinematic-case-41)
 
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantasy (44)
+## ⚔️ Action / Fantasy (45)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1257,6 +1260,24 @@ A cinematic 15-second action sequence set inside a dark, gritty industrial wareh
 
 ```
 Fast-paced action montage of a lone wanderer sprinting through a post-apocalyptic wasteland inspired by Fallout. Rapid whip-pan cuts showing intense combat in various desolate locations: sprinting through crumbling retro-futuristic city ruins while dodging gunfire from raiders, battling mutant creatures in an ash-covered mountain pass, firing heavy plasma weapons inside a flickering ruined diner, and making a final heroic stand against giant monstrosities on an irradiated coastline shipwreck site. Aggressive dynamic tracking camera, fast motion, intense action cuts, photorealistic gritty combat effects, dusty amber lighting, high-energy cinematic blockbuster style.
+```
+
+<a id="action-fantasy-case-45"></a>
+<!-- Case 45: Cherry Blossom Blade Shockwave (by @MO_IAI) -->
+### 사례 45: [벚꽃 검격 충격파](https://x.com/MO_IAI/status/2081748693632622638) (작성자 [@MO_IAI](https://x.com/MO_IAI))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-45"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081748693632622638.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+0:00-0:03 - The swordswoman stands in complete stillness against a muted blue backdrop, pink cherry blossom petals beginning to swirl gently around her blade and shoulders.
+0:03-0:06 - She launches forward in a single compressed burst, her body tearing through the space as streams of pink and rose-toned petal trails erupt and stretch behind her in motion.
+0:06-0:09 - Her blade cuts through the frame in a decisive arc, the strike igniting a circular shockwave explosion made entirely of scattering pink flower petals and blossom fragments.
+0:09-0:12 - Delayed trails of soft pink petals ripple outward in sequence, tracing the full invisible path of the strike through the air like blooming afterimages.
+0:12-0:15 - The petals slow and drift downward in golden light, settling around her as she comes to rest, blade still raised, pink blossoms clinging to her hair and shoulders in the final still frame.
 ```
 
 <a id="cinematic-realism"></a>
@@ -2561,8 +2582,6 @@ prompt 👇
 | 결과 |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075600475299447000.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
-
-모델 변형: Seedance 2 Omni
 
 **프롬프트:**
 
@@ -3895,7 +3914,7 @@ No text, no title, no caption, no logo, no interface and no watermark, no music,
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Surreal / VFX (17)
+## 🌀 Surreal / VFX (18)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -4350,8 +4369,22 @@ Style:
 AAA cinematic fantasy blockbuster, Dune × Elden Ring × Final Fantasy XVI × Arcane × Love Death + Robots, divine celestial aesthetic, museum-quality composition, emotionally overwhelming scale, premium visual effects, pure visual storytelling, no dialogue.
 ```
 
+<a id="surreal-vfx-case-18"></a>
+<!-- Case 18: Psychedelic Reality Fracture (by @Ankit_patel211) -->
+### 사례 18: [사이키델릭 현실 균열](https://x.com/Ankit_patel211/status/2081643072178557070) (작성자 [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081643072178557070.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+Theme: Reality fragmentation, abstract cosmic nightmare with elegant beauty Prompt: Reality fractures into thousands of floating dimensions connected by enormous twisting ribbons of light. Infinite mirrors reflect alternate universes where gravity, time, and perspective constantly transform. Gigantic human statues dissolve into flocks of birds before reassembling as celestial architecture. Floating clocks leak galaxies instead of sand while black holes bloom like flowers. Endless stairways spiral around shattered moons suspended inside transparent oceans. Massive abstract sculptures made from liquid chrome continuously morph into impossible forms. The camera performs dynamic cinematic movements with seamless drone dives, rotating orbit shots, impossible dolly zooms, and slow-motion transitions between collapsing realities. Rich monochromatic shadows contrast with bursts of electric blue, neon orange, emerald green, and cosmic purple. Dense volumetric atmosphere, cinematic haze, distorted reflections, chaotic textures, dreamlike visual effects, avant-garde surreal design language, hyper-realistic rendering, award-winning experimental cinema aesthetic, emotionally mysterious, visually overwhelming, ultra-detailed IMAX quality.
+```
+
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (26)
+## 📐 Templates & Structured Formats (27)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -5067,6 +5100,53 @@ Weighty natural character animation, heavy leather jacket and cloth reacting to 
 
 ```
 DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.
+```
+
+<a id="templates-structured-case-27"></a>
+<!-- Case 27: Idol Day-in-Life Montage (by @doctorwasif) -->
+### 사례 27: [아이돌의 하루 몽타주](https://x.com/doctorwasif/status/2081716168180809949) (작성자 [@doctorwasif](https://x.com/doctorwasif))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081716168180809949.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+**CAMERA:**
+DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → studio fluorescents → bright stage lights).
+
+**STYLE:**
+Fast-paced time-lapse montage feel — quick cuts stitched together across locations, sped-up transitional movement between them. Instead of synced dialogue, her voice plays as reflective voiceover narration over the visuals, tying the day together. Energy builds progressively from sleepy morning to high-adrenaline stage finish.
+
+**Character**
+
+CHASE — Korean idol, 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes naturally per location: cozy loungewear at the dorm, casual comfortable clothes in the van, modest athletic wear in the practice room, and a stage outfit for the final segment — each fully covering arms and torso.
+
+**Setting Progression**
+
+Dorm room (morning) → van interior (daytime) → practice room (afternoon) → backstage/stage (night).
+
+**Storyboard (voiceover narration over visuals)**
+
+1. *(~2s, dorm, propped camera, sleepy morning light)* She stretches, rubbing her eyes, hair messy. VOICEOVER (CHASE): "Every day starts the same way — way too early."
+
+2. *(~2s, dorm, handheld, quick motion)* She moves through her morning routine in fast, sped-up cuts — brushing hair, grabbing a bag. VOICEOVER (CHASE): "Get ready, grab everything, and go."
+
+3. *(~2s, van interior, handheld, window light)* She sits by the window, phone in hand, soft daylight passing over her face. VOICEOVER (CHASE): "The van's basically my second home at this point."
+
+4. *(~1.5s, van, macro insert)* Close-up on her hand adjusting a playlist on her phone, light flickering through the window. No narration — ambient road sound only.
+
+5. *(~2s, practice room, handheld, energetic)* She's mid-movement rehearsing choreography, camera catching quick glimpses of the mirror wall. VOICEOVER (CHASE): "Then it's hours of practice till my legs give out."
+
+6. *(~2s, practice room, propped camera, water break)* She wipes sweat, drinks water, breathless but smiling. VOICEOVER (CHASE): "But somehow I never get tired of this part."
+
+7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): "And then suddenly, it's showtime."
+
+8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): "This is the part that makes all of it worth it."
 ```
 
 <a id="general-cinematic"></a>
@@ -5922,6 +6002,7 @@ Sound: Authentic market ambient sounds—faint, distant conversations, footsteps
 ```
 
 ```
+
 <a id="related-repositories"></a>
 ## 🔗 관련 저장소
 
