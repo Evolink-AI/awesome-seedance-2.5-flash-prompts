@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Попробовать Seedance 2.0 в браузере](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Промпты-219 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-219%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
+[![Промпты-224 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-224%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Добро пожаловать в Awesome Seedance 2.0 Prompts! 🤗
 
-**Репозиторий содержит 219 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
+**Репозиторий содержит 224 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
 
 Промпты отобраны из публичных публикаций авторов и сохранены как повторно используемые материалы.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 Статистика
 
-219 уникальных примеров в 8 категориях, синхронизированных в 11 README-файлах.
+224 уникальных примеров в 8 категориях, синхронизированных в 11 README-файлах.
 
 <a id="how-to-use"></a>
 ## 🧭 Как пользоваться репозиторием
@@ -134,7 +134,7 @@ curl --request GET \
   - [Пример 43: Атака червя на арктическую станцию (by @StevieMac03)](#action-fantasy-case-43)
   - [Пример 44: Монтаж странника в постапокалипсисе (by @DjajaYerry75)](#action-fantasy-case-44)
   - [Пример 45: Ударная Волна Клинка Сакуры (by @MO_IAI)](#action-fantasy-case-45)
-- [🎞️ Cinematic Realism](#cinematic-realism) (12)
+- [🎞️ Cinematic Realism](#cinematic-realism) (13)
   - [Пример 1: Документальная сцена о современной Японии (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Пример 2: Спуск на лонгборде по следу тени (by @Dheepanratnam)](#cinematic-realism-case-2)
   - [Пример 3: Воительница, пробуждённая метеором (by @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -147,6 +147,7 @@ curl --request GET \
   - [Пример 10: Теледрака Аргентина против Испании (by @Ankit_patel211)](#cinematic-realism-case-10)
   - [Пример 11: Ралли-дрифт по грязному лесу (by @LudovicCreator)](#cinematic-realism-case-11)
   - [Пример 12: Парижский розыгрыш с маской монстра (by @Ankit_patel211)](#cinematic-realism-case-12)
+  - [Пример 13: Уличная прогулка по Парижу 1970-х (by @hakimieiqbal)](#cinematic-realism-case-13)
 - [🥽 POV / FPV](#pov-fpv) (21)
   - [Пример 1: Погоня в камуфляже с нагрудной камерой (by @genel_ai)](#pov-fpv-case-1)
   - [Пример 2: Динамичный ролик о киберпанковском Шанхае (by @Adam38363368936)](#pov-fpv-case-2)
@@ -169,7 +170,7 @@ curl --request GET \
   - [Пример 19: Сверхзвуковой полёт от первого лица по пустынному каньону (by @LudovicCreator)](#pov-fpv-case-19)
   - [Пример 20: FPV-пролёт над фейерверками Франции (by @LudovicCreator)](#pov-fpv-case-20)
   - [Пример 21: FPV-пикирование над кибернетическим полем боя (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Commercial / Product](#commercial-product) (32)
+- [🏷️ Commercial / Product](#commercial-product) (33)
   - [Пример 1: Танцевальная сцена аниме-трио в стиле рекламы духов (by @ShadeLurk)](#commercial-product-case-1)
   - [Пример 2: Дуэль в церкви тёмного фэнтези (by @ZaraIrahh)](#commercial-product-case-2)
   - [Пример 3: Дуэль в зале святилища тёмного фэнтези (by @MiraMusic_AI)](#commercial-product-case-3)
@@ -202,7 +203,8 @@ curl --request GET \
   - [Пример 30: Появление вязаного герба (by @insmind_com)](#commercial-product-case-30)
   - [Пример 31: Ретро-реклама багряной колы (by @DjajaYerry75)](#commercial-product-case-31)
   - [Пример 32: Летняя реклама Sprite у фонтана (by @AIwithSynthia)](#commercial-product-case-32)
-- [🖼️ Reference-Driven](#reference-driven) (23)
+  - [Пример 33: Монументальное развертывание баннера (by @insmind_com)](#commercial-product-case-33)
+- [🖼️ Reference-Driven](#reference-driven) (25)
   - [Пример 1: Выступление пианиста-скелета в миниатюрной диораме (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Пример 2: Принцесса на корабле в шторме против кракена (by @applete77191758)](#reference-driven-case-2)
   - [Пример 3: Танец клинков служанок: Мэй против Коко (by @MiraMusic_AI)](#reference-driven-case-3)
@@ -226,7 +228,9 @@ curl --request GET \
   - [Пример 21: Дождливое воссоединение под фонарём (by @umesh_ai)](#reference-driven-case-21)
   - [Пример 22: Однокадровое превращение за кулисами куньцюй (by @ou_zhen599)](#reference-driven-case-22)
   - [Пример 23: Взлёт дракона на горной вершине (by @minuitIA)](#reference-driven-case-23)
-- [🌀 Surreal / VFX](#surreal-vfx) (18)
+  - [Пример 24: Раскадровка JDM-тугэ-дрифта (by @beginnersblog1)](#reference-driven-case-24)
+  - [Пример 25: Непрерывность дрифта Black Rain (by @itsPixieVerse)](#reference-driven-case-25)
+- [🌀 Surreal / VFX](#surreal-vfx) (19)
   - [Пример 1: Бой на катанах в невесомости (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Пример 2: Кит в облаках — сюрреалистическая эпопея (by @chaosdotjpg)](#surreal-vfx-case-2)
   - [Пример 3: Превращение глубоководного ныряльщика в морское существо (by @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -245,6 +249,7 @@ curl --request GET \
   - [Пример 16: Призрак чайной церемонии (by @LudovicCreator)](#surreal-vfx-case-16)
   - [Пример 17: Оракул космического затмения (by @itsPixieVerse)](#surreal-vfx-case-17)
   - [Пример 18: Психоделический Разлом Реальности (by @Ankit_patel211)](#surreal-vfx-case-18)
+  - [Пример 19: Кристаллизация стеклянного города (by @LudovicCreator)](#surreal-vfx-case-19)
 - [📐 Templates & Structured Formats](#templates-structured) (27)
   - [Пример 1: Катастрофическое затопление суперавианосца (by @johnAGI168)](#templates-structured-case-1)
   - [Пример 2: Восстановление осколков памяти (by @TechTalkNAVI)](#templates-structured-case-2)
@@ -407,10 +412,10 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 **Промпт:**
 
 ```
-Watch a grease-stained mechanic fix 
-a violently rattling junker like it’s a martial arts fight. 
+Watch a grease-stained mechanic fix
+a violently rattling junker like it’s a martial arts fight.
 
-Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous boom. 
+Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous boom.
 
 From rusty disaster to purring monster in seconds.
 ```
@@ -1281,7 +1286,7 @@ Fast-paced action montage of a lone wanderer sprinting through a post-apocalypti
 ```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Cinematic Realism (12)
+## 🎞️ Cinematic Realism (13)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1294,7 +1299,7 @@ Fast-paced action montage of a lone wanderer sprinting through a post-apocalypti
 **Промпт:**
 
 ```
-Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. 
+Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay.
 No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's voices from the scene.
 ---
 ```
@@ -1310,9 +1315,9 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 **Промпт:**
 
 ```
-[0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-contrast, dramatic lighting. 
+[0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-contrast, dramatic lighting.
 
-[5-10s] The camera smoothly tilts up and racks focus entirely to the cliff face, filling the frame with her razor-sharp shadow mimicking her fluid slalom carves across the weathered, pitted limestone architecture, creating a mesmerizing optical illusion of a dark silhouette dancing along the ancient masonry. 
+[5-10s] The camera smoothly tilts up and racks focus entirely to the cliff face, filling the frame with her razor-sharp shadow mimicking her fluid slalom carves across the weathered, pitted limestone architecture, creating a mesmerizing optical illusion of a dark silhouette dancing along the ancient masonry.
 
 [10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality.
 ```
@@ -1535,6 +1540,26 @@ As she exits the tunnel, two teenage boys suddenly pop out from behind a stone p
 
 12-15s: [Raw Tracking Finale]
 Still smiling, she continues walking across the lively square while the boys laugh in the background before running off. The camera stays close, capturing her genuine laughter, shifting afternoon sunlight across her face, bustling pedestrians, fluttering pigeons, and the vibrant rhythm of everyday 1970s Paris life. The imperfect handheld movement and authentic documentary feel remain uninterrupted until the final frame.
+```
+
+<a id="cinematic-realism-case-13"></a>
+<!-- Case 13: 1970s Paris Street Walk (by @hakimieiqbal) -->
+### Пример 13: [Уличная прогулка по Парижу 1970-х](https://x.com/hakimieiqbal/status/2082097269055070572) (автор [@hakimieiqbal](https://x.com/hakimieiqbal))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082097269055070572.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism.
+
+0-3s: [Close Handheld Tracking] Young woman in her mid-20s, completely natural face with no makeup, soft features, wind-tousled hair, simple 1970s coat and scarf. She walks past a small floristería on a Paris side street. Camera stays tight on her profile and upper body as she slows for half a second, glances at the flowers, then looks toward camera with a quiet, unguarded expression. Instant natural beauty and presence.
+3-7s: [Unsteady Following Shot] She continues into a lively sunlit plaza. Camera stays behind and slightly to the side, bouncing with every step. Children run and play all around her, pigeons scatter, people cross paths, soft Paris light and movement everywhere. Pure dynamism and street energy.
+7-11s: [Handheld Medium] A group of kids chasing a ball suddenly cut right in front of her. One almost collides with her; she steps aside gracefully, laughs under her breath, and briefly exchanges a look with the child. The plaza stays alive and chaotic around them.
+11-15s: [Raw Tracking] She keeps walking through the square, camera following close and imperfect, catching the residual energy of the kids, the light shifting across her face, and the natural rhythm of 1970s Paris street life without ever settling.
+Photorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.
 ```
 
 <a id="pov-fpv"></a>
@@ -2047,7 +2072,7 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 
 <a id="commercial-product"></a>
-## 🏷️ Commercial / Product (32)
+## 🏷️ Commercial / Product (33)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2411,7 +2436,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 **Промпт:**
 
 ```
-(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). 
+(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera).
 A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!
 ```
 
@@ -2582,6 +2607,8 @@ prompt 👇
 | Результат |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075600475299447000.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+Вариант модели: Seedance 2 Omni
 
 **Промпт:**
 
@@ -2796,8 +2823,24 @@ The final hero shot shows her stepping toward the camera, holding the chilled Sp
 Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water, skateboard wheels, footsteps, laughter, birds, gentle breeze, and city ambience. No background music, no subtitles, no logos, no watermarks, and no on-screen text (except the Sprite branding on the can). Premium beverage advertising, realistic liquid physics, cinematic handheld and gimbal movement, shallow depth of field, vibrant summer storytelling.
 ```
 
+<a id="commercial-product-case-33"></a>
+<!-- Case 33: Monumental Banner Rollout (by @insmind_com) -->
+### Пример 33: [Монументальное развертывание баннера](https://x.com/insmind_com/status/2082096371818275092) (автор [@insmind_com](https://x.com/insmind_com))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-33"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082096371818275092.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Use the rolled-up state in reference image 1 and the fully deployed state in reference image 2. Keep the camera locked, with the advertising banner always remaining the visual center of the frame. The huge advertising banner mounted on the building beside the basketball court slowly lowers from the top, carrying the weight and inertia appropriate to its monumental scale, until it fully reaches the advertising state shown in image 2.
+
+After the banner reaches the bottom, it naturally rebounds under the installation tension and sways gently. The amplitude gradually diminishes, while a slight residual motion remains at the end of the shot. Continue the scene, art direction, lighting, and advertising content of the reference images.
+```
+
 <a id="reference-driven"></a>
-## 🖼️ Reference-Driven (23)
+## 🖼️ Reference-Driven (25)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3913,8 +3956,81 @@ No random changes to weather, daylight, terrain, rocks, vegetation or mountain b
 No text, no title, no caption, no logo, no interface and no watermark, no music, no subtitle
 ```
 
+<a id="reference-driven-case-24"></a>
+<!-- Case 24: Black Rain Drift Continuity (by @beginnersblog1) -->
+### Пример 24: [Раскадровка JDM-тугэ-дрифта](https://x.com/beginnersblog1/status/2081954062216601861) (автор [@beginnersblog1](https://x.com/beginnersblog1))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081954062216601861.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Create a 15-second high-budget cinematic drift sequence using the supplied 12-frame storyboard, established Black Rain circuit, driver reference, and futuristic race-car design exactly.
+
+Maintain identical vehicle proportions, cockpit, digital speedometer, wheels, heavy rain, wet reflective asphalt, barriers, floodlights, ramp, landing zone, and finish gantry throughout. The car must travel continuously left-to-right and forward along one connected track. It may rotate sideways during drifting, but its momentum and destination must always remain forward. Keep every camera on the car’s left side or directly behind it. No mirrored angles, reversed direction, teleportation, or disconnected locations.
+
+Frame 1: Begin inside the already accelerating car. Tight cockpit macro on both hands gripping the wheel. Rain streaks across the windshield. The speedometer rises smoothly from about 108 km/h. Steering remains nearly centered.
+
+Frame 2: Cut to the left rear-wheel macro. The tire spins rapidly on wet asphalt, deforms under load, and begins losing grip. Water and light smoke spray backward while the car continues forward.
+
+Frame 3: Cut to a low left-side tracking shot. The car enters a right-hand drift while moving left-to-right. The rear rotates outward progressively, the front wheels turn into a controlled counter-steer, and the outside suspension compresses.
+
+Frame 4: Return inside the cockpit during the same slide. The driver completes one deliberate counter-steer and holds it, using only small grip-related corrections. The speedometer changes naturally to approximately 126 km/h. No random steering-wheel movement.
+
+Frame 5: Cut back to a low left-side wide tracking shot. The car sustains the same right-hand drift with a controlled angle. Water sprays behind the rear tires while the camera matches its forward speed.
+
+Frame 6: Move naturally into a left-rear three-quarter tracking view. Continue following the car through the same corner without changing sides. The drift angle gradually reduces as the exit opens.
+
+Frame 7: Raise from the trailing position into a high rear aerial view. Reveal the same track leading directly toward the ramp. The car straightens progressively and accelerates along the visible racing line.
+
+Frame 8: Cut inside as the ramp fills the windshield. The driver makes one controlled upshift, returns the hand to the wheel, and performs one small centering correction. The speedometer rises smoothly toward 148 km/h. Steering then remains almost straight.
+
+Frame 9: Cut to a low front-left angle beyond the ramp. The car reaches the ramp and launches high into the air while continuing in the same left-to-right forward direction. All four wheels leave the surface and the suspension extends fully.
+
+Frame 10: Cut to a brief fixed ground-level view under the same flight path. The car passes overhead in the established direction, showing the undercarriage, spinning wheels, and fully extended suspension.
+
+Frame 11: Cut to a left-rear tracking shot aligned with the landing zone. The car lands front wheels first, then rear. Suspension compresses deeply and rebounds once. Water bursts outward as the vehicle stabilizes and continues accelerating forward.
+
+Frame 12: Cut to a long finish-line shot on the same track axis. The car approaches from frame-left, crosses beneath the finish gantry at full speed, and continues toward frame-right beyond the line. Water spray trails behind.
+
+Use only action-matched cuts. Every frame must begin from the exact speed, direction, steering state, camera side, and track position established by the previous frame. Animate realistic tire slip, counter-steering, wheel rotation, suspension loading, gear engagement, speedometer changes, airborne weight, landing impact, rain, water displacement, smoke, and controlled motion blur. No split screens, camera spins, random zooms, opposite-side views, steering-wheel shaking, speedometer flicker, vehicle redesign, extra stunts, or continuity breaks.
+```
+
+<a id="reference-driven-case-25"></a>
+<!-- Case 25: JDM Touge Drift Storyboard (by @itsPixieVerse) -->
+### Пример 25: [Непрерывность дрифта Black Rain](https://x.com/itsPixieVerse/status/2082230550253973686) (автор [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082230550253973686.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Initialize the Aether-Engine cinematic render pipeline. Use STORYBOARD_MAP [Image] strictly to lock down frame sequences, shot scaling, screen direction, physical blocking, and camera composition. Replicate all physical actions, poses, and camera moves without rendering the paper background, copying the sketchy linework, or introducing unauthorized events. Render the final scene in a highly polished 2D Anime flat graphic style with bold ink-contours.
+Reference CHAR_DNA [CharacterSheet] as the absolute authority for Rei's (C1) final proportions, wolf-cut hair, white racing bomber jacket, the widebody pink and black JDM drift car (V1), custom white deep-dish rims, and carbon details. The storyboard frames serve only as layout blueprints.
+AESTHETIC SIGNATURE: Classic high-contrast street-racing anime aesthetic. Sharp ink-outline drawings with completely flat color blocking, zero soft gradients, zero soft shadows, and solid block tones. Vibrant color scheme: cherry blossom pink, midnight black, deep asphalt gray, and lush forest greens, contrasted by glowing orange touge streetlamps, white halogen headlights, and brilliant green sparks. Styled flat-smoke blocks.
+SENSORY LAYER: No music. Raw mechanical JDM audio: loud tire screeches as rubber tears against asphalt, the screaming high-RPM roar of a twin-turbo inline-6 engine, mechanical clacks of gear changes, the fluttering hiss of a turbo wastegate (tsutsu-tsu), sharp exhaust pop crackles, and the violent clatter of loose gravel hitting the inner wheel arches.
+SCENE GEOMETRY: Wet asphalt mountain touge roads reflecting glowing orange streetlights, towering pine tree silhouettes, metallic guardrails, and vertical cliff faces casting flat dark shadows.
+PERFORMANCE PROFILE: Violent weight transfers, snapping physics, and precise steering inputs. Rei drives with absolute cool, clinical precision, contrasting the aggressive, screaming mechanical energy of the car.
+Execute the render frame-by-frame as detailed in these FRAMES entries:
+FRAMES:
+F01 / wide high-angle / touge starting line: High-angle wide shot. V1 sits at the damp mountain starting line, its cherry blossom pink paint gleaming under orange streetlamps. Small, stylized flat white clouds of exhaust steam drift from the dual exhaust tips. The engine idles with a deep, low rumble.
+F02 / close-up interior / driver focus: Close-up interior view. Rei's hand, wrapped in black racing gloves, rests on the aluminum shift knob. The dashboard glows with a flat orange light, the tachometer needle vibrating near redline with high-tension engine hums.
+F03 / medium-wide tracking / launch blast: Low tracking shot. V1 launches with immense forward force. The rear tires spin violently on the wet dark asphalt, leaving sharp flat-shaded black skid marks. A high-pitched turbo whine spikes as V1 rushes into the dark.
+F04 / extreme wide low-angle / mountain approach: Extreme wide shot. The pink and black silhouette of V1 carves across the dark green mountain pass, its halogen headlights throwing sharp, flat white triangular beams across the wet pavement.
+F05 / overhead close / weight transition: Overhead shot. V1's front tires snap left as the car initiates the drift. The chassis tilts, the weight transferring aggressively with a loud screech of tire friction. The cherry-blossom pink hood cuts through the frame.
+F06 / extreme close-up / tire bite: Extreme close-up. V1's rear tire spins inches from the steel guardrail. Bright, flat neon-green sparks shower from under the body kit, accompanied by a sharp metallic scraping sound.
+F07 / low-angle three-quarter / apex drift: Low-angle three-quarter shot. V1 is completely sideways, sliding past the inner apex of the turn. Massive, stylized flat white tire smoke clouds plume from the rear wheels with deafening screeching tire roars.
+F08 / POV interior / rearview mirror: POV from inside. Rei stares coolly ahead through the flat windshield. In the rearview mirror, the brilliant white halogen glare of a rival car's headlights flashes into view.
+F09 / wide tracking / escape trajectory: Wide tracking shot. V1 exits the hairpin, the chassis snapping straight with absolute mechanical precision. A bright, flat blue-orange backfire flame erupts from the exhaust tip with a loud, metallic gunshot pop.
+F10 / low close-up / cool-down glide: Low close-up view. V1 roars directly past the camera, leaving flat-styled wind-speed lines slicing through the frame as the engine note fades into a distant, echoing mountain howl.
+```
+
 <a id="surreal-vfx"></a>
-## 🌀 Surreal / VFX (18)
+## 🌀 Surreal / VFX (19)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -4045,7 +4161,7 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 
 ```
 Rainy Underground Alley Merge
-15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates. 
+15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates.
 [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
 ```
 
@@ -4064,7 +4180,7 @@ Video prompt
 
 Quantum Reality Fracture on City Street (Interdimensional Rift VFX)
 
-Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtown city street at blue hour, towering skyscrapers and frozen traffic, epic scale 
+Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtown city street at blue hour, towering skyscrapers and frozen traffic, epic scale
 
 [0-1.5s] Shot 1: Epic wide crane
 ```
@@ -4383,6 +4499,20 @@ AAA cinematic fantasy blockbuster, Dune × Elden Ring × Final Fantasy XVI × Ar
 Theme: Reality fragmentation, abstract cosmic nightmare with elegant beauty Prompt: Reality fractures into thousands of floating dimensions connected by enormous twisting ribbons of light. Infinite mirrors reflect alternate universes where gravity, time, and perspective constantly transform. Gigantic human statues dissolve into flocks of birds before reassembling as celestial architecture. Floating clocks leak galaxies instead of sand while black holes bloom like flowers. Endless stairways spiral around shattered moons suspended inside transparent oceans. Massive abstract sculptures made from liquid chrome continuously morph into impossible forms. The camera performs dynamic cinematic movements with seamless drone dives, rotating orbit shots, impossible dolly zooms, and slow-motion transitions between collapsing realities. Rich monochromatic shadows contrast with bursts of electric blue, neon orange, emerald green, and cosmic purple. Dense volumetric atmosphere, cinematic haze, distorted reflections, chaotic textures, dreamlike visual effects, avant-garde surreal design language, hyper-realistic rendering, award-winning experimental cinema aesthetic, emotionally mysterious, visually overwhelming, ultra-detailed IMAX quality.
 ```
 
+<a id="surreal-vfx-case-19"></a>
+<!-- Case 19: Glass City Crystallization (by @LudovicCreator) -->
+### Пример 19: [Кристаллизация стеклянного города](https://x.com/LudovicCreator/status/2082073946355081576) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082073946355081576.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+A modern city begins crystallizing from the ground upward. Streets, cars, trees, and skyscrapers transform into transparent glass structures as sunlight refracts into rainbow beams. The camera flies through the transformation as buildings crack and shimmer. High-end glass VFX, refraction, particle shards, 4K.
+```
+
 <a id="templates-structured"></a>
 ## 📐 Templates & Structured Formats (27)
 
@@ -4679,7 +4809,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 **Промпт:**
 
 ```
-FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K 
+FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K
 
 Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
@@ -5271,7 +5401,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 **Промпт:**
 
 ```
-stories of a hopper. 
+stories of a hopper.
 
 1 astronaut that's able to hop from location to location, anytime he wants.
 ```
@@ -5412,11 +5542,11 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 A moonlit piano chase where the mouse
 turns the whole instrument into a trap.
 
-What happens The mouse runs across piano keys, making playful notes. 
+What happens The mouse runs across piano keys, making playful notes.
 
-The cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano. 
+The cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano.
 
-The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail gets plucked like an instrument. 
+The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail gets plucked like an instrument.
 
 The cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head.
 ```
@@ -5468,9 +5598,9 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 **Промпт:**
 
 ```
-aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. 
+aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound.
 
-timeline: 
+timeline:
 - 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly
 ```
 
@@ -5574,7 +5704,7 @@ TIMELINE: 0-3s:
 A single stand-up comedian @[Image 1] with black hair, wearing a textured red dress, standing on a spotlighted stage @[Image 2]. Exaggerated and humorous expression, lively eyes, confident and rhythmic tone.
 Dialogue: Have you noticed that people nowadays say they are 'lying flat,' but their bodies are more competitive than anyone else's! My friend constantly claims to be 'Buddhist-style'—not fighting or competing—yet their speed when grabbing red envelopes is so fast I can't even see it clearly! I just want to ask: Is your 'Buddhist-style' so effective that even the Buddha would want to send you a rocket?
 Actions and Expressions:
- 
+
 - When saying “lying flat”: Spreading hands, looking helpless
 ​
 - When saying “grabbing red envelopes”: Quickly flicking hands, performing a super-fast hand motion, eyes wide open

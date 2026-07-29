@@ -55,6 +55,7 @@ cinematic-realism-case-9	Évasion en buggy dans une tempête de sable
 cinematic-realism-case-10	Bagarre télévisée Argentine-Espagne
 cinematic-realism-case-11	Dérapage de rallye boueux en forêt
 cinematic-realism-case-12	Farce au masque de monstre a Paris
+cinematic-realism-case-13	Promenade de rue dans le Paris des années 1970
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -108,6 +109,7 @@ commercial-product-case-29	Publicité hero pour gourde sur terrasse de yoga
 commercial-product-case-30	Révélation d’un blason tricoté
 commercial-product-case-31	Publicité rétro pour Crimson Cola
 commercial-product-case-32	Pub d ete Sprite a la fontaine
+commercial-product-case-33	Déploiement monumental de bannière
 reference-driven-case-1	Performance d’un pianiste squelette dans un diorama miniature
 reference-driven-case-2	Princesse sur un navire en pleine tempête contre le kraken
 reference-driven-case-3	Danse des lames des servantes : Mei contre Coco
@@ -131,6 +133,8 @@ reference-driven-case-20	Confession de Cléopâtre au palais
 reference-driven-case-21	Retrouvailles pluvieuses sous la lanterne
 reference-driven-case-22	Transformation en plan-séquence dans les coulisses du kunqu
 reference-driven-case-23	Décollage du dragon au sommet de la montagne
+reference-driven-case-24	Storyboard de drift touge JDM
+reference-driven-case-25	Continuité de drift Black Rain
 surreal-vfx-case-1	Combat au katana en apesanteur
 surreal-vfx-case-2	Baleine dans les nuages — épopée surréaliste
 surreal-vfx-case-3	Métamorphose d’un plongeur des abysses en créature marine
@@ -149,6 +153,7 @@ surreal-vfx-case-15	Transformation calligraphique de la gardienne de la forêt
 surreal-vfx-case-16	Apparition dans la cérémonie du thé hantée
 surreal-vfx-case-17	Oracle de l’éclipse cosmique
 surreal-vfx-case-18	Fracture Psychédélique du Réel
+surreal-vfx-case-19	Cristallisation de la ville de verre
 templates-structured-case-1	Naufrage catastrophique d’un superporte-avions
 templates-structured-case-2	Reconstruction de fragments de mémoire
 templates-structured-case-3	Du plan à la réalité — transformation d’une maison de plain-pied

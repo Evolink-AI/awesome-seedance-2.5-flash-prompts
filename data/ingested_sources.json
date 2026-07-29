@@ -2,7 +2,7 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 219,
+  "case_count": 224,
   "categories": [
     {
       "slug": "action-fantasy",
@@ -12,7 +12,7 @@
     {
       "slug": "cinematic-realism",
       "name": "🎞️ Cinematic Realism",
-      "count": 12
+      "count": 13
     },
     {
       "slug": "pov-fpv",
@@ -22,17 +22,17 @@
     {
       "slug": "commercial-product",
       "name": "🏷️ Commercial / Product",
-      "count": 32
+      "count": 33
     },
     {
       "slug": "reference-driven",
       "name": "🖼️ Reference-Driven",
-      "count": 23
+      "count": 25
     },
     {
       "slug": "surreal-vfx",
       "name": "🌀 Surreal / VFX",
-      "count": 18
+      "count": 19
     },
     {
       "slug": "templates-structured",
@@ -103,8 +103,8 @@
       "author_handle": "sebatheepan",
       "author_url": "https://x.com/sebatheepan",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/041.jpg",
-      "prompt_sha256": "c6a5077e6f440cc03b6a29355e71020c920edfb2f194ceebec71835dbf9e315e",
-      "prompt_text": "Watch a grease-stained mechanic fix \na violently rattling junker like it’s a martial arts fight. \n\nWrenches flying, spark plugs thrown like knives, hood slammed with a thunderous boom. \n\nFrom rusty disaster to purring monster in seconds."
+      "prompt_sha256": "3e3ebe09f1b0a9ed71fd18cf1a087fa2245e026607c90bbb2e90d9f1d572f423",
+      "prompt_text": "Watch a grease-stained mechanic fix\na violently rattling junker like it’s a martial arts fight.\n\nWrenches flying, spark plugs thrown like knives, hood slammed with a thunderous boom.\n\nFrom rusty disaster to purring monster in seconds."
     },
     {
       "id": "action-fantasy-case-6",
@@ -611,8 +611,8 @@
       "author_handle": "kuranoayashi",
       "author_url": "https://x.com/kuranoayashi",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/045.jpg",
-      "prompt_sha256": "26a34190778471c67d4450447c03d4d2dd0856de9db263214f7f945f73a366aa",
-      "prompt_text": "Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay. \nNo BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's voices from the scene.\n---"
+      "prompt_sha256": "7031f8872f3325effb2cdd9e6d26b46d78e911ff43476b3a05a8c185a005c88f",
+      "prompt_text": "Modern Japan. A 15-second live-action documentary-style video set during a high-rise building fire in Tokyo Bay.\nNo BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's voices from the scene.\n---"
     },
     {
       "id": "cinematic-realism-case-2",
@@ -623,8 +623,8 @@
       "author_handle": "Dheepanratnam",
       "author_url": "https://x.com/Dheepanratnam",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/073.jpg",
-      "prompt_sha256": "5206bef6669bbb9815f3adb12462ca5a30efb9973bbaa4863104c4754d9a46a8",
-      "prompt_text": "[0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-contrast, dramatic lighting. \n\n[5-10s] The camera smoothly tilts up and racks focus entirely to the cliff face, filling the frame with her razor-sharp shadow mimicking her fluid slalom carves across the weathered, pitted limestone architecture, creating a mesmerizing optical illusion of a dark silhouette dancing along the ancient masonry. \n\n[10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality."
+      "prompt_sha256": "b2fe2216aed3029dda7622191108458362c76c027b2d06abc678725e409346ab",
+      "prompt_text": "[0-5s] Dynamic low-angle tracking shot pacing a female downhill longboarder in a deep aerodynamic tuck speeding down a steep mountain pass. Blinding, intense directional sunlight hits her profile, generating stark, elongated, pitch-black shadows onto the sheer, rough-hewn ancient stone cliff walls to her right. The atmosphere is adrenaline-fueled with high-contrast, dramatic lighting.\n\n[5-10s] The camera smoothly tilts up and racks focus entirely to the cliff face, filling the frame with her razor-sharp shadow mimicking her fluid slalom carves across the weathered, pitted limestone architecture, creating a mesmerizing optical illusion of a dark silhouette dancing along the ancient masonry.\n\n[10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality."
     },
     {
       "id": "cinematic-realism-case-3",
@@ -756,6 +756,20 @@
       "prompt_sha256": "931569d239ba9acba0f66658aeef23c0355c29e76004fb16f4a9de430e6a47ef",
       "model_variant": null,
       "prompt_text": "Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Photorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.\n\n0-3s: [Close Handheld Tracking]\nA young woman in her mid-20s with a completely natural face, no makeup, soft features, wind-tousled hair, wearing a simple 1970s wool coat and scarf, walks past a tiny Paris flower shop. The camera stays close to her profile, shaking naturally with each step. She slows briefly to admire the flowers before looking toward the camera with a quiet, genuine smile.\n\n3-6s: [Fast Unsteady Following Shot]\nShe continues through a lively Paris plaza. The handheld camera becomes more energetic, weaving through pedestrians, bouncing with every stride. Children sprint across the square chasing each other, pigeons explode into flight, cyclists pass close, conversations overlap, creating an authentic, chaotic street atmosphere.\n\n6-9s: [Handheld Chase Movement]\nShe enters a narrow stone tunnel beneath an old Paris building. The light suddenly becomes dimmer. The camera follows closely behind, footsteps echoing naturally. She hears quick footsteps somewhere ahead and instinctively slows, glancing over her shoulder.\n\n9-12s: [Sudden Reveal]\nAs she exits the tunnel, two teenage boys suddenly pop out from behind a stone pillar wearing exaggerated vintage monster masks. She startles instinctively, taking a quick step backward with a surprised gasp. The handheld camera jolts naturally with her movement. The boys immediately remove the masks and burst into laughter, clearly revealing it was an innocent prank. She exhales, laughs at herself, and shakes her head with relief.\n\n12-15s: [Raw Tracking Finale]\nStill smiling, she continues walking across the lively square while the boys laugh in the background before running off. The camera stays close, capturing her genuine laughter, shifting afternoon sunlight across her face, bustling pedestrians, fluttering pigeons, and the vibrant rhythm of everyday 1970s Paris life. The imperfect handheld movement and authentic documentary feel remain uninterrupted until the final frame."
+    },
+    {
+      "id": "cinematic-realism-case-13",
+      "category": "🎞️ Cinematic Realism",
+      "case_number": 13,
+      "title": "1970s Paris Street Walk",
+      "source_url": "https://x.com/hakimieiqbal/status/2082097269055070572",
+      "author_handle": "hakimieiqbal",
+      "author_url": "https://x.com/hakimieiqbal",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082097269055070572.jpg",
+      "prompt_sha256": "7c9083c968b28d91f448b668e3aa4ef7c46e31eceb01e9fc6be9634759712633",
+      "model_variant": null,
+      "prompt_text": "Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism.\n\n0-3s: [Close Handheld Tracking] Young woman in her mid-20s, completely natural face with no makeup, soft features, wind-tousled hair, simple 1970s coat and scarf. She walks past a small floristería on a Paris side street. Camera stays tight on her profile and upper body as she slows for half a second, glances at the flowers, then looks toward camera with a quiet, unguarded expression. Instant natural beauty and presence.\n3-7s: [Unsteady Following Shot] She continues into a lively sunlit plaza. Camera stays behind and slightly to the side, bouncing with every step. Children run and play all around her, pigeons scatter, people cross paths, soft Paris light and movement everywhere. Pure dynamism and street energy.\n7-11s: [Handheld Medium] A group of kids chasing a ball suddenly cut right in front of her. One almost collides with her; she steps aside gracefully, laughs under her breath, and briefly exchanges a look with the child. The plaza stays alive and chaotic around them.\n11-15s: [Raw Tracking] She keeps walking through the square, camera following close and imperfect, catching the residual energy of the kids, the light shifting across her face, and the natural rhythm of 1970s Paris street life without ever settling.\nPhotorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.",
+      "prompt_source_url": "https://x.com/hakimieiqbal/status/2082097272905404784"
     },
     {
       "id": "pov-fpv-case-1",
@@ -1238,8 +1252,8 @@
       "author_handle": "ChrisGwinnLA",
       "author_url": "https://x.com/ChrisGwinnLA",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/118.jpg",
-      "prompt_sha256": "02d441030e38bc3cb1a56388739916a87e1bfd59e1b56c5ef99f0b613cb39dfb",
-      "prompt_text": "(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera). \nA crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!"
+      "prompt_sha256": "4e57ffdbe5152837794b06ba32fec560a6d9d1aa84a7d9dec0f9248b621726b9",
+      "prompt_text": "(Poliziottesco Wednesday): Detective Rossi: Deep Heat (Commissario Rossi: la polizia in crisi nera).\nA crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!"
     },
     {
       "id": "commercial-product-case-20",
@@ -1411,6 +1425,19 @@
       "prompt_sha256": "0c595944252255242f7582ab8c128bcc4dd56d67d47e6424020dece6a9b4bfb3",
       "model_variant": null,
       "prompt_text": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and natural expressions throughout. She wears a white fitted crop top, emerald green pleated mini skirt, white sneakers, silver jewelry, and sunglasses resting on her head. Bright summer afternoon, colorful downtown plaza with murals, fountains, palm trees, and skate park. Premium commercial cinematography, vibrant green-and-white Sprite-inspired color palette, photorealistic 4K HDR, 16:9.\nThe video opens with her smiling confidently at the camera while balancing an ice-cold Sprite can on her palm. She flips the can into the air, catches it effortlessly, and pops it open with a crisp \"pssst!\" A cinematic macro shot captures sparkling fizz, crushed ice, lime slices, and condensation glistening in the sunlight as she takes a refreshing sip.\nInstantly energized, she laughs while running through dancing fountains, playfully chases floating bubbles, then joins friends at a skate park where she briefly rides a skateboard and celebrates together. Dynamic handheld tracking shots capture genuine smiles, splashing water, and carefree summer energy.\nThe final hero shot shows her stepping toward the camera, holding the chilled Sprite can close to the lens as the fountain sparkles behind her. She smiles and says,\n\"Stay cool. Stay fresh.\"\nNatural ambient audio only: can opening, fizzy bubbles, splashing fountain water, skateboard wheels, footsteps, laughter, birds, gentle breeze, and city ambience. No background music, no subtitles, no logos, no watermarks, and no on-screen text (except the Sprite branding on the can). Premium beverage advertising, realistic liquid physics, cinematic handheld and gimbal movement, shallow depth of field, vibrant summer storytelling."
+    },
+    {
+      "id": "commercial-product-case-33",
+      "category": "🏷️ Commercial / Product",
+      "case_number": 33,
+      "title": "Monumental Banner Rollout",
+      "source_url": "https://x.com/insmind_com/status/2082096371818275092",
+      "author_handle": "insmind_com",
+      "author_url": "https://x.com/insmind_com",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082096371818275092.jpg",
+      "prompt_sha256": "72041745b8503b402041ef0148a01b4c94329b1fbb1c27fe6c9c8fcbdcfa2896",
+      "model_variant": null,
+      "prompt_text": "Use the rolled-up state in reference image 1 and the fully deployed state in reference image 2. Keep the camera locked, with the advertising banner always remaining the visual center of the frame. The huge advertising banner mounted on the building beside the basketball court slowly lowers from the top, carrying the weight and inertia appropriate to its monumental scale, until it fully reaches the advertising state shown in image 2.\n\nAfter the banner reaches the bottom, it naturally rebounds under the installation tension and sways gently. The amplitude gradually diminishes, while a slight residual motion remains at the end of the shot. Continue the scene, art direction, lighting, and advertising content of the reference images."
     },
     {
       "id": "reference-driven-case-1",
@@ -1697,6 +1724,33 @@
       "prompt_text": "Create a 15-second hyper-realistic live-action multi-shot cinematic video in 16:9. Fast-paced, spectacular, emotionally warm, visually original, with strong viral short-form impact.\n\nREFERENCE ASSIGNMENT:\n\nUse @Image1 only as the main visual reference for the relationship, relative scale and physical proximity between the young man and the dragon.\n\nUse @Image2 only to preserve the young man’s exact identity, youthful face, age, haircut, body proportions, red-brown tunic, trousers, boots, leather straps, bracers, satchel, sword and accessories. Do not reproduce the design-sheet layout, labels, panels or studio background.\n\nUse @Image3 only to preserve the dragon’s exact identity, pink-red coloration, reptilian head, amber eyes, horn placement, neck spines, scale patterns, claws, body proportions, tail, wing anatomy and translucent wing membranes. Do not reproduce the design-sheet layout, labels, panels or studio presentation.\n\nUse @Image4 as the exclusive environment reference for every shot. Preserve the same exposed rocky mountain summit, jagged gray metamorphic rocks, layered stone formations, loose gravel, rocky soil, isolated tufts of dry golden alpine grass, treeless terrain, distant brown mountain ranges, deep blue sky, thin cirrus clouds and low white cumulus clouds along the horizon. Use the late-morning daylight study from @Image4: crisp natural sunlight, cool blue sky, warm dry grass, detailed gray rocks and clear atmospheric visibility.\n\nDo not reproduce the environment design-sheet layout, text, labels, color swatches, scale diagram or separate panels. Reconstruct the location as one continuous real mountain summit.\n\nENVIRONMENT CONTINUITY:\nAll shots take place within the same compact area of the summit. Preserve the exact geographic relationship between the prominent central rock formation, the narrow ridge, the cliff edge, the gravel clearing and the distant mountain horizon.\nThe dragon and the young man must remain correctly positioned within this continuous geography. Camera changes must reveal new sides of the same location rather than generating unrelated mountain landscapes.\nNo forests, no trees, no green meadow, no snow, no buildings, no ruins, no castles, no artificial paths and no additional scenery absent from @Image4.\n\nWIND DIRECTION AND PHYSICAL BEHAVIOR:\nThe wind is a major visual force and acts as a third character throughout the sequence.\nA powerful alpine crosswind travels consistently in one fixed world-space direction along the ridge. Its apparent screen direction must change naturally according to each camera angle, while remaining geographically coherent.\nThe wind continuously affects:\nthe young man’s hair, tunic, trouser fabric, leather straps, loose cords and satchel;\nthe dragon’s thin wing membranes, neck spines, loose skin, nostrils and breathing;\nthe dry alpine grass, suspended dust, small gravel, clouds and airborne debris.\nWind intensity evolves dramatically:\nstrong irregular gusts during the opening;\nviolent turbulence caused by the dragon’s approach;\na brief protected calm when their foreheads touch;\na sudden playful gust during the dragon’s snort;\nan explosive radial pressure wave during takeoff.\nEvery gust must have believable physical consequences. Dust and gravel follow the terrain. Grass bends from its base. Clothing reacts with weight and delayed secondary motion. Wing membranes ripple under aerodynamic tension without deforming unnaturally.\n\nDRAGON REALISM:\nTreat the dragon as a genuine previously undiscovered biological animal filmed in the real world. It has irregular reptilian scales, subtle scars, dust embedded between scales, moist reflective eyes, moving nostrils, visible breathing, heavy muscles shifting beneath the skin and realistic weight.\nIts feet compress soil and displace gravel. Its claws grip rock surfaces. Its wing membranes react to sunlight and wind like real thin organic tissue. Never present it as a visual effect or rendered creature.\n\nSHOT 1 — 0.0 TO 1.6 SECONDS\nGROUND-LEVEL WIND TUNNEL HOOK\nExtreme ground-level camera hidden between dry grass and sharp foreground stones, 14mm ultra-wide lens.\nThe frame begins almost completely obstructed by violently bending grass. Wind drives dust and tiny gravel directly over the lens. Through the moving grass, the young man is visible standing alone on the exposed ridge.\nA gigantic dragon shadow races across the terrain. One pink wing suddenly crosses the entire sky above him, causing an abrupt exposure drop and a violent pressure gust.\nThe camera remains dangerously close to the ground, creating enormous scale, aggressive foreground movement and an immediate scroll-stopping opening.\n\nSHOT 2 — 1.6 TO 3.5 SECONDS\nDRAGON-SCALE POV BETWEEN THE HORNS\nHard cut to a fast forward-moving perspective framed organically between the dragon’s horns and facial spines.\nThe camera travels low and rapidly toward the young man as if physically attached near the dragon’s head. The summit rocks rush past on both sides with strong parallax.\nThe young man turns calmly toward the approaching animal. His hair and tunic whip sideways in the crosswind. The dragon’s breathing causes subtle vertical camera movement.\nAvoid a perfectly centered composition. Keep the young man slightly off-axis while the rocks create diagonal leading lines toward him.\n\nSHOT 3 — 3.5 TO 5.7 SECONDS\nHIGH-SPEED LATERAL ROCK SLALOM\nCut to a lateral tracking camera moving rapidly parallel to the ridge, 28mm lens.\nThe camera passes extremely close behind several foreground boulders, repeatedly revealing and hiding the action. The dragon runs beside the young man with massive but controlled momentum.\nIts claws strike loose gravel. Real stones bounce toward the lens. Dry grass is flattened sequentially by the wind pressure following the dragon’s body.\nThe dragon suddenly brakes and rotates its body beside the young man. Its claws carve visible tracks into the rocky soil. A thick horizontal sheet of dust sweeps across the composition.\nUse a foreground boulder as a natural wipe into the next shot.\n\nSHOT 4 — 5.7 TO 8.1 SECONDS\nINTIMATE REVERSE ORBIT INSIDE THE WIND SHADOW\nEmerge from behind the rock into a close reverse-direction circular orbit around the two subjects, 40mm lens.\nThe dragon lowers its head until its eye is level with the young man. The young man steps forward and places one hand against the dragon’s snout.\nAs their foreheads gently touch, the dragon’s enormous body and partially folded wing create a temporary wind shadow. For one brief emotional moment, the young man’s clothing settles and nearby dust floats softly instead of racing sideways.\nThe camera moves from behind the translucent edge of the wing, passes close to the hand touching the scales, then racks focus from the young man’s fingers to the dragon’s amber eye and finally to the young man’s subtle smile.\nNatural intimacy, physical weight and restrained emotion. No posing.\n\nSHOT 5 — 8.1 TO 10.5 SECONDS\nSNOUT-MOUNTED PLAYFUL REACTION SHOT\nCut to an unusual camera position extremely close beside the dragon’s muzzle, looking diagonally toward the young man with slight wide-angle distortion.\nThe dragon gives a short playful snort. The concentrated gust instantly blows the young man’s hair, tunic, straps and satchel backward. Dust bursts from the rocks behind him.\nHe closes his eyes, laughs naturally, loses one step of balance, then pushes the dragon’s muzzle away affectionately with both hands.\nThe dragon gently resists, tilts its head and nudges him again. The camera receives a subtle physical bump from the interaction, creating a spontaneous documentary feeling.\n\nSHOT 6 — 10.5 TO 12.6 SECONDS\nVERTICAL TOP-DOWN PRESSURE RING\nSmash cut to a perfectly vertical top-down camera directly above the gravel clearing.\nThe jagged rocks and golden grass from @Image4 create a natural radial composition around the young man.\nThe dragon unfolds both wings around him. The wings nearly fill the frame without changing anatomy or scale.\nOne extremely powerful downward wingbeat produces a visible expanding pressure ring across the terrain. Dust, grass, fabric and small gravel move outward from the dragon in physically correct concentric motion.\nThe young man crouches and shields his face while still laughing. The dragon takes two heavy running steps toward the cliff edge.\n\nSHOT 7 — 12.6 TO 15.0 SECONDS\nCLIFF-DIVE CAMERA AND UNDER-WING FLY-BY\nCut to a camera positioned just beyond the cliff edge, looking slightly upward toward the summit.\nThe dragon launches directly over the camera. Its claws leave the ground, loose stones fall past the lens, and one translucent wing passes extremely close overhead. Sunlight reveals veins, scars and tension inside the membrane.\nThe camera rapidly rolls beneath the dragon, dives backward along the cliff face, then stabilizes into a sweeping wide reveal of the same mountain summit and distant ranges from @Image4.\nThe dragon immediately banks around the prominent rock formation and performs one fast low fly-by above the young man. The residual wake violently bends the grass and clothing a final time.\nA wing crosses the lens as a natural wipe, revealing the final wide composition: the young man standing on the exposed ridge while the dragon glides over the vast real mountain valley.\nEnd with the young man small in frame, the dragon crossing the open sky and wind-driven dust catching the sunlight.\n\nCAMERA LANGUAGE:\nEvery shot must have a clearly different viewpoint and movement:\nextreme ground-level hidden camera;\ncreature-scale horn-framed point of view;\nhigh-speed lateral rock slalom;\nclose reverse circular orbit;\nsnout-level reaction camera;\nperfect vertical top-down shot;\ncliff-edge under-wing aerial reveal.\nUse bold perspective changes while preserving clear spatial continuity.\nUse practical-feeling camera inertia, natural handheld micro-movement, realistic acceleration, controlled motion blur, organic lens breathing and brief exposure changes when the wings block the sun.\nTransitions must be motivated by physical objects:\nmoving grass;\ndragon shadow;\nforeground boulder;\ndust sheet;\nwing membrane;\nfalling gravel.\n\nVISUAL REALISM:\nAbsolute live-action photographic realism, indistinguishable from footage captured on a remote mountain location with real cinema cameras.\nNatural late-morning sunlight, physically accurate shadows, realistic atmospheric perspective, authentic rock textures, restrained film grain, subtle optical imperfections, realistic skin tones, natural highlight roll-off and detailed motion in bright daylight.\nMaintain detail in the dragon’s dark scales and the bright sky without artificial HDR.\nKeep the essential interaction within the central 60 percent of the 16:9 frame while using rocks, wings, grass and dust to create strong motion near the edges.\n\nCONSISTENCY:\nPreserve exactly the same young man, face, haircut, costume, accessories and body proportions in every shot.\nPreserve exactly the same dragon, scale, coloration, horn placement, wing structure, claws, tail and anatomy in every shot.\nThe dragon remains vastly larger than the young man.\nMaintain consistent sunlight direction, cloud arrangement, wind direction, terrain geography, cliff position, rock formations and distant mountain horizon across the full sequence.\n\nNEGATIVE CONSTRAINTS:\nNo fantasy aesthetic, no magical atmosphere, no fire breathing, no glowing eyes, no supernatural particles, no spells, no castles, no ruins, no enchanted landscape, no artificial fog, no heroic posing.\nNo 3D-render appearance, no CGI aesthetic, no VFX look, no animation, no video-game graphics, no synthetic skin, no plastic scales, no weightless creature movement, no impossible hovering.\nNo anatomy changes, no extra limbs, no duplicated subjects, no changing horns, no changing wings, no deformed membrane, no inconsistent scale, no morphing, no teleportation and no disconnected geography.\nNo random changes to weather, daylight, terrain, rocks, vegetation or mountain background.\nNo text, no title, no caption, no logo, no interface and no watermark, no music, no subtitle"
     },
     {
+      "id": "reference-driven-case-24",
+      "category": "🖼️ Reference-Driven",
+      "case_number": 24,
+      "title": "Black Rain Drift Continuity",
+      "source_url": "https://x.com/beginnersblog1/status/2081954062216601861",
+      "author_handle": "beginnersblog1",
+      "author_url": "https://x.com/beginnersblog1",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2081954062216601861.jpg",
+      "prompt_sha256": "ef01091b55ccddad269884ef83c7665b720cdfbf8af81aaabbbbb71ef12717d4",
+      "model_variant": null,
+      "prompt_text": "Create a 15-second high-budget cinematic drift sequence using the supplied 12-frame storyboard, established Black Rain circuit, driver reference, and futuristic race-car design exactly.\n\nMaintain identical vehicle proportions, cockpit, digital speedometer, wheels, heavy rain, wet reflective asphalt, barriers, floodlights, ramp, landing zone, and finish gantry throughout. The car must travel continuously left-to-right and forward along one connected track. It may rotate sideways during drifting, but its momentum and destination must always remain forward. Keep every camera on the car’s left side or directly behind it. No mirrored angles, reversed direction, teleportation, or disconnected locations.\n\nFrame 1: Begin inside the already accelerating car. Tight cockpit macro on both hands gripping the wheel. Rain streaks across the windshield. The speedometer rises smoothly from about 108 km/h. Steering remains nearly centered.\n\nFrame 2: Cut to the left rear-wheel macro. The tire spins rapidly on wet asphalt, deforms under load, and begins losing grip. Water and light smoke spray backward while the car continues forward.\n\nFrame 3: Cut to a low left-side tracking shot. The car enters a right-hand drift while moving left-to-right. The rear rotates outward progressively, the front wheels turn into a controlled counter-steer, and the outside suspension compresses.\n\nFrame 4: Return inside the cockpit during the same slide. The driver completes one deliberate counter-steer and holds it, using only small grip-related corrections. The speedometer changes naturally to approximately 126 km/h. No random steering-wheel movement.\n\nFrame 5: Cut back to a low left-side wide tracking shot. The car sustains the same right-hand drift with a controlled angle. Water sprays behind the rear tires while the camera matches its forward speed.\n\nFrame 6: Move naturally into a left-rear three-quarter tracking view. Continue following the car through the same corner without changing sides. The drift angle gradually reduces as the exit opens.\n\nFrame 7: Raise from the trailing position into a high rear aerial view. Reveal the same track leading directly toward the ramp. The car straightens progressively and accelerates along the visible racing line.\n\nFrame 8: Cut inside as the ramp fills the windshield. The driver makes one controlled upshift, returns the hand to the wheel, and performs one small centering correction. The speedometer rises smoothly toward 148 km/h. Steering then remains almost straight.\n\nFrame 9: Cut to a low front-left angle beyond the ramp. The car reaches the ramp and launches high into the air while continuing in the same left-to-right forward direction. All four wheels leave the surface and the suspension extends fully.\n\nFrame 10: Cut to a brief fixed ground-level view under the same flight path. The car passes overhead in the established direction, showing the undercarriage, spinning wheels, and fully extended suspension.\n\nFrame 11: Cut to a left-rear tracking shot aligned with the landing zone. The car lands front wheels first, then rear. Suspension compresses deeply and rebounds once. Water bursts outward as the vehicle stabilizes and continues accelerating forward.\n\nFrame 12: Cut to a long finish-line shot on the same track axis. The car approaches from frame-left, crosses beneath the finish gantry at full speed, and continues toward frame-right beyond the line. Water spray trails behind.\n\nUse only action-matched cuts. Every frame must begin from the exact speed, direction, steering state, camera side, and track position established by the previous frame. Animate realistic tire slip, counter-steering, wheel rotation, suspension loading, gear engagement, speedometer changes, airborne weight, landing impact, rain, water displacement, smoke, and controlled motion blur. No split screens, camera spins, random zooms, opposite-side views, steering-wheel shaking, speedometer flicker, vehicle redesign, extra stunts, or continuity breaks.",
+      "prompt_source_url": "https://x.com/beginnersblog1/status/2081954065928651153"
+    },
+    {
+      "id": "reference-driven-case-25",
+      "category": "🖼️ Reference-Driven",
+      "case_number": 25,
+      "title": "JDM Touge Drift Storyboard",
+      "source_url": "https://x.com/itsPixieVerse/status/2082230550253973686",
+      "author_handle": "itsPixieVerse",
+      "author_url": "https://x.com/itsPixieVerse",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082230550253973686.jpg",
+      "prompt_sha256": "cf800a9dc07e9c6b7621e8caa9ad016422a85dc35683c0cb41cdeea38f8700e5",
+      "model_variant": null,
+      "prompt_text": "Initialize the Aether-Engine cinematic render pipeline. Use STORYBOARD_MAP [Image] strictly to lock down frame sequences, shot scaling, screen direction, physical blocking, and camera composition. Replicate all physical actions, poses, and camera moves without rendering the paper background, copying the sketchy linework, or introducing unauthorized events. Render the final scene in a highly polished 2D Anime flat graphic style with bold ink-contours.\nReference CHAR_DNA [CharacterSheet] as the absolute authority for Rei's (C1) final proportions, wolf-cut hair, white racing bomber jacket, the widebody pink and black JDM drift car (V1), custom white deep-dish rims, and carbon details. The storyboard frames serve only as layout blueprints.\nAESTHETIC SIGNATURE: Classic high-contrast street-racing anime aesthetic. Sharp ink-outline drawings with completely flat color blocking, zero soft gradients, zero soft shadows, and solid block tones. Vibrant color scheme: cherry blossom pink, midnight black, deep asphalt gray, and lush forest greens, contrasted by glowing orange touge streetlamps, white halogen headlights, and brilliant green sparks. Styled flat-smoke blocks.\nSENSORY LAYER: No music. Raw mechanical JDM audio: loud tire screeches as rubber tears against asphalt, the screaming high-RPM roar of a twin-turbo inline-6 engine, mechanical clacks of gear changes, the fluttering hiss of a turbo wastegate (tsutsu-tsu), sharp exhaust pop crackles, and the violent clatter of loose gravel hitting the inner wheel arches.\nSCENE GEOMETRY: Wet asphalt mountain touge roads reflecting glowing orange streetlights, towering pine tree silhouettes, metallic guardrails, and vertical cliff faces casting flat dark shadows.\nPERFORMANCE PROFILE: Violent weight transfers, snapping physics, and precise steering inputs. Rei drives with absolute cool, clinical precision, contrasting the aggressive, screaming mechanical energy of the car.\nExecute the render frame-by-frame as detailed in these FRAMES entries:\nFRAMES:\nF01 / wide high-angle / touge starting line: High-angle wide shot. V1 sits at the damp mountain starting line, its cherry blossom pink paint gleaming under orange streetlamps. Small, stylized flat white clouds of exhaust steam drift from the dual exhaust tips. The engine idles with a deep, low rumble.\nF02 / close-up interior / driver focus: Close-up interior view. Rei's hand, wrapped in black racing gloves, rests on the aluminum shift knob. The dashboard glows with a flat orange light, the tachometer needle vibrating near redline with high-tension engine hums.\nF03 / medium-wide tracking / launch blast: Low tracking shot. V1 launches with immense forward force. The rear tires spin violently on the wet dark asphalt, leaving sharp flat-shaded black skid marks. A high-pitched turbo whine spikes as V1 rushes into the dark.\nF04 / extreme wide low-angle / mountain approach: Extreme wide shot. The pink and black silhouette of V1 carves across the dark green mountain pass, its halogen headlights throwing sharp, flat white triangular beams across the wet pavement.\nF05 / overhead close / weight transition: Overhead shot. V1's front tires snap left as the car initiates the drift. The chassis tilts, the weight transferring aggressively with a loud screech of tire friction. The cherry-blossom pink hood cuts through the frame.\nF06 / extreme close-up / tire bite: Extreme close-up. V1's rear tire spins inches from the steel guardrail. Bright, flat neon-green sparks shower from under the body kit, accompanied by a sharp metallic scraping sound.\nF07 / low-angle three-quarter / apex drift: Low-angle three-quarter shot. V1 is completely sideways, sliding past the inner apex of the turn. Massive, stylized flat white tire smoke clouds plume from the rear wheels with deafening screeching tire roars.\nF08 / POV interior / rearview mirror: POV from inside. Rei stares coolly ahead through the flat windshield. In the rearview mirror, the brilliant white halogen glare of a rival car's headlights flashes into view.\nF09 / wide tracking / escape trajectory: Wide tracking shot. V1 exits the hairpin, the chassis snapping straight with absolute mechanical precision. A bright, flat blue-orange backfire flame erupts from the exhaust tip with a loud, metallic gunshot pop.\nF10 / low close-up / cool-down glide: Low close-up view. V1 roars directly past the camera, leaving flat-styled wind-speed lines slicing through the frame as the engine note fades into a distant, echoing mountain howl."
+    },
+    {
       "id": "surreal-vfx-case-1",
       "category": "🌀 Surreal / VFX",
       "case_number": 1,
@@ -1753,8 +1807,8 @@
       "author_handle": "Dheepanratnam",
       "author_url": "https://x.com/Dheepanratnam",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/096.jpg",
-      "prompt_sha256": "7d25a26c59d47a817f8401fbc5d8f37748642215fe5a0d9e514cca712ce795f4",
-      "prompt_text": "Rainy Underground Alley Merge\n15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates. \n[0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,"
+      "prompt_sha256": "f152b7a395a5f6b1a83e0ae255a0c61f989fe9f555b3920055cf79d9092dde09",
+      "prompt_text": "Rainy Underground Alley Merge\n15-second surreal horror in a narrow rainy underground service alley, neon signs reflecting on puddles, steam rising from grates.\n[0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,"
     },
     {
       "id": "surreal-vfx-case-6",
@@ -1765,8 +1819,8 @@
       "author_handle": "Dheepanratnam",
       "author_url": "https://x.com/Dheepanratnam",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/097.jpg",
-      "prompt_sha256": "abcbdf6420abebde3d9c77445929774b8052e0db27ef539f8a333cac12c93af9",
-      "prompt_text": "Video prompt\n\nQuantum Reality Fracture on City Street (Interdimensional Rift VFX)\n\nCinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtown city street at blue hour, towering skyscrapers and frozen traffic, epic scale \n\n[0-1.5s] Shot 1: Epic wide crane"
+      "prompt_sha256": "32589ebf89c8b269cb09fb638620775c415f571513d292ae8c3bf60ee3016fc1",
+      "prompt_text": "Video prompt\n\nQuantum Reality Fracture on City Street (Interdimensional Rift VFX)\n\nCinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtown city street at blue hour, towering skyscrapers and frozen traffic, epic scale\n\n[0-1.5s] Shot 1: Epic wide crane"
     },
     {
       "id": "surreal-vfx-case-7",
@@ -1921,6 +1975,19 @@
       "prompt_source_url": "https://x.com/Ankit_patel211/status/2081643075676626988"
     },
     {
+      "id": "surreal-vfx-case-19",
+      "category": "🌀 Surreal / VFX",
+      "case_number": 19,
+      "title": "Glass City Crystallization",
+      "source_url": "https://x.com/LudovicCreator/status/2082073946355081576",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082073946355081576.jpg",
+      "prompt_sha256": "2028619c4b6ffab6c74072f94b72b93c62b4255cdaa7ab029718236618be6b8a",
+      "model_variant": null,
+      "prompt_text": "A modern city begins crystallizing from the ground upward. Streets, cars, trees, and skyscrapers transform into transparent glass structures as sunlight refracts into rainbow beams. The camera flies through the transformation as buildings crack and shimmer. High-end glass VFX, refraction, particle shards, 4K."
+    },
+    {
       "id": "templates-structured-case-1",
       "category": "📐 Templates & Structured Formats",
       "case_number": 1,
@@ -2049,8 +2116,8 @@
       "author_handle": "Dheepanratnam",
       "author_url": "https://x.com/Dheepanratnam",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/098.jpg",
-      "prompt_sha256": "a04bf891c847f7b0c16412174056a4419098083c67d83c233f02fcde8c1ed883",
-      "prompt_text": "FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K \n\nShot 01 (0:00–2:00): Camera starts at floor level on anti-slip"
+      "prompt_sha256": "f619306fbe3074908ab75567d9447bdc6123959908169a8690b0c03017648025",
+      "prompt_text": "FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High-end commercial kitchen during dinner rush, gleaming stainless steel, flying ingredients, photorealistic micro-to-macro cinematic 8K\n\nShot 01 (0:00–2:00): Camera starts at floor level on anti-slip"
     },
     {
       "id": "templates-structured-case-12",
@@ -2339,8 +2406,8 @@
       "author_handle": "starks_arq",
       "author_url": "https://x.com/starks_arq",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/040.jpg",
-      "prompt_sha256": "eef81865e67bd224b5080eace7df7ed19448905b521325e1174cb3b12a2dc1e5",
-      "prompt_text": "stories of a hopper. \n\n1 astronaut that's able to hop from location to location, anytime he wants."
+      "prompt_sha256": "eb27ee6ca2ee21fc29fddf9044ff87740e5428937d9469ca9b697d0ae7b2f6e7",
+      "prompt_text": "stories of a hopper.\n\n1 astronaut that's able to hop from location to location, anytime he wants."
     },
     {
       "id": "general-cinematic-case-8",
@@ -2435,8 +2502,8 @@
       "author_handle": "Dheepanratnam",
       "author_url": "https://x.com/Dheepanratnam",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/072.jpg",
-      "prompt_sha256": "163c786b48a32b5289259ebbbb263efc43b76378b0b442fb53f5d4214836bde1",
-      "prompt_text": "A moonlit piano chase where the mouse\nturns the whole instrument into a trap.\n\nWhat happens The mouse runs across piano keys, making playful notes. \n\nThe cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano. \n\nThe cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail gets plucked like an instrument. \n\nThe cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head."
+      "prompt_sha256": "27a95b92cd432c9b4a6ab4e7d9c1aa901d873c95314081e402dcf3a115d6c770",
+      "prompt_text": "A moonlit piano chase where the mouse\nturns the whole instrument into a trap.\n\nWhat happens The mouse runs across piano keys, making playful notes.\n\nThe cat stalks across the piano lid. The cat lunges, but the mouse slips into the piano.\n\nThe cat gets nearly caught by the closing lid. Inside the piano, the mouse runs through strings and hammers. The cat’s tail gets plucked like an instrument.\n\nThe cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head."
     },
     {
       "id": "general-cinematic-case-16",
@@ -2471,8 +2538,8 @@
       "author_handle": "maxescu",
       "author_url": "https://x.com/maxescu",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/087.jpg",
-      "prompt_sha256": "b709a9d2a6cf3859022c377b13d9d97cd2123eadf739899fb2cfb8906daaccfa",
-      "prompt_text": "aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound. \n\ntimeline: \n- 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly"
+      "prompt_sha256": "b820685f5de19dc32d59284f12e1d5cd29c67fdb92cf41d3d994bed38fb39b03",
+      "prompt_text": "aesthetic: Raw 35mm handheld, high altitude sun haze. One unbroken continuous tracking shot. No cuts. All real time. audio: Full constant jet engine roar, wind blast, no other sound.\n\ntimeline:\n- 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly"
     },
     {
       "id": "general-cinematic-case-19",
@@ -2531,8 +2598,8 @@
       "author_handle": "Adam38363368936",
       "author_url": "https://x.com/Adam38363368936",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/120.jpg",
-      "prompt_sha256": "80da56f3ab597ee7ae8c1500d4be54e2f3cda9e86a88e08d37f57eaf864b00ec",
-      "prompt_text": "A single stand-up comedian @[Image 1] with black hair, wearing a textured red dress, standing on a spotlighted stage @[Image 2]. Exaggerated and humorous expression, lively eyes, confident and rhythmic tone.\nDialogue: Have you noticed that people nowadays say they are 'lying flat,' but their bodies are more competitive than anyone else's! My friend constantly claims to be 'Buddhist-style'—not fighting or competing—yet their speed when grabbing red envelopes is so fast I can't even see it clearly! I just want to ask: Is your 'Buddhist-style' so effective that even the Buddha would want to send you a rocket?\nActions and Expressions:\n \n- When saying “lying flat”: Spreading hands, looking helpless\n​\n- When saying “grabbing red envelopes”: Quickly flicking hands, performing a super-fast hand motion, eyes wide open\n​\n- Ending: Shrugging, grinning broadly, maximizing interaction\nScene: Black stand-up stage, strong spotlight illuminating the person, blurred silhouettes of the audience below, atmosphere of laughter, slight camera push-in, cinematic lighting, strong stage presence, real-shot texture, fast pace, 15-second short video effect. Shallow depth of field, enhanced light and shadow contrast, scene detail reconstruction, digital noise elimination, 4K high-definition quality."
+      "prompt_sha256": "83bbe478f58ae761345602f3ae6e4e918b8cfa3f8dcb9e161c5884705112266a",
+      "prompt_text": "A single stand-up comedian @[Image 1] with black hair, wearing a textured red dress, standing on a spotlighted stage @[Image 2]. Exaggerated and humorous expression, lively eyes, confident and rhythmic tone.\nDialogue: Have you noticed that people nowadays say they are 'lying flat,' but their bodies are more competitive than anyone else's! My friend constantly claims to be 'Buddhist-style'—not fighting or competing—yet their speed when grabbing red envelopes is so fast I can't even see it clearly! I just want to ask: Is your 'Buddhist-style' so effective that even the Buddha would want to send you a rocket?\nActions and Expressions:\n\n- When saying “lying flat”: Spreading hands, looking helpless\n​\n- When saying “grabbing red envelopes”: Quickly flicking hands, performing a super-fast hand motion, eyes wide open\n​\n- Ending: Shrugging, grinning broadly, maximizing interaction\nScene: Black stand-up stage, strong spotlight illuminating the person, blurred silhouettes of the audience below, atmosphere of laughter, slight camera push-in, cinematic lighting, strong stage presence, real-shot texture, fast pace, 15-second short video effect. Shallow depth of field, enhanced light and shadow contrast, scene detail reconstruction, digital noise elimination, 4K high-definition quality."
     },
     {
       "id": "general-cinematic-case-24",
