@@ -2,12 +2,12 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 224,
+  "case_count": 228,
   "categories": [
     {
       "slug": "action-fantasy",
       "name": "⚔️ Action / Fantasy",
-      "count": 45
+      "count": 47
     },
     {
       "slug": "cinematic-realism",
@@ -27,7 +27,7 @@
     {
       "slug": "reference-driven",
       "name": "🖼️ Reference-Driven",
-      "count": 25
+      "count": 26
     },
     {
       "slug": "surreal-vfx",
@@ -37,7 +37,7 @@
     {
       "slug": "templates-structured",
       "name": "📐 Templates & Structured Formats",
-      "count": 27
+      "count": 28
     },
     {
       "slug": "general-cinematic",
@@ -601,6 +601,34 @@
       "prompt_sha256": "a2dc42d2ae0ece7d47110e963fb817451be912e0fedc0fc87619856c6b06060d",
       "model_variant": null,
       "prompt_text": "0:00-0:03 - The swordswoman stands in complete stillness against a muted blue backdrop, pink cherry blossom petals beginning to swirl gently around her blade and shoulders.\n0:03-0:06 - She launches forward in a single compressed burst, her body tearing through the space as streams of pink and rose-toned petal trails erupt and stretch behind her in motion.\n0:06-0:09 - Her blade cuts through the frame in a decisive arc, the strike igniting a circular shockwave explosion made entirely of scattering pink flower petals and blossom fragments.\n0:09-0:12 - Delayed trails of soft pink petals ripple outward in sequence, tracing the full invisible path of the strike through the air like blooming afterimages.\n0:12-0:15 - The petals slow and drift downward in golden light, settling around her as she comes to rest, blade still raised, pink blossoms clinging to her hair and shoulders in the final still frame."
+    },
+    {
+      "id": "action-fantasy-case-46",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 46,
+      "title": "Volcanic Beast-Rider Impact",
+      "source_url": "https://x.com/CharaspowerAI/status/2082843708655829010",
+      "prompt_source_url": "https://x.com/CharaspowerAI/status/2082843708655829010",
+      "author_handle": "CharaspowerAI",
+      "author_url": "https://x.com/CharaspowerAI",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082843708655829010.jpg",
+      "prompt_sha256": "f7137c1ad5127fe1a264ba3321e0a64649f6311205998137dcf727fb2d3b54c8",
+      "model_variant": null,
+      "prompt_text": "Ultra-realistic original dark fantasy war sequence on a vast volcanic plain at dusk. An army of terrifying beast riders mounted on armored reptilian and wolf-like creatures charges toward a disciplined line of elite spearmen.\n0–4s: extreme wide shot showing hundreds of mounted creatures racing across ash and burning grass, dust clouds and embers exploding behind them.\n4–9s: low-angle tracking beside the charge, claws pounding the ground, riders roaring, capes and armor shaking, camera weaving between galloping monsters with intense speed.\n9–15s: full-force impact as the beast riders crash into the shield wall, spears splinter, bodies recoil, creatures leap through smoke, the formation bends under enormous pressure.\n\nEpic scale, brutal energy, ultra dynamic camera, photorealistic textures, cinematic dust, ash, sparks, deep orange firelight against black storm clouds."
+    },
+    {
+      "id": "action-fantasy-case-47",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 47,
+      "title": "Steel-Beam Flying Kick Showdown",
+      "source_url": "https://x.com/Linkinpark3Park/status/2082892901412200571",
+      "prompt_source_url": "https://x.com/Linkinpark3Park/status/2082892965815709859",
+      "author_handle": "Linkinpark3Park",
+      "author_url": "https://x.com/Linkinpark3Park",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082892901412200571.jpg",
+      "prompt_sha256": "2b0229e1bba93c446b5d2197d59c425fa458a8a1b3aa743e132a2081a923997c",
+      "model_variant": null,
+      "prompt_text": "[视觉风格与整体基调]\n高空电影级动作场面，照片级写实风格，8K分辨率。背景为高空露天钢结构工地，包含金属格栅、远处的黄色起重机、阴郁的暴风雨云层及工业美学风格。\n\n• 0:00 - 0:01：低角度镜头。两名身穿黑色战术装备的男子在阴郁暴风雨天空的映衬下，从裸露的钢结构横梁旁坠落。\n• 0:01 - 0:04：中景镜头。主角（金发女性，身穿灰色露脐“87”字样卫衣、宽松蓝色牛仔工装裤及红白配色运动鞋）拦截袭击者。她格挡攻击、踢出高腿、闪身躲避，并猛力将一名男子过肩摔至金属格栅地面上。\n• 0:04 - 0:06：全景镜头。主角同时与多名袭击者搏斗，施展旋转攻击，将其中一名对手彻底击落平台边缘。\n• 0:06 - 0:07：追踪镜头。主角自信地在狭窄、裸露的工字钢梁上疾跑。\n• 0:07 - 0:09：空中冲击镜头。[服装一致性修正：严格锁定其灰色露脐卫衣和宽松蓝色牛仔工装裤；下装不得变更为参考视频中的款式]。她跃入空中，向一名袭击者踢出威力巨大的飞踢，将其向后击飞，直至撞上远处的黄色起重机，激起明亮的火花。\n• 0:09 - 0:11：英雄定格镜头。主角平稳着陆于钢梁边缘，摆出强有力的武术定格姿势，单拳向前伸出。\n\n负面提示词（高级设置）\n卡通、3D渲染、动漫风格、低分辨率。"
     },
     {
       "id": "cinematic-realism-case-1",
@@ -1751,6 +1779,20 @@
       "prompt_text": "Initialize the Aether-Engine cinematic render pipeline. Use STORYBOARD_MAP [Image] strictly to lock down frame sequences, shot scaling, screen direction, physical blocking, and camera composition. Replicate all physical actions, poses, and camera moves without rendering the paper background, copying the sketchy linework, or introducing unauthorized events. Render the final scene in a highly polished 2D Anime flat graphic style with bold ink-contours.\nReference CHAR_DNA [CharacterSheet] as the absolute authority for Rei's (C1) final proportions, wolf-cut hair, white racing bomber jacket, the widebody pink and black JDM drift car (V1), custom white deep-dish rims, and carbon details. The storyboard frames serve only as layout blueprints.\nAESTHETIC SIGNATURE: Classic high-contrast street-racing anime aesthetic. Sharp ink-outline drawings with completely flat color blocking, zero soft gradients, zero soft shadows, and solid block tones. Vibrant color scheme: cherry blossom pink, midnight black, deep asphalt gray, and lush forest greens, contrasted by glowing orange touge streetlamps, white halogen headlights, and brilliant green sparks. Styled flat-smoke blocks.\nSENSORY LAYER: No music. Raw mechanical JDM audio: loud tire screeches as rubber tears against asphalt, the screaming high-RPM roar of a twin-turbo inline-6 engine, mechanical clacks of gear changes, the fluttering hiss of a turbo wastegate (tsutsu-tsu), sharp exhaust pop crackles, and the violent clatter of loose gravel hitting the inner wheel arches.\nSCENE GEOMETRY: Wet asphalt mountain touge roads reflecting glowing orange streetlights, towering pine tree silhouettes, metallic guardrails, and vertical cliff faces casting flat dark shadows.\nPERFORMANCE PROFILE: Violent weight transfers, snapping physics, and precise steering inputs. Rei drives with absolute cool, clinical precision, contrasting the aggressive, screaming mechanical energy of the car.\nExecute the render frame-by-frame as detailed in these FRAMES entries:\nFRAMES:\nF01 / wide high-angle / touge starting line: High-angle wide shot. V1 sits at the damp mountain starting line, its cherry blossom pink paint gleaming under orange streetlamps. Small, stylized flat white clouds of exhaust steam drift from the dual exhaust tips. The engine idles with a deep, low rumble.\nF02 / close-up interior / driver focus: Close-up interior view. Rei's hand, wrapped in black racing gloves, rests on the aluminum shift knob. The dashboard glows with a flat orange light, the tachometer needle vibrating near redline with high-tension engine hums.\nF03 / medium-wide tracking / launch blast: Low tracking shot. V1 launches with immense forward force. The rear tires spin violently on the wet dark asphalt, leaving sharp flat-shaded black skid marks. A high-pitched turbo whine spikes as V1 rushes into the dark.\nF04 / extreme wide low-angle / mountain approach: Extreme wide shot. The pink and black silhouette of V1 carves across the dark green mountain pass, its halogen headlights throwing sharp, flat white triangular beams across the wet pavement.\nF05 / overhead close / weight transition: Overhead shot. V1's front tires snap left as the car initiates the drift. The chassis tilts, the weight transferring aggressively with a loud screech of tire friction. The cherry-blossom pink hood cuts through the frame.\nF06 / extreme close-up / tire bite: Extreme close-up. V1's rear tire spins inches from the steel guardrail. Bright, flat neon-green sparks shower from under the body kit, accompanied by a sharp metallic scraping sound.\nF07 / low-angle three-quarter / apex drift: Low-angle three-quarter shot. V1 is completely sideways, sliding past the inner apex of the turn. Massive, stylized flat white tire smoke clouds plume from the rear wheels with deafening screeching tire roars.\nF08 / POV interior / rearview mirror: POV from inside. Rei stares coolly ahead through the flat windshield. In the rearview mirror, the brilliant white halogen glare of a rival car's headlights flashes into view.\nF09 / wide tracking / escape trajectory: Wide tracking shot. V1 exits the hairpin, the chassis snapping straight with absolute mechanical precision. A bright, flat blue-orange backfire flame erupts from the exhaust tip with a loud, metallic gunshot pop.\nF10 / low close-up / cool-down glide: Low close-up view. V1 roars directly past the camera, leaving flat-styled wind-speed lines slicing through the frame as the engine note fades into a distant, echoing mountain howl."
     },
     {
+      "id": "reference-driven-case-26",
+      "category": "🖼️ Reference-Driven",
+      "case_number": 26,
+      "title": "Dragonfire Ice Bridge Rescue",
+      "source_url": "https://x.com/aivoxyy/status/2082796978287915325",
+      "prompt_source_url": "https://x.com/aivoxyy/status/2082796991495708974",
+      "author_handle": "aivoxyy",
+      "author_url": "https://x.com/aivoxyy",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082796978287915325.jpg",
+      "prompt_sha256": "fb448e4a8a2e11795b8aff95e56fc1d6220246d4e305caaee866bfe42635d2cf",
+      "model_variant": null,
+      "prompt_text": "USE THE PART 2 STORYBOARD IMAGE as the exact starting frame — continuing from MILO's inhale on the ice. Smooth continuous realistic motion only — NO teleporting, NO snapping to new positions, NO face or body morphing, NO instant state changes (all transitions slow and visible). ONE clear spatial state — no more than one elevation change. 100% PHOTOREALISTIC — NOT ANIMATED — NOT CARTOON. Weta Digital / ILM quality. ONE CONTINUOUS ACTION: freezing a bridge across the river.\n\nMILO: match the MILO sheet exactly — juvenile teal dragon the size of a large cat, iridescent teal-cerulean scales with oil-slick iridescence, broad flattened iguana-like head, crown of ivory backward-pointing bone spikes, large round dark eyes with bright wet reflective highlights, oversized bat-membrane wings, pale cream-teal underbelly. Photorealistic Weta Digital CGI — NOT animated, NOT cartoon.\nMILO'S FIRE — CRITICAL: iridescent BLUE-TEAL dragonfire only — vivid cyan and teal-blue, cold blue-white core, teal edges. NEVER orange, yellow, or red. It runs COLD — frost blooms where it passes, breath fogs near it.\nKAEL: match the KAEL sheet exactly — a lean, wiry figure, dark black slightly wavy hair, warm olive-tan freckled skin, large dark expressive brown eyes, worn ragged earthy brown-khaki tunic, leather bracers. Photorealistic, NOT animated.\nTHE CHILD: small bundled village child, shown at respectful distance, safe throughout.\n\nENVIRONMENT: the same winter river, snowy banks, grey light.\n\nPOSITION LOCK: MILO stays on the ice sheet for Beats 1-3 — only his head and neck move to direct the fire. He does not fly until Beat 5.\n\nANIMATE 6 BEATS:\nBeat 1 — MILO releasing a powerful continuous stream of BLUE-TEAL cold fire down onto the surface of the rushing water, aimed toward the bank.\nBeat 2 — THE HERO MOMENT: the dark rushing water freezing solid in the flame's path — a strip of thick white-blue ice racing visibly across the river surface toward the bank, spray frozen mid-splash into crystal shapes. Hold an extra beat on this.\nBeat 3 — The ice bridge completing all the way to the snowy bank, MILO's flame cutting off, the new frozen path steaming with cold vapor. MILO turning back toward the child.\nBeat 4 — The child stepping carefully onto the ice bridge and walking toward shore, villagers hurrying down the bank to meet them, relief on every face.\nBeat 5 — MILO launching and flying back to land on KAEL's shoulder, his glow settling to a soft shimmer, first snowflakes beginning to fall.\nBeat 6 — Wide final: the frozen bridge still standing across the dark river, villagers gathered staring at it in silence, MILO and KAEL small at the crowd's edge. Snow falling. HARD CUT.\n\nCAMERA: low angle on the fire release, a tracking shot racing along the freezing water with the ice, wide on the completed bridge, warm mid shots for the rescue, wide final.\nLIGHTING: cold grey winter light, the blue fire and fresh ice glowing faintly, soft snowfall at the end."
+    },
+    {
       "id": "surreal-vfx-case-1",
       "category": "🌀 Surreal / VFX",
       "case_number": 1,
@@ -2324,6 +2366,20 @@
       "prompt_sha256": "1d091f2ca79a39d1f4ddf8518fd87126d75d52a2981913380f7b42db68fca49d",
       "model_variant": null,
       "prompt_text": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → studio fluorescents → bright stage lights).\n\n**STYLE:**\nFast-paced time-lapse montage feel — quick cuts stitched together across locations, sped-up transitional movement between them. Instead of synced dialogue, her voice plays as reflective voiceover narration over the visuals, tying the day together. Energy builds progressively from sleepy morning to high-adrenaline stage finish.\n\n**Character**\n\nCHASE — Korean idol, 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes naturally per location: cozy loungewear at the dorm, casual comfortable clothes in the van, modest athletic wear in the practice room, and a stage outfit for the final segment — each fully covering arms and torso.\n\n**Setting Progression**\n\nDorm room (morning) → van interior (daytime) → practice room (afternoon) → backstage/stage (night).\n\n**Storyboard (voiceover narration over visuals)**\n\n1. *(~2s, dorm, propped camera, sleepy morning light)* She stretches, rubbing her eyes, hair messy. VOICEOVER (CHASE): \"Every day starts the same way — way too early.\"\n\n2. *(~2s, dorm, handheld, quick motion)* She moves through her morning routine in fast, sped-up cuts — brushing hair, grabbing a bag. VOICEOVER (CHASE): \"Get ready, grab everything, and go.\"\n\n3. *(~2s, van interior, handheld, window light)* She sits by the window, phone in hand, soft daylight passing over her face. VOICEOVER (CHASE): \"The van's basically my second home at this point.\"\n\n4. *(~1.5s, van, macro insert)* Close-up on her hand adjusting a playlist on her phone, light flickering through the window. No narration — ambient road sound only.\n\n5. *(~2s, practice room, handheld, energetic)* She's mid-movement rehearsing choreography, camera catching quick glimpses of the mirror wall. VOICEOVER (CHASE): \"Then it's hours of practice till my legs give out.\"\n\n6. *(~2s, practice room, propped camera, water break)* She wipes sweat, drinks water, breathless but smiling. VOICEOVER (CHASE): \"But somehow I never get tired of this part.\"\n\n7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): \"And then suddenly, it's showtime.\"\n\n8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): \"This is the part that makes all of it worth it.\""
+    },
+    {
+      "id": "templates-structured-case-28",
+      "category": "📐 Templates & Structured Formats",
+      "case_number": 28,
+      "title": "Tiger-Eye Logo Reveal",
+      "source_url": "https://x.com/second_bassoon/status/2082926707871244566",
+      "prompt_source_url": "https://x.com/second_bassoon/status/2082926707871244566",
+      "author_handle": "second_bassoon",
+      "author_url": "https://x.com/second_bassoon",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082926707871244566.jpg",
+      "prompt_sha256": "b40e5d3feae0359af9dcc146a840ace88c3f9ccb960758c0bf00496d3f0cdfc9",
+      "model_variant": null,
+      "prompt_text": "The frame begins completely black and empty.\n\nFIRST 70 PERCENT OF THE SHOT — THE WRITING\nInk brushstrokes appear and grow across the frame, drawing the lettering into existence stroke by stroke, left to right, as if written by an invisible calligraphy brush. Each stroke starts at one end and extends rapidly to the other, the ink spreading outward along the path of the stroke with dry bristle texture trailing behind it. The letters build in reading order, one after another, never all at once, never fading in.\n\nThroughout this entire writing phase, the enclosed interior of the letter G contains a tiger eye that is completely closed. Its lids are shut tight, forming a thin dark seam that is solid black and indistinguishable from the background. No amber, no orange, no gold, and no color of any kind is visible anywhere in the frame during the writing. The inside of the G reads as empty black.\n\nFINAL 30 PERCENT OF THE SHOT — THE UNDERLINE AND THE EYE, SIMULTANEOUSLY\nOnly once every letter is complete and the lettering is holding still do the final two events begin, and they begin at the same moment.\n\nA single long horizontal brushstroke sweeps rapidly left to right beneath the lettering, extending in one continuous confident motion and tapering to a fine dry point at its right end.\n\nAt that same instant, the closed tiger eye inside the G opens. Its lids part vertically from the thin dark seam, the aperture widening upward and downward until the amber-gold iris and its black vertical slit pupil fill the entire interior of the G, edge to edge, meeting the brush strokes on every side. The eye opens quickly and settles. This is the first and only moment any color appears in the shot.\n\nTHROUGHOUT\nThe lettering never moves, never drifts, never changes shape or position once drawn. Letters only extend and complete — they never warp, morph, wobble, or reshape themselves. The camera is completely locked and static. No camera movement of any kind, no zoom, no push, no drift, no shake.\n\nNo visible hand, no visible brush, no arm, no person. No ink splatter, no drips, no smoke, no particles. No fade-in, no dissolve, no glow, no light rays. The background stays solid pure black and completely empty for the entire shot.\n\nNEGATIVE\nThe eye must not be open, visible, or colored at any point during the writing phase. No amber, orange, or gold anywhere in the frame until the underline begins. The eye does not fade in, brighten, or grow — it opens by parting its lids. The eye never appears before the lettering is finished."
     },
     {
       "id": "general-cinematic-case-1",

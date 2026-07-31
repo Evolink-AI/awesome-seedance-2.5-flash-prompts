@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Essayer Seedance 2.0 dans le navigateur](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![224 cas uniques](https://img.shields.io/badge/224%20cas%20uniques-111111)](README.md)
+[![228 cas uniques](https://img.shields.io/badge/228%20cas%20uniques-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Bienvenue dans le dépôt Awesome Seedance 2.0 Prompts ! 🤗
 
-**Ce dépôt contient 224 cas uniques de prompts Seedance 2.0 avec sources attribuées pour la génération vidéo cinématographique.**
+**Ce dépôt contient 228 cas uniques de prompts Seedance 2.0 avec sources attribuées pour la génération vidéo cinématographique.**
 
 Les prompts sont sélectionnés à partir de publications publiques de créateurs et conservés comme ressources réutilisables.
 
@@ -69,11 +69,11 @@ curl --request GET \
   --header "Authorization: Bearer ${EVOLINK_API_KEY}"
 ```
 
-Ressources complémentaires : [exemples API](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service), [skill OpenClaw](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw) et [documentation API EvoLink](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-overview?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=first_run).
+Ressources complémentaires : [exemples API](https://docs.evolink.ai/en/quickstart?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=quick_integration), [skill OpenClaw](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=text_to_video_guide) et [documentation API EvoLink](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-overview?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=first_run).
 <a id="statistics"></a>
 ## 📊 Statistiques
 
-224 cas uniques répartis dans 8 catégories, synchronisés dans 11 fichiers README.
+228 cas uniques répartis dans 8 catégories, synchronisés dans 11 fichiers README.
 
 <a id="how-to-use"></a>
 ## 🧭 Comment utiliser ce dépôt
@@ -88,7 +88,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (45)
+- [⚔️ Action / Fantasy](#action-fantasy) (47)
   - [Cas 1: Performance de rap de rue en clip musical (by @songguoxiansen)](#action-fantasy-case-1)
   - [Cas 2: Duel d’arts martiaux du chat noir dans le désert (by @nopinduoduo)](#action-fantasy-case-2)
   - [Cas 3: Duel de techniques de respiration en prise de vues réelles (by @johnAGI168)](#action-fantasy-case-3)
@@ -134,6 +134,8 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 43: Attaque du ver à la station arctique (by @StevieMac03)](#action-fantasy-case-43)
   - [Cas 44: Montage du vagabond post-apocalyptique (by @DjajaYerry75)](#action-fantasy-case-44)
   - [Cas 45: Onde de Choc du Sabre Sakura (by @MO_IAI)](#action-fantasy-case-45)
+  - [Cas 46: Impact du cavalier de bête volcanique (by @CharaspowerAI)](#action-fantasy-case-46)
+  - [Cas 47: Affrontement avec coup de pied volant sur poutres d'acier (by @Linkinpark3Park)](#action-fantasy-case-47)
 - [🎞️ Cinematic Realism](#cinematic-realism) (13)
   - [Cas 1: Séquence documentaire sur le Japon moderne (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Cas 2: Descente en longboard à la poursuite d’une ombre (by @Dheepanratnam)](#cinematic-realism-case-2)
@@ -204,7 +206,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 31: Publicité rétro pour Crimson Cola (by @DjajaYerry75)](#commercial-product-case-31)
   - [Cas 32: Pub d ete Sprite a la fontaine (by @AIwithSynthia)](#commercial-product-case-32)
   - [Cas 33: Déploiement monumental de bannière (by @insmind_com)](#commercial-product-case-33)
-- [🖼️ Reference-Driven](#reference-driven) (25)
+- [🖼️ Reference-Driven](#reference-driven) (26)
   - [Cas 1: Performance d’un pianiste squelette dans un diorama miniature (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Cas 2: Princesse sur un navire en pleine tempête contre le kraken (by @applete77191758)](#reference-driven-case-2)
   - [Cas 3: Danse des lames des servantes : Mei contre Coco (by @MiraMusic_AI)](#reference-driven-case-3)
@@ -230,6 +232,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 23: Décollage du dragon au sommet de la montagne (by @minuitIA)](#reference-driven-case-23)
   - [Cas 24: Storyboard de drift touge JDM (by @beginnersblog1)](#reference-driven-case-24)
   - [Cas 25: Continuité de drift Black Rain (by @itsPixieVerse)](#reference-driven-case-25)
+  - [Cas 26: Sauvetage sur le pont de glace sous le feu du dragon (by @aivoxyy)](#reference-driven-case-26)
 - [🌀 Surreal / VFX](#surreal-vfx) (19)
   - [Cas 1: Combat au katana en apesanteur (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Cas 2: Baleine dans les nuages — épopée surréaliste (by @chaosdotjpg)](#surreal-vfx-case-2)
@@ -250,7 +253,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 17: Oracle de l’éclipse cosmique (by @itsPixieVerse)](#surreal-vfx-case-17)
   - [Cas 18: Fracture Psychédélique du Réel (by @Ankit_patel211)](#surreal-vfx-case-18)
   - [Cas 19: Cristallisation de la ville de verre (by @LudovicCreator)](#surreal-vfx-case-19)
-- [📐 Templates & Structured Formats](#templates-structured) (27)
+- [📐 Templates & Structured Formats](#templates-structured) (28)
   - [Cas 1: Naufrage catastrophique d’un superporte-avions (by @johnAGI168)](#templates-structured-case-1)
   - [Cas 2: Reconstruction de fragments de mémoire (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Cas 3: Du plan à la réalité — transformation d’une maison de plain-pied (by @craftian_keskin)](#templates-structured-case-3)
@@ -278,6 +281,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 25: Marche neon avec telephone a clapet (by @itsPixieVerse)](#templates-structured-case-25)
   - [Cas 26: Vlog de comparaison de tenues en coulisses (by @doctorwasif)](#templates-structured-case-26)
   - [Cas 27: Montage d'une Journée d'Idole (by @doctorwasif)](#templates-structured-case-27)
+  - [Cas 28: Révélation de logo à motif œil de tigre (by @second_bassoon)](#templates-structured-case-28)
 - [🎬 General Cinematic](#general-cinematic) (41)
   - [Cas 1: Gros plan de mode sur des talons synchronisés au rythme (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Cas 2: Évasion en mini-skateboard dans une chambre d’enfant (by @anson7956)](#general-cinematic-case-2)
@@ -322,7 +326,7 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
   - [Cas 41: Horreur d anniversaire a la poupee de porcelaine (by @Ankit_patel211)](#general-cinematic-case-41)
 
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantasy (45)
+## ⚔️ Action / Fantasy (47)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1283,6 +1287,50 @@ Fast-paced action montage of a lone wanderer sprinting through a post-apocalypti
 0:06-0:09 - Her blade cuts through the frame in a decisive arc, the strike igniting a circular shockwave explosion made entirely of scattering pink flower petals and blossom fragments.
 0:09-0:12 - Delayed trails of soft pink petals ripple outward in sequence, tracing the full invisible path of the strike through the air like blooming afterimages.
 0:12-0:15 - The petals slow and drift downward in golden light, settling around her as she comes to rest, blade still raised, pink blossoms clinging to her hair and shoulders in the final still frame.
+```
+
+<a id="action-fantasy-case-46"></a>
+<!-- Case 46: Volcanic Beast-Rider Impact (by @CharaspowerAI) -->
+### Cas 46: [Impact du cavalier de bête volcanique](https://x.com/CharaspowerAI/status/2082843708655829010) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-46"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082843708655829010.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Ultra-realistic original dark fantasy war sequence on a vast volcanic plain at dusk. An army of terrifying beast riders mounted on armored reptilian and wolf-like creatures charges toward a disciplined line of elite spearmen.
+0–4s: extreme wide shot showing hundreds of mounted creatures racing across ash and burning grass, dust clouds and embers exploding behind them.
+4–9s: low-angle tracking beside the charge, claws pounding the ground, riders roaring, capes and armor shaking, camera weaving between galloping monsters with intense speed.
+9–15s: full-force impact as the beast riders crash into the shield wall, spears splinter, bodies recoil, creatures leap through smoke, the formation bends under enormous pressure.
+
+Epic scale, brutal energy, ultra dynamic camera, photorealistic textures, cinematic dust, ash, sparks, deep orange firelight against black storm clouds.
+```
+
+<a id="action-fantasy-case-47"></a>
+<!-- Case 47: Steel-Beam Flying Kick Showdown (by @Linkinpark3Park) -->
+### Cas 47: [Affrontement avec coup de pied volant sur poutres d'acier](https://x.com/Linkinpark3Park/status/2082892901412200571) (par [@Linkinpark3Park](https://x.com/Linkinpark3Park))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-47"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082892901412200571.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+[视觉风格与整体基调]
+高空电影级动作场面，照片级写实风格，8K分辨率。背景为高空露天钢结构工地，包含金属格栅、远处的黄色起重机、阴郁的暴风雨云层及工业美学风格。
+
+• 0:00 - 0:01：低角度镜头。两名身穿黑色战术装备的男子在阴郁暴风雨天空的映衬下，从裸露的钢结构横梁旁坠落。
+• 0:01 - 0:04：中景镜头。主角（金发女性，身穿灰色露脐“87”字样卫衣、宽松蓝色牛仔工装裤及红白配色运动鞋）拦截袭击者。她格挡攻击、踢出高腿、闪身躲避，并猛力将一名男子过肩摔至金属格栅地面上。
+• 0:04 - 0:06：全景镜头。主角同时与多名袭击者搏斗，施展旋转攻击，将其中一名对手彻底击落平台边缘。
+• 0:06 - 0:07：追踪镜头。主角自信地在狭窄、裸露的工字钢梁上疾跑。
+• 0:07 - 0:09：空中冲击镜头。[服装一致性修正：严格锁定其灰色露脐卫衣和宽松蓝色牛仔工装裤；下装不得变更为参考视频中的款式]。她跃入空中，向一名袭击者踢出威力巨大的飞踢，将其向后击飞，直至撞上远处的黄色起重机，激起明亮的火花。
+• 0:09 - 0:11：英雄定格镜头。主角平稳着陆于钢梁边缘，摆出强有力的武术定格姿势，单拳向前伸出。
+
+负面提示词（高级设置）
+卡通、3D渲染、动漫风格、低分辨率。
 ```
 
 <a id="cinematic-realism"></a>
@@ -2840,7 +2888,7 @@ After the banner reaches the bottom, it naturally rebounds under the installatio
 ```
 
 <a id="reference-driven"></a>
-## 🖼️ Reference-Driven (25)
+## 🖼️ Reference-Driven (26)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -4029,6 +4077,40 @@ F09 / wide tracking / escape trajectory: Wide tracking shot. V1 exits the hairpi
 F10 / low close-up / cool-down glide: Low close-up view. V1 roars directly past the camera, leaving flat-styled wind-speed lines slicing through the frame as the engine note fades into a distant, echoing mountain howl.
 ```
 
+<a id="reference-driven-case-26"></a>
+<!-- Case 26: Dragonfire Ice Bridge Rescue (by @aivoxyy) -->
+### Cas 26: [Sauvetage sur le pont de glace sous le feu du dragon](https://x.com/aivoxyy/status/2082796978287915325) (par [@aivoxyy](https://x.com/aivoxyy))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082796978287915325.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+USE THE PART 2 STORYBOARD IMAGE as the exact starting frame — continuing from MILO's inhale on the ice. Smooth continuous realistic motion only — NO teleporting, NO snapping to new positions, NO face or body morphing, NO instant state changes (all transitions slow and visible). ONE clear spatial state — no more than one elevation change. 100% PHOTOREALISTIC — NOT ANIMATED — NOT CARTOON. Weta Digital / ILM quality. ONE CONTINUOUS ACTION: freezing a bridge across the river.
+
+MILO: match the MILO sheet exactly — juvenile teal dragon the size of a large cat, iridescent teal-cerulean scales with oil-slick iridescence, broad flattened iguana-like head, crown of ivory backward-pointing bone spikes, large round dark eyes with bright wet reflective highlights, oversized bat-membrane wings, pale cream-teal underbelly. Photorealistic Weta Digital CGI — NOT animated, NOT cartoon.
+MILO'S FIRE — CRITICAL: iridescent BLUE-TEAL dragonfire only — vivid cyan and teal-blue, cold blue-white core, teal edges. NEVER orange, yellow, or red. It runs COLD — frost blooms where it passes, breath fogs near it.
+KAEL: match the KAEL sheet exactly — a lean, wiry figure, dark black slightly wavy hair, warm olive-tan freckled skin, large dark expressive brown eyes, worn ragged earthy brown-khaki tunic, leather bracers. Photorealistic, NOT animated.
+THE CHILD: small bundled village child, shown at respectful distance, safe throughout.
+
+ENVIRONMENT: the same winter river, snowy banks, grey light.
+
+POSITION LOCK: MILO stays on the ice sheet for Beats 1-3 — only his head and neck move to direct the fire. He does not fly until Beat 5.
+
+ANIMATE 6 BEATS:
+Beat 1 — MILO releasing a powerful continuous stream of BLUE-TEAL cold fire down onto the surface of the rushing water, aimed toward the bank.
+Beat 2 — THE HERO MOMENT: the dark rushing water freezing solid in the flame's path — a strip of thick white-blue ice racing visibly across the river surface toward the bank, spray frozen mid-splash into crystal shapes. Hold an extra beat on this.
+Beat 3 — The ice bridge completing all the way to the snowy bank, MILO's flame cutting off, the new frozen path steaming with cold vapor. MILO turning back toward the child.
+Beat 4 — The child stepping carefully onto the ice bridge and walking toward shore, villagers hurrying down the bank to meet them, relief on every face.
+Beat 5 — MILO launching and flying back to land on KAEL's shoulder, his glow settling to a soft shimmer, first snowflakes beginning to fall.
+Beat 6 — Wide final: the frozen bridge still standing across the dark river, villagers gathered staring at it in silence, MILO and KAEL small at the crowd's edge. Snow falling. HARD CUT.
+
+CAMERA: low angle on the fire release, a tracking shot racing along the freezing water with the ice, wide on the completed bridge, warm mid shots for the rescue, wide final.
+LIGHTING: cold grey winter light, the blue fire and fresh ice glowing faintly, soft snowfall at the end.
+```
+
 <a id="surreal-vfx"></a>
 ## 🌀 Surreal / VFX (19)
 
@@ -4514,7 +4596,7 @@ A modern city begins crystallizing from the ground upward. Streets, cars, trees,
 ```
 
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (27)
+## 📐 Templates & Structured Formats (28)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -5277,6 +5359,40 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): "And then suddenly, it's showtime."
 
 8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): "This is the part that makes all of it worth it."
+```
+
+<a id="templates-structured-case-28"></a>
+<!-- Case 28: Tiger-Eye Logo Reveal (by @second_bassoon) -->
+### Cas 28: [Révélation de logo à motif œil de tigre](https://x.com/second_bassoon/status/2082926707871244566) (par [@second_bassoon](https://x.com/second_bassoon))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082926707871244566.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+The frame begins completely black and empty.
+
+FIRST 70 PERCENT OF THE SHOT — THE WRITING
+Ink brushstrokes appear and grow across the frame, drawing the lettering into existence stroke by stroke, left to right, as if written by an invisible calligraphy brush. Each stroke starts at one end and extends rapidly to the other, the ink spreading outward along the path of the stroke with dry bristle texture trailing behind it. The letters build in reading order, one after another, never all at once, never fading in.
+
+Throughout this entire writing phase, the enclosed interior of the letter G contains a tiger eye that is completely closed. Its lids are shut tight, forming a thin dark seam that is solid black and indistinguishable from the background. No amber, no orange, no gold, and no color of any kind is visible anywhere in the frame during the writing. The inside of the G reads as empty black.
+
+FINAL 30 PERCENT OF THE SHOT — THE UNDERLINE AND THE EYE, SIMULTANEOUSLY
+Only once every letter is complete and the lettering is holding still do the final two events begin, and they begin at the same moment.
+
+A single long horizontal brushstroke sweeps rapidly left to right beneath the lettering, extending in one continuous confident motion and tapering to a fine dry point at its right end.
+
+At that same instant, the closed tiger eye inside the G opens. Its lids part vertically from the thin dark seam, the aperture widening upward and downward until the amber-gold iris and its black vertical slit pupil fill the entire interior of the G, edge to edge, meeting the brush strokes on every side. The eye opens quickly and settles. This is the first and only moment any color appears in the shot.
+
+THROUGHOUT
+The lettering never moves, never drifts, never changes shape or position once drawn. Letters only extend and complete — they never warp, morph, wobble, or reshape themselves. The camera is completely locked and static. No camera movement of any kind, no zoom, no push, no drift, no shake.
+
+No visible hand, no visible brush, no arm, no person. No ink splatter, no drips, no smoke, no particles. No fade-in, no dissolve, no glow, no light rays. The background stays solid pure black and completely empty for the entire shot.
+
+NEGATIVE
+The eye must not be open, visible, or colored at any point during the writing phase. No amber, orange, or gold anywhere in the frame until the underline begins. The eye does not fade in, brighten, or grow — it opens by parting its lids. The eye never appears before the lettering is finished.
 ```
 
 <a id="general-cinematic"></a>
@@ -6138,8 +6254,8 @@ Sound: Authentic market ambient sounds—faint, distant conversations, footsteps
 
 Utilisez la surface API/skill associée pour exécuter ; ce dépôt reste la surface de prompts et de découverte.
 
-- [Lire les exemples de l’API Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- [Installer la skill Seedance 2.0](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw)
+- [Lire les exemples de l’API Seedance 2.0](https://docs.evolink.ai/en/quickstart?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=quick_integration)
+- [Installer la skill Seedance 2.0](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=text_to_video_guide)
 - [Lire la documentation API EvoLink](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link)
 
 <a id="contributing"></a>

@@ -8,6 +8,6 @@ Unacceptable behavior includes harassment, discriminatory language, publishing p
 
 ## Enforcement
 
-Report sensitive conduct concerns through the repository's [Security page](https://github.com/Evolink-AI/awesome-seedance-2.0-prompts/security) rather than posting private details in a public issue. Maintainers may edit, reject, or remove contributions and restrict participation when behavior threatens contributors or the project.
+Report sensitive conduct concerns through the private contact path in [SECURITY.md](SECURITY.md) rather than posting private details in a public issue. Maintainers may edit, reject, or remove contributions and restrict participation when behavior threatens contributors or the project.
 
 This policy applies to repository issues, pull requests, reviews, and other project-managed spaces.

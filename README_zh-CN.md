@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![在浏览器中试用 Seedance 2.0](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![提示词-224 个独特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-224%20%E4%B8%AA%E7%8B%AC%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
+[![提示词-228 个独特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-228%20%E4%B8%AA%E7%8B%AC%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 欢迎来到 Awesome Seedance 2.0 Prompts 仓库！🤗
 
-**本仓库收录 224 个有来源和作者标注的 Seedance 2.0 电影级视频生成提示词案例。**
+**本仓库收录 228 个有来源和作者标注的 Seedance 2.0 电影级视频生成提示词案例。**
 
 提示词整理自创作者公开帖子，并保留为可复用的 GitHub 原生资料。
 
@@ -69,11 +69,11 @@ curl --request GET \
   --header "Authorization: Bearer ${EVOLINK_API_KEY}"
 ```
 
-补充资源：[API 示例](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)、[OpenClaw skill](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw)、[EvoLink API 文档](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-overview?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=first_run)。
+补充资源：[API 示例](https://docs.evolink.ai/en/quickstart?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=quick_integration)、[OpenClaw skill](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=text_to_video_guide)、[EvoLink API 文档](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-overview?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=first_run)。
 <a id="statistics"></a>
 ## 📊 统计
 
-224 个独特案例分布于 8 个分类，并同步到 11 份 README 文件。
+228 个独特案例分布于 8 个分类，并同步到 11 份 README 文件。
 
 <a id="how-to-use"></a>
 ## 🧭 如何使用此仓库
@@ -88,7 +88,7 @@ curl --request GET \
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (45)
+- [⚔️ Action / Fantasy](#action-fantasy) (47)
   - [案例 1: 街头说唱 MV 表演 (by @songguoxiansen)](#action-fantasy-case-1)
   - [案例 2: 黑猫沙漠武侠对决 (by @nopinduoduo)](#action-fantasy-case-2)
   - [案例 3: 真人版呼吸术决斗 (by @johnAGI168)](#action-fantasy-case-3)
@@ -134,6 +134,8 @@ curl --request GET \
   - [案例 43: 极地基地巨虫袭击 (by @StevieMac03)](#action-fantasy-case-43)
   - [案例 44: 末日荒原流浪者蒙太奇 (by @DjajaYerry75)](#action-fantasy-case-44)
   - [案例 45: 樱花剑击冲击波 (by @MO_IAI)](#action-fantasy-case-45)
+  - [案例 46: 火山巨兽骑士冲击 (by @CharaspowerAI)](#action-fantasy-case-46)
+  - [案例 47: 钢梁飞踢对决 (by @Linkinpark3Park)](#action-fantasy-case-47)
 - [🎞️ Cinematic Realism](#cinematic-realism) (13)
   - [案例 1: 现代日本纪录片序列 (by @kuranoayashi)](#cinematic-realism-case-1)
   - [案例 2: 追逐影子的长板下坡 (by @Dheepanratnam)](#cinematic-realism-case-2)
@@ -204,7 +206,7 @@ curl --request GET \
   - [案例 31: 绯红可乐复古广告 (by @DjajaYerry75)](#commercial-product-case-31)
   - [案例 32: 雪碧喷泉夏日广告 (by @AIwithSynthia)](#commercial-product-case-32)
   - [案例 33: 巨幅广告幕布展开 (by @insmind_com)](#commercial-product-case-33)
-- [🖼️ Reference-Driven](#reference-driven) (25)
+- [🖼️ Reference-Driven](#reference-driven) (26)
   - [案例 1: 骷髅钢琴家微缩景观表演 (by @tea_story_hoshi)](#reference-driven-case-1)
   - [案例 2: 风暴船上的公主对决海怪 (by @applete77191758)](#reference-driven-case-2)
   - [案例 3: 女仆剑舞：芽衣对决可可 (by @MiraMusic_AI)](#reference-driven-case-3)
@@ -230,6 +232,7 @@ curl --request GET \
   - [案例 23: 山巅巨龙起飞 (by @minuitIA)](#reference-driven-case-23)
   - [案例 24: JDM 山路漂移分镜 (by @beginnersblog1)](#reference-driven-case-24)
   - [案例 25: 黑雨漂移连续性 (by @itsPixieVerse)](#reference-driven-case-25)
+  - [案例 26: 龙焰冰桥救援 (by @aivoxyy)](#reference-driven-case-26)
 - [🌀 Surreal / VFX](#surreal-vfx) (19)
   - [案例 1: 零重力武士刀战斗 (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [案例 2: 云中鲸鱼超现实史诗 (by @chaosdotjpg)](#surreal-vfx-case-2)
@@ -250,7 +253,7 @@ curl --request GET \
   - [案例 17: 宇宙蚀神谕者 (by @itsPixieVerse)](#surreal-vfx-case-17)
   - [案例 18: 迷幻现实裂变 (by @Ankit_patel211)](#surreal-vfx-case-18)
   - [案例 19: 玻璃城市结晶化 (by @LudovicCreator)](#surreal-vfx-case-19)
-- [📐 Templates & Structured Formats](#templates-structured) (27)
+- [📐 Templates & Structured Formats](#templates-structured) (28)
   - [案例 1: 超级航母灾难性沉没 (by @johnAGI168)](#templates-structured-case-1)
   - [案例 2: 记忆碎片重构 (by @TechTalkNAVI)](#templates-structured-case-2)
   - [案例 3: 从蓝图到现实——单层住宅变形 (by @craftian_keskin)](#templates-structured-case-3)
@@ -278,6 +281,7 @@ curl --request GET \
   - [案例 25: 霓虹小巷翻盖手机漫步 (by @itsPixieVerse)](#templates-structured-case-25)
   - [案例 26: 幕后穿搭对比 Vlog (by @doctorwasif)](#templates-structured-case-26)
   - [案例 27: 偶像日常蒙太奇 (by @doctorwasif)](#templates-structured-case-27)
+  - [案例 28: 虎眼标志揭晓 (by @second_bassoon)](#templates-structured-case-28)
 - [🎬 General Cinematic](#general-cinematic) (41)
   - [案例 1: 高跟鞋节拍同步时尚特写 (by @TingFengAIAI)](#general-cinematic-case-1)
   - [案例 2: 儿童卧室里的迷你滑板逃脱 (by @anson7956)](#general-cinematic-case-2)
@@ -322,7 +326,7 @@ curl --request GET \
   - [案例 41: 瓷娃娃生日惊悚 (by @Ankit_patel211)](#general-cinematic-case-41)
 
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantasy (45)
+## ⚔️ Action / Fantasy (47)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1283,6 +1287,50 @@ Fast-paced action montage of a lone wanderer sprinting through a post-apocalypti
 0:06-0:09 - Her blade cuts through the frame in a decisive arc, the strike igniting a circular shockwave explosion made entirely of scattering pink flower petals and blossom fragments.
 0:09-0:12 - Delayed trails of soft pink petals ripple outward in sequence, tracing the full invisible path of the strike through the air like blooming afterimages.
 0:12-0:15 - The petals slow and drift downward in golden light, settling around her as she comes to rest, blade still raised, pink blossoms clinging to her hair and shoulders in the final still frame.
+```
+
+<a id="action-fantasy-case-46"></a>
+<!-- Case 46: Volcanic Beast-Rider Impact (by @CharaspowerAI) -->
+### 案例 46: [火山巨兽骑士冲击](https://x.com/CharaspowerAI/status/2082843708655829010) (作者 [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-46"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082843708655829010.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+Ultra-realistic original dark fantasy war sequence on a vast volcanic plain at dusk. An army of terrifying beast riders mounted on armored reptilian and wolf-like creatures charges toward a disciplined line of elite spearmen.
+0–4s: extreme wide shot showing hundreds of mounted creatures racing across ash and burning grass, dust clouds and embers exploding behind them.
+4–9s: low-angle tracking beside the charge, claws pounding the ground, riders roaring, capes and armor shaking, camera weaving between galloping monsters with intense speed.
+9–15s: full-force impact as the beast riders crash into the shield wall, spears splinter, bodies recoil, creatures leap through smoke, the formation bends under enormous pressure.
+
+Epic scale, brutal energy, ultra dynamic camera, photorealistic textures, cinematic dust, ash, sparks, deep orange firelight against black storm clouds.
+```
+
+<a id="action-fantasy-case-47"></a>
+<!-- Case 47: Steel-Beam Flying Kick Showdown (by @Linkinpark3Park) -->
+### 案例 47: [钢梁飞踢对决](https://x.com/Linkinpark3Park/status/2082892901412200571) (作者 [@Linkinpark3Park](https://x.com/Linkinpark3Park))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-47"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082892901412200571.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+[视觉风格与整体基调]
+高空电影级动作场面，照片级写实风格，8K分辨率。背景为高空露天钢结构工地，包含金属格栅、远处的黄色起重机、阴郁的暴风雨云层及工业美学风格。
+
+• 0:00 - 0:01：低角度镜头。两名身穿黑色战术装备的男子在阴郁暴风雨天空的映衬下，从裸露的钢结构横梁旁坠落。
+• 0:01 - 0:04：中景镜头。主角（金发女性，身穿灰色露脐“87”字样卫衣、宽松蓝色牛仔工装裤及红白配色运动鞋）拦截袭击者。她格挡攻击、踢出高腿、闪身躲避，并猛力将一名男子过肩摔至金属格栅地面上。
+• 0:04 - 0:06：全景镜头。主角同时与多名袭击者搏斗，施展旋转攻击，将其中一名对手彻底击落平台边缘。
+• 0:06 - 0:07：追踪镜头。主角自信地在狭窄、裸露的工字钢梁上疾跑。
+• 0:07 - 0:09：空中冲击镜头。[服装一致性修正：严格锁定其灰色露脐卫衣和宽松蓝色牛仔工装裤；下装不得变更为参考视频中的款式]。她跃入空中，向一名袭击者踢出威力巨大的飞踢，将其向后击飞，直至撞上远处的黄色起重机，激起明亮的火花。
+• 0:09 - 0:11：英雄定格镜头。主角平稳着陆于钢梁边缘，摆出强有力的武术定格姿势，单拳向前伸出。
+
+负面提示词（高级设置）
+卡通、3D渲染、动漫风格、低分辨率。
 ```
 
 <a id="cinematic-realism"></a>
@@ -2840,7 +2888,7 @@ After the banner reaches the bottom, it naturally rebounds under the installatio
 ```
 
 <a id="reference-driven"></a>
-## 🖼️ Reference-Driven (25)
+## 🖼️ Reference-Driven (26)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -4029,6 +4077,40 @@ F09 / wide tracking / escape trajectory: Wide tracking shot. V1 exits the hairpi
 F10 / low close-up / cool-down glide: Low close-up view. V1 roars directly past the camera, leaving flat-styled wind-speed lines slicing through the frame as the engine note fades into a distant, echoing mountain howl.
 ```
 
+<a id="reference-driven-case-26"></a>
+<!-- Case 26: Dragonfire Ice Bridge Rescue (by @aivoxyy) -->
+### 案例 26: [龙焰冰桥救援](https://x.com/aivoxyy/status/2082796978287915325) (作者 [@aivoxyy](https://x.com/aivoxyy))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082796978287915325.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+USE THE PART 2 STORYBOARD IMAGE as the exact starting frame — continuing from MILO's inhale on the ice. Smooth continuous realistic motion only — NO teleporting, NO snapping to new positions, NO face or body morphing, NO instant state changes (all transitions slow and visible). ONE clear spatial state — no more than one elevation change. 100% PHOTOREALISTIC — NOT ANIMATED — NOT CARTOON. Weta Digital / ILM quality. ONE CONTINUOUS ACTION: freezing a bridge across the river.
+
+MILO: match the MILO sheet exactly — juvenile teal dragon the size of a large cat, iridescent teal-cerulean scales with oil-slick iridescence, broad flattened iguana-like head, crown of ivory backward-pointing bone spikes, large round dark eyes with bright wet reflective highlights, oversized bat-membrane wings, pale cream-teal underbelly. Photorealistic Weta Digital CGI — NOT animated, NOT cartoon.
+MILO'S FIRE — CRITICAL: iridescent BLUE-TEAL dragonfire only — vivid cyan and teal-blue, cold blue-white core, teal edges. NEVER orange, yellow, or red. It runs COLD — frost blooms where it passes, breath fogs near it.
+KAEL: match the KAEL sheet exactly — a lean, wiry figure, dark black slightly wavy hair, warm olive-tan freckled skin, large dark expressive brown eyes, worn ragged earthy brown-khaki tunic, leather bracers. Photorealistic, NOT animated.
+THE CHILD: small bundled village child, shown at respectful distance, safe throughout.
+
+ENVIRONMENT: the same winter river, snowy banks, grey light.
+
+POSITION LOCK: MILO stays on the ice sheet for Beats 1-3 — only his head and neck move to direct the fire. He does not fly until Beat 5.
+
+ANIMATE 6 BEATS:
+Beat 1 — MILO releasing a powerful continuous stream of BLUE-TEAL cold fire down onto the surface of the rushing water, aimed toward the bank.
+Beat 2 — THE HERO MOMENT: the dark rushing water freezing solid in the flame's path — a strip of thick white-blue ice racing visibly across the river surface toward the bank, spray frozen mid-splash into crystal shapes. Hold an extra beat on this.
+Beat 3 — The ice bridge completing all the way to the snowy bank, MILO's flame cutting off, the new frozen path steaming with cold vapor. MILO turning back toward the child.
+Beat 4 — The child stepping carefully onto the ice bridge and walking toward shore, villagers hurrying down the bank to meet them, relief on every face.
+Beat 5 — MILO launching and flying back to land on KAEL's shoulder, his glow settling to a soft shimmer, first snowflakes beginning to fall.
+Beat 6 — Wide final: the frozen bridge still standing across the dark river, villagers gathered staring at it in silence, MILO and KAEL small at the crowd's edge. Snow falling. HARD CUT.
+
+CAMERA: low angle on the fire release, a tracking shot racing along the freezing water with the ice, wide on the completed bridge, warm mid shots for the rescue, wide final.
+LIGHTING: cold grey winter light, the blue fire and fresh ice glowing faintly, soft snowfall at the end.
+```
+
 <a id="surreal-vfx"></a>
 ## 🌀 Surreal / VFX (19)
 
@@ -4514,7 +4596,7 @@ A modern city begins crystallizing from the ground upward. Streets, cars, trees,
 ```
 
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (27)
+## 📐 Templates & Structured Formats (28)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -5277,6 +5359,40 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): "And then suddenly, it's showtime."
 
 8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): "This is the part that makes all of it worth it."
+```
+
+<a id="templates-structured-case-28"></a>
+<!-- Case 28: Tiger-Eye Logo Reveal (by @second_bassoon) -->
+### 案例 28: [虎眼标志揭晓](https://x.com/second_bassoon/status/2082926707871244566) (作者 [@second_bassoon](https://x.com/second_bassoon))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2082926707871244566.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+The frame begins completely black and empty.
+
+FIRST 70 PERCENT OF THE SHOT — THE WRITING
+Ink brushstrokes appear and grow across the frame, drawing the lettering into existence stroke by stroke, left to right, as if written by an invisible calligraphy brush. Each stroke starts at one end and extends rapidly to the other, the ink spreading outward along the path of the stroke with dry bristle texture trailing behind it. The letters build in reading order, one after another, never all at once, never fading in.
+
+Throughout this entire writing phase, the enclosed interior of the letter G contains a tiger eye that is completely closed. Its lids are shut tight, forming a thin dark seam that is solid black and indistinguishable from the background. No amber, no orange, no gold, and no color of any kind is visible anywhere in the frame during the writing. The inside of the G reads as empty black.
+
+FINAL 30 PERCENT OF THE SHOT — THE UNDERLINE AND THE EYE, SIMULTANEOUSLY
+Only once every letter is complete and the lettering is holding still do the final two events begin, and they begin at the same moment.
+
+A single long horizontal brushstroke sweeps rapidly left to right beneath the lettering, extending in one continuous confident motion and tapering to a fine dry point at its right end.
+
+At that same instant, the closed tiger eye inside the G opens. Its lids part vertically from the thin dark seam, the aperture widening upward and downward until the amber-gold iris and its black vertical slit pupil fill the entire interior of the G, edge to edge, meeting the brush strokes on every side. The eye opens quickly and settles. This is the first and only moment any color appears in the shot.
+
+THROUGHOUT
+The lettering never moves, never drifts, never changes shape or position once drawn. Letters only extend and complete — they never warp, morph, wobble, or reshape themselves. The camera is completely locked and static. No camera movement of any kind, no zoom, no push, no drift, no shake.
+
+No visible hand, no visible brush, no arm, no person. No ink splatter, no drips, no smoke, no particles. No fade-in, no dissolve, no glow, no light rays. The background stays solid pure black and completely empty for the entire shot.
+
+NEGATIVE
+The eye must not be open, visible, or colored at any point during the writing phase. No amber, orange, or gold anywhere in the frame until the underline begins. The eye does not fade in, brighten, or grow — it opens by parting its lids. The eye never appears before the lettering is finished.
 ```
 
 <a id="general-cinematic"></a>
@@ -6138,8 +6254,8 @@ Sound: Authentic market ambient sounds—faint, distant conversations, footsteps
 
 执行请使用相邻的 API/skill 界面；本仓库保持为提示词与发现入口。
 
-- [阅读 Seedance 2.0 API 示例](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- [安装 Seedance 2.0 skill](https://github.com/Evolink-AI/seedance2-video-gen-skill-for-openclaw)
+- [阅读 Seedance 2.0 API 示例](https://docs.evolink.ai/en/quickstart?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=quick_integration)
+- [安装 Seedance 2.0 skill](https://docs.evolink.ai/en/api-manual/video-series/seedance2.0/seedance-2.0-text-to-video?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=text_to_video_guide)
 - [阅读 EvoLink API 文档](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link)
 
 <a id="contributing"></a>
