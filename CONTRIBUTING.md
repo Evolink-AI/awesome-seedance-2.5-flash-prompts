@@ -1,32 +1,16 @@
 # Contributing
 
-## Scope
+This repository collects Seedance 2.5 Flash prompts and demos. The Seedance 2.0 archive preserves examples from the previous model.
 
-This repository is a curated Seedance 2.0 prompt library. Contributions should improve prompt quality, source attribution, media evidence, localization, or repository consistency.
+## Source evidence
 
-## What qualifies
+For every submission, provide the public post, author profile, and an original preview or playback link. Identify Seedance 2.5 Flash using evidence from the source and check the index for duplicates.
 
-Valid entries include direct video-generation prompts, reusable prompt templates, structured prompt formats, and reference-driven prompts whose media tokens are part of the public prompt.
+A prompt case needs the exact public prompt and any reference requirements. When a creator shares a result without the full prompt, submit it as a demo and describe only what the source supports.
 
-Do not submit commentary, repost captions, marketing copy, unsupported fragments, duplicate source URLs, private material, or generated prompts presented as creator originals.
+## Repository updates
 
-## Required evidence
-
-Every proposed case needs:
-
-- a public source URL
-- an author profile URL
-- the exact reusable prompt boundary
-- one existing category
-- public preview evidence
-
-Keep prompt-internal media references such as `@image1` when they are required. Remove social mentions only when they are surrounding noise rather than prompt logic.
-
-## Repository synchronization
-
-Update English first, then all localized READMEs. Preserve prompt blocks, source/author URLs, handles, model IDs, commands, media URLs, and UTM parameters across languages. Update `data/ingested_sources.json`, Menu links, category counts, and the 155-case badge in the same change.
-
-## Pull request gate
+Update the English README, all localized READMEs, and the source index together. Keep prompt text, source URLs, media, and anchors consistent across languages. See the [maintenance guide](docs/maintenance.md) for the index and audit commands.
 
 Before opening a pull request, run:
 
@@ -34,5 +18,3 @@ Before opening a pull request, run:
 python3 tools/verify_repo.py
 git diff --check
 ```
-
-Use the pull request checklist to record source metadata, localization, R2 media, validation, and the boundary between this prompt repository and the adjacent API/skill repository.

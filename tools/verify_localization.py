@@ -83,7 +83,9 @@ def main() -> int:
             errors.append(f"{filename}: case ids/order differ from English")
         if case_prompt_blocks(text) != english_codes:
             errors.append(f"{filename}: prompt blocks differ from English")
-        if text.count(f"| {output_label} |") != EXPECTED_COUNT or text.count(f"**{prompt_label}:**") != EXPECTED_COUNT:
+        prompt_section = text.split('<a id="demo-gallery"></a>', 1)[0]
+        if (prompt_section.splitlines().count(f"| {output_label} |") != EXPECTED_COUNT
+                or prompt_section.splitlines().count(f"**{prompt_label}:**") != EXPECTED_COUNT):
             errors.append(f"{filename}: localized Output/Prompt labels are incomplete")
         for case_id, source in english_by_id.items():
             item = localized_by_id.get(case_id)

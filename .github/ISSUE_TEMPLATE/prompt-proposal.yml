@@ -1,5 +1,5 @@
 name: Prompt proposal
-description: Propose a source-backed Seedance 2.0 prompt case.
+description: Propose a source-backed Seedance 2.5 Flash prompt case.
 title: "[Prompt]: "
 labels: [prompt]
 body:
@@ -27,14 +27,7 @@ body:
     attributes:
       label: Category
       options:
-        - Action / Fantasy
-        - Cinematic Realism
-        - POV / FPV
-        - Commercial / Product
-        - Reference-Driven
-        - Surreal / VFX
-        - Templates & Structured Formats
-        - General Cinematic
+        - Action
     validations:
       required: true
   - type: textarea

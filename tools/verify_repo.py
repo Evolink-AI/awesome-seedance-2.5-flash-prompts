@@ -15,12 +15,12 @@ READMES = [
     'README_de.md', 'README_fr.md', 'README_tr.md', 'README_zh-TW.md',
     'README_zh-CN.md', 'README_ru.md',
 ]
-R2_PREFIX = 'https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/'
 CAMPAIGN = 'awesome-seedance-2.0-prompts'
 CASE_RE = re.compile(r'^### [^:\n]+? (\d+): \[([^]]+)\]\(([^)]+)\) \([^()\n]+? \[@([^]]+)\]\(([^)]+)\)\)', re.M)
 PROMPT_RE = re.compile(r'^```[^\n]*\n(.*?)\n```$', re.M | re.S)
 BANNER_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="900"')
-CASE_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="300"')
+MEDIA_RE = re.compile(r'<a href="([^"]+)"><img src="([^"]+)" width="300"')
+DEMO_RE = re.compile(r'^\*\*\[([^]]+)\]\(([^)]+)\)\*\*.*?\[@([^]]+)\]\(([^)]+)\)', re.M)
 HTTP_RE = re.compile(r'https?://[^\s)>"]+')
 
 errors: list[str] = []
@@ -52,30 +52,58 @@ def main() -> int:
     if len(texts) != 11:
         return finish()
 
+    rows = SOURCE_DATA['cases']
+    demos = SOURCE_DATA['demos']
+    check(SOURCE_DATA['model'] == 'Seedance 2.5 Flash', 'source index model mismatch')
+    check(len(demos) == SOURCE_DATA['demo_count'], 'source index demo count mismatch')
+    all_sources = [row['source_url'] for row in rows + demos]
+    check(len(all_sources) == len(set(all_sources)), 'duplicate prompt or demo sources')
+    expected_media = [(asset['playback_url'], asset['poster_url'])
+                      for row in rows + demos for asset in row['media']]
+    media_ids = [asset['id'] for row in rows + demos for asset in row['media']]
+    check(len(media_ids) == len(set(media_ids)), 'duplicate source media')
+    for playback, poster in expected_media:
+        check(urlparse(playback).hostname == 'video.twimg.com' and
+              urlparse(poster).hostname == 'pbs.twimg.com', 'unexpected source media host')
+    check(urlparse(SOURCE_DATA['banner_url']).hostname == 'cdn.evolink.ai', 'unexpected banner host')
+
     expected_sources = None
     expected_prompts = None
-    expected_images = None
-    expected_banner = None
     english_cases = None
     for name, text in texts.items():
         cases = CASE_RE.findall(text)
         sources = [case[2] for case in cases]
         prompts = case_prompt_blocks(text)
         banners = BANNER_IMAGE_RE.findall(text)
-        images = CASE_IMAGE_RE.findall(text)
+        gallery = text.split('<a id="demo-gallery"></a>', 1)
+        prompt_media = MEDIA_RE.findall(gallery[0])
+        gallery_text = gallery[1].split('<a id="contributing"></a>', 1)[0] if len(gallery) == 2 else ''
+        demo_cards = list(DEMO_RE.finditer(gallery_text))
+        demo_metadata = [match.groups()[1:] for match in demo_cards]
+        indexed_demos = [(row['source_url'], row['author_handle'], row['author_url']) for row in demos]
+        check(demo_metadata == indexed_demos, f'{name}: demo order or attribution differs from source index')
+        for card, row in zip(demo_cards, demos):
+            card_end = gallery_text.find('</td>', card.end())
+            expected = [(asset['playback_url'], asset['poster_url']) for asset in row['media']]
+            check(card_end >= 0 and MEDIA_RE.findall(gallery_text[card.end():card_end]) == expected,
+                  f'{name}: media differs for {row["source_url"]}')
+        check(MEDIA_RE.findall(text) == expected_media, f'{name}: media order differs from source index')
+        check([poster for _, poster in prompt_media] == [row['preview_url'] for row in rows],
+              f'{name}: prompt previews differ from source index')
+        check(not PROMPT_RE.search(gallery_text), f'{name}: demo gallery contains a prompt block')
+        if name == 'README.md':
+            check([match[1] for match in demo_cards] == [row['title'] for row in demos],
+                  'English demo titles differ from source index')
         anchors = re.findall(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text)
         menu_links = re.findall(r'^  - \[.*?\]\(#([a-z0-9-]+-case-\d+)\)$', text, re.M)
 
         check(len(cases) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} cases, got {len(cases)}')
         check(len(set(sources)) == EXPECTED_COUNT, f'{name}: sources are not unique')
         check(len(prompts) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} prompt blocks, got {len(prompts)}')
-        check(len(banners) == 1, f'{name}: expected one first-screen banner, got {len(banners)}')
-        check(all(url.startswith(R2_PREFIX) for url in banners), f'{name}: non-R2 banner found')
-        check(len(images) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} case images, got {len(images)}')
-        check(all(url.startswith(R2_PREFIX) for url in images), f'{name}: non-R2 case media found')
+        check(banners == [SOURCE_DATA['banner_url']], f'{name}: banner differs from source index')
         check(len(anchors) == EXPECTED_COUNT and anchors == menu_links, f'{name}: Menu/case anchor mismatch')
         check(not re.search(r'\| [^|\n]+ \|\n\| :----: \|\n\n\*\*[^*]+:\*\*', text), f'{name}: empty output table found')
-        check('Seedance 2.5' not in text and 'awesome-seedance-2.5-prompts' not in text, f'{name}: Seedance 2.5 drift found')
+        check('Seedance 2.5 Flash' in text and 'seedance-2-0-prompts?' not in text, f'{name}: model identity mismatch')
         check('CC BY 4.0' not in text and 'final open-source license file has not been added' not in text, f'{name}: license drift found')
         check('./public/seedance_2_prompt_images/' not in text, f'{name}: local public media reference found')
         check(not re.search(r'\b(?:TODO|TBD)\b|translation pending|translate to|\{\{[^}]+\}\}', text, re.I), f'{name}: unresolved placeholder found')
@@ -83,18 +111,15 @@ def main() -> int:
             check(') or [' not in text, f'{name}: English Quick Start connector leaked into localized copy')
         check(text.find('<img src=') < text.find('## 🍌'), f'{name}: banner must be before Introduction')
         check(text.rfind('## 🙏') > text.rfind('### Case '), f'{name}: Acknowledge must follow all cases')
-        for anchor in ['introduction','quick-start','statistics','how-to-use','menu','related-repositories','contributing','license','copyright-notice','acknowledge']:
+        for anchor in ['introduction','quick-start','menu','demo-gallery','contributing','license','acknowledge']:
             check(f'<a id="{anchor}"></a>' in text, f'{name}: missing section anchor {anchor}')
 
         if expected_sources is None:
-            expected_sources, expected_prompts, expected_images = sources, prompts, images
-            expected_banner = banners
+            expected_sources, expected_prompts = sources, prompts
             english_cases = cases
         else:
             check(sources == expected_sources, f'{name}: source order differs from English')
             check(prompts == expected_prompts, f'{name}: prompt blocks differ from English')
-            check(images == expected_images, f'{name}: media order differs from English')
-            check(banners == expected_banner, f'{name}: banner differs from English')
 
         for url in HTTP_RE.findall(text):
             parsed = urlparse(url.rstrip('.,;'))
@@ -109,27 +134,19 @@ def main() -> int:
     rows = data.get('cases', [])
     check(EXPECTED_COUNT > 0 and len(rows) == EXPECTED_COUNT, f'source index case count must be {EXPECTED_COUNT}')
     check([row['source_url'] for row in rows] == expected_sources, 'source index order differs from README.md')
-    check([row['preview_url'] for row in rows] == expected_images, 'source index media differs from README.md')
     check([row['title'] for row in rows] == [case[1] for case in english_cases], 'source index titles differ from README.md')
     check([row['author_handle'] for row in rows] == [case[3] for case in english_cases], 'source index author handles differ from README.md')
     check([row['author_url'] for row in rows] == [case[4] for case in english_cases], 'source index author URLs differ from README.md')
     check([row['prompt_sha256'] for row in rows] == [hashlib.sha256(prompt.encode()).hexdigest() for prompt in expected_prompts], 'source index prompt hashes differ from README.md')
     check(sum(item['count'] for item in data.get('categories', [])) == EXPECTED_COUNT, f'category counts do not sum to {EXPECTED_COUNT}')
 
-    allowed_variants = {'Seedance 2 Mini', 'Seedance 2 Omni'}
-    for row in rows:
-        variant = row.get('model_variant')
-        check(not variant or variant in allowed_variants, f"{row.get('id')}: unsupported model_variant {variant!r}")
-        if row.get('prompt_source_url'):
-            check(row['prompt_source_url'].startswith('https://x.com/'), f"{row.get('id')}: invalid prompt_source_url")
-        if variant == 'Seedance 2 Mini':
-            anchor = f'<a id="{row["id"]}"></a>'
-            for name, text in texts.items():
-                start = text.find(anchor)
-                end = text.find('\n<a id="', start + len(anchor)) if start >= 0 else -1
-                block = text[start:end if end >= 0 else None] if start >= 0 else ''
-                required_note = 'Model variant: Seedance 2 Mini' if name == 'README.md' else 'Seedance 2 Mini'
-                check(required_note in block, f'{name}: {row["id"]} missing Mini model note')
+    check([row['prompt_text'] for row in rows] == expected_prompts, 'source index prompt text differs from README.md')
+    check(all(row['prompt_source_url'] == row['source_url'] for row in rows),
+          'prompt source must identify its public post')
+    for name in READMES:
+        suffix = Path(name).stem.removeprefix('README')
+        archive = f'docs/seedance-2-0{suffix}.md'
+        check((ROOT / archive).is_file() and f']({archive})' in texts[name], f'{name}: missing archive link')
 
     required = [
         'LICENSE', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md', 'SECURITY.md',
@@ -155,9 +172,9 @@ def finish() -> int:
         return 1
     print('Repository verification: PASS')
     print('- README files: 11')
-    print(f'- Unique cases/sources/prompts/media per README: {EXPECTED_COUNT}')
-    print('- Model identity: Seedance 2.0')
-    print('- Media policy: R2-hosted')
+    print(f"- Per README: {EXPECTED_COUNT} prompt cases and {SOURCE_DATA['demo_count']} demos")
+    print('- Model identity: Seedance 2.5 Flash')
+    print('- Media: EvoLink cover and original source posters with playback links')
     print('- Source/data equality: PASS')
     return 0
 

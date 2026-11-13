@@ -1,5 +1,10 @@
 # Update Log
 
+## 2026-11-13 — Seedance 2.5 Flash
+
+- Added one creator-published prompt and eleven source-attributed demos to all eleven languages.
+- Moved the 228 Seedance 2.0 prompts to localized archives. Replaced 227 preview references and four author profile links, and removed the old cover and one unverified output preview.
+
 ## 2026-07-31 — 48-hour Seedance 2 prompt update
 
 - searched the exact phrase `"seedance 2"` across the fixed 2026-07-29T02:06:32Z to 2026-07-31T02:06:32Z window
