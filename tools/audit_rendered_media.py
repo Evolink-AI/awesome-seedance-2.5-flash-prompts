@@ -21,7 +21,7 @@ class Images(HTMLParser):
 
 def render_local():
     token=subprocess.run(['gh','auth','token'],capture_output=True,text=True,check=True).stdout.strip()
-    payload=json.dumps({'text':(ROOT/'README.md').read_text(),'mode':'gfm','context':'Evolink-AI/awesome-seedance-2.0-prompts'}).encode()
+    payload=json.dumps({'text':(ROOT/'README.md').read_text(),'mode':'gfm','context':'Evolink-AI/awesome-seedance-2.5-flash-prompts'}).encode()
     headers={'Authorization':f'Bearer {token}','Accept':'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json','User-Agent':'CodexRenderedMediaAudit/1.0'}
     last=None
     largest_partial=b''

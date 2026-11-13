@@ -13,7 +13,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-REPOSITORY = "Evolink-AI/awesome-seedance-2.0-prompts"
+REPOSITORY = "Evolink-AI/awesome-seedance-2.5-flash-prompts"
 STAR_RE = re.compile(r"star-history\.com|Star History", re.I)
 
 
