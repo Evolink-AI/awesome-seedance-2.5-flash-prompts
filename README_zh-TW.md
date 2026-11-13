@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="在瀏覽器試用 Seedance 2.5 Flash"></a>
+<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Seedance 模型系列"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![在瀏覽器試用 Seedance 2.5 Flash](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try#playground)
