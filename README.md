@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Seedance 2.5 Flash on EvoLink"></a>
+<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Seedance 2.5 Flash on EvoLink"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Try Seedance 2.5 Flash in Browser](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try#playground)
@@ -38,6 +38,7 @@ Open the source post and review the shot progression. To adapt the prompt, suppl
   - [Case 1: Monster chase on a storm-lashed suspension bridge](#action-case-1)
 - [Demo Gallery](#demo-gallery)
 - [Seedance 2.0 prompt archive](docs/seedance-2-0.md)
+- [Related Repositories](#related-repositories)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledge](#acknowledge)
@@ -175,6 +176,11 @@ These clips come from public creator and platform posts. The authors did not pub
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 Related Repositories
+
+- [Seedance 2.5 guide](https://github.com/Evolink-AI/awesome-seedance-2.5-guides)
+
 <a id="contributing"></a>
 ## 🤝 Contributing
 
@@ -189,3 +195,5 @@ Repository maintenance code and documentation use the [Apache License 2.0](LICEN
 ## 🙏 Acknowledge
 
 [@MrAnimer_X](https://x.com/MrAnimer_X), [@runwayml](https://x.com/runwayml), [@_3912657840](https://x.com/_3912657840), [@TL_bellbright](https://x.com/TL_bellbright), [@simonecanciello](https://x.com/simonecanciello), [@capcutapp](https://x.com/capcutapp), [@mi7_crypto](https://x.com/mi7_crypto), [@higgsfield](https://x.com/higgsfield), [@newtake_kr](https://x.com/newtake_kr), [@lovart_ai](https://x.com/lovart_ai), [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+
+For attribution corrections or removal requests, open an issue and include the original source URL.

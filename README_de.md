@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Seedance 2.5 Flash im Browser testen"></a>
+<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Seedance 2.5 Flash im Browser testen"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Seedance 2.5 Flash im Browser testen](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try#playground)
@@ -38,6 +38,7 @@ Sieh dir die Abfolge der Einstellungen im Originalbeitrag an. Für eine eigene V
   - [Fall 1: Monsterverfolgung auf einer Hängebrücke im Sturm](#action-case-1)
 - [Demo-Galerie](#demo-gallery)
 - [Seedance 2.0 Prompt-Archiv](docs/seedance-2-0_de.md)
+- [Verwandte Repositorien](#related-repositories)
 - [Mitmachen](#contributing)
 - [Lizenz](#license)
 - [Danksagung](#acknowledge)
@@ -175,6 +176,11 @@ Die Clips stammen aus öffentlichen Beiträgen von Kreativen und Plattformen. Di
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 Verwandte Repositorien
+
+- [Seedance 2.5 Leitfaden](https://github.com/Evolink-AI/awesome-seedance-2.5-guides)
+
 <a id="contributing"></a>
 ## 🤝 Mitmachen
 
@@ -189,3 +195,5 @@ Code und Dokumentation des Repositoriums stehen unter der [Apache License 2.0](L
 ## 🙏 Danksagung
 
 [@MrAnimer_X](https://x.com/MrAnimer_X), [@runwayml](https://x.com/runwayml), [@_3912657840](https://x.com/_3912657840), [@TL_bellbright](https://x.com/TL_bellbright), [@simonecanciello](https://x.com/simonecanciello), [@capcutapp](https://x.com/capcutapp), [@mi7_crypto](https://x.com/mi7_crypto), [@higgsfield](https://x.com/higgsfield), [@newtake_kr](https://x.com/newtake_kr), [@lovart_ai](https://x.com/lovart_ai), [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+
+Erstelle für Korrekturen der Urheberangabe oder Entfernungsanfragen ein Issue mit der URL der Originalquelle.

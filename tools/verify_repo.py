@@ -111,7 +111,7 @@ def main() -> int:
             check(') or [' not in text, f'{name}: English Quick Start connector leaked into localized copy')
         check(text.find('<img src=') < text.find('## 🍌'), f'{name}: banner must be before Introduction')
         check(text.rfind('## 🙏') > text.rfind('### Case '), f'{name}: Acknowledge must follow all cases')
-        for anchor in ['introduction','quick-start','menu','demo-gallery','contributing','license','acknowledge']:
+        for anchor in ['introduction','quick-start','menu','demo-gallery','related-repositories','contributing','license','acknowledge']:
             check(f'<a id="{anchor}"></a>' in text, f'{name}: missing section anchor {anchor}')
 
         if expected_sources is None:

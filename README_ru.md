@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Попробовать Seedance 2.5 Flash в браузере"></a>
+<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Попробовать Seedance 2.5 Flash в браузере"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Попробовать Seedance 2.5 Flash в браузере](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try#playground)
@@ -38,6 +38,7 @@
   - [Пример 1: Погоня монстра за машиной на подвесном мосту в шторм](#action-case-1)
 - [Галерея демо](#demo-gallery)
 - [Архив промптов Seedance 2.0](docs/seedance-2-0_ru.md)
+- [Связанные репозитории](#related-repositories)
 - [Как помочь проекту](#contributing)
 - [Лицензия](#license)
 - [Благодарности](#acknowledge)
@@ -175,6 +176,11 @@
 </tr>
 </table>
 
+<a id="related-repositories"></a>
+## 🔗 Связанные репозитории
+
+- [Руководство по Seedance 2.5](https://github.com/Evolink-AI/awesome-seedance-2.5-guides)
+
 <a id="contributing"></a>
 ## 🤝 Как помочь проекту
 
@@ -189,3 +195,5 @@
 ## 🙏 Благодарности
 
 [@MrAnimer_X](https://x.com/MrAnimer_X), [@runwayml](https://x.com/runwayml), [@_3912657840](https://x.com/_3912657840), [@TL_bellbright](https://x.com/TL_bellbright), [@simonecanciello](https://x.com/simonecanciello), [@capcutapp](https://x.com/capcutapp), [@mi7_crypto](https://x.com/mi7_crypto), [@higgsfield](https://x.com/higgsfield), [@newtake_kr](https://x.com/newtake_kr), [@lovart_ai](https://x.com/lovart_ai), [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+
+Чтобы исправить указание авторства или запросить удаление, создайте обращение и укажите ссылку на исходную публикацию.
