@@ -173,6 +173,7 @@ Les extraits proviennent de publications publiques de créateurs et de plateform
 <a href="https://video.twimg.com/amplify_video/2120755996377468928/vid/avc1/1920x1080/SSI1B7gdxEGTaYJQ.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2120755996377468928/img/qi0WXbbgHYas8K1I.jpg" width="300" alt="Comédie de bureau"></a>
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
