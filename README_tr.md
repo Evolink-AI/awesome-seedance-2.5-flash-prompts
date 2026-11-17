@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 Giriş
 
-Bu koleksiyonda yaratıcısının yayımladığı bir Seedance 2.5 Flash istemi ve kaynak bağlantılarıyla birlikte on bir demo bulunur.
+Bu koleksiyonda yaratıcısının yayımladığı iki Seedance 2.5 Flash istemi ve kaynak bağlantılarıyla birlikte on bir demo bulunur.
 
 <a id="quick-start"></a>
 ## 🚀 Hızlı başlangıç
@@ -36,6 +36,7 @@ Orijinal gönderideki çekim sırasına bakın. İstemi uyarlarken kendi karakte
 - [Hızlı başlangıç](#quick-start)
 - [Aksiyon](#action)
   - [Örnek 1: Fırtınada asma köprüde canavardan kaçış](#action-case-1)
+  - [Örnek 2: Saat tünelinde roket yolculuğu](#action-case-2)
 - [Demo galerisi](#demo-gallery)
 - [Seedance 2.0 istem arşivi](docs/seedance-2-0_tr.md)
 - [İlgili depolar](#related-repositories)
@@ -77,6 +78,28 @@ Orijinal gönderideki çekim sırasına bakın. İstemi uyarlarken kendi karakte
 
 > [!NOTE]
 > Orijinal gönderide karakterin referans görseli yoktur. İstemde hem dikey biçim hem de 16:9 yazıyor. Uyarlama sırasında bir en boy oranı belirleyin.
+
+<a id="action-case-2"></a>
+### Örnek 2: [Saat tünelinde roket yolculuğu](https://x.com/SocialSight/status/2122375587029221577) (yazan [@SocialSight](https://x.com/SocialSight))
+
+| Çıktı |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="Saat tünelinde roket yolculuğu"></a> |
+
+**İstem:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> Yazar, tam istemi ileti dizisindeki bir yanıtta yayımladı. Kök gönderi, karşılaştırılan Seedance 2.5 Flash medyasını sağlar.
 
 <a id="demo-gallery"></a>
 ## 🌐 Demo galerisi

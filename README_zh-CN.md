@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 简介
 
-本库收录 1 条由作者公开的 Seedance 2.5 Flash 提示词，以及 11 条附原始出处的演示视频。
+本库收录 2 条由作者公开的 Seedance 2.5 Flash 提示词，以及 11 条附原始出处的演示视频。
 
 <a id="quick-start"></a>
 ## 🚀 快速开始
@@ -36,6 +36,7 @@
 - [快速开始](#quick-start)
 - [动作](#action)
   - [案例 1: 暴雨吊桥上的巨兽追车](#action-case-1)
+  - [案例 2: 火箭飞船穿越时钟光隧道](#action-case-2)
 - [演示视频](#demo-gallery)
 - [Seedance 2.0 提示词存档](docs/seedance-2-0_zh-CN.md)
 - [相关仓库](#related-repositories)
@@ -77,6 +78,28 @@
 
 > [!NOTE]
 > 原帖没有附上角色参考图。原文同时写了竖屏和 16:9，改写时请指定宽高比。
+
+<a id="action-case-2"></a>
+### 案例 2: [火箭飞船穿越时钟光隧道](https://x.com/SocialSight/status/2122375587029221577) (作者 [@SocialSight](https://x.com/SocialSight))
+
+| 输出 |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="火箭飞船穿越时钟光隧道"></a> |
+
+**提示词:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> 作者在同一线程的回复中公开了完整提示词。对比用的 Seedance 2.5 Flash 媒体位于根帖。
 
 <a id="demo-gallery"></a>
 ## 🌐 演示视频

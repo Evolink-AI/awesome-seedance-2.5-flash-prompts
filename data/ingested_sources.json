@@ -2,12 +2,12 @@
   "schema_version": 2,
   "repository": "Evolink-AI/awesome-seedance-2.5-flash-prompts",
   "model": "Seedance 2.5 Flash",
-  "case_count": 1,
+  "case_count": 2,
   "demo_count": 11,
   "categories": [
     {
       "category": "⚔️ Action",
-      "count": 1
+      "count": 2
     }
   ],
   "banner_url": "https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg",
@@ -31,6 +31,27 @@
       "prompt_sha256": "da1e608f044e900a9e98ee656a1aaab6b8b8c22041a0a5c787e9393bde470d90",
       "prompt_source_url": "https://x.com/mi7_crypto/status/2120862780312191148",
       "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2120862695088087040/img/MF-zh-DFV44QW1MQ.jpg"
+    },
+    {
+      "source_url": "https://x.com/SocialSight/status/2122375587029221577",
+      "media_source_url": "https://x.com/SocialSight/status/2122375585775092176",
+      "author_handle": "SocialSight",
+      "author_url": "https://x.com/SocialSight",
+      "media": [
+        {
+          "id": "2122375561532071937",
+          "poster_url": "https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg",
+          "playback_url": "https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"
+        }
+      ],
+      "id": "action-case-2",
+      "category": "⚔️ Action",
+      "case_number": 2,
+      "title": "Rocketship Clock Tunnel Flight",
+      "prompt_text": "Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.\n\n0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.\n2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.\n5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.\n\nCamera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.",
+      "prompt_sha256": "81930f8e40c21723abb54aca3cb618480af5841efcfed1e74c6211645792bc85",
+      "prompt_source_url": "https://x.com/SocialSight/status/2122375587029221577",
+      "preview_url": "https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg"
     }
   ],
   "demos": [
