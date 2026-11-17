@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 はじめに
 
-作者が公開した Seedance 2.5 Flash のプロンプト1件と、出典付きのデモ11件を収録しています。
+作者が公開した Seedance 2.5 Flash のプロンプト2件と、出典付きのデモ11件を収録しています。
 
 <a id="quick-start"></a>
 ## 🚀 クイックスタート
@@ -36,6 +36,7 @@
 - [クイックスタート](#quick-start)
 - [アクション](#action)
   - [ケース 1: 豪雨の吊り橋で怪獣に追われる車](#action-case-1)
+  - [ケース 2: ロケット船と時計の光のトンネル](#action-case-2)
 - [デモギャラリー](#demo-gallery)
 - [Seedance 2.0 プロンプトアーカイブ](docs/seedance-2-0_ja.md)
 - [関連リポジトリ](#related-repositories)
@@ -77,6 +78,28 @@
 
 > [!NOTE]
 > 元の投稿には人物の参照画像がありません。原文には縦型と16:9の両方が記載されています。応用する際はアスペクト比を指定してください。
+
+<a id="action-case-2"></a>
+### ケース 2: [ロケット船と時計の光のトンネル](https://x.com/SocialSight/status/2122375587029221577) (投稿者 [@SocialSight](https://x.com/SocialSight))
+
+| 出力 |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="ロケット船と時計の光のトンネル"></a> |
+
+**プロンプト:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> 完全なプロンプトは作者がスレッドの返信で公開しています。比較した Seedance 2.5 Flash のメディアはルート投稿にあります。
 
 <a id="demo-gallery"></a>
 ## 🌐 デモギャラリー

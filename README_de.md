@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 Einführung
 
-Die Sammlung enthält einen vom Urheber veröffentlichten Seedance 2.5 Flash Prompt und elf Demos mit Quellenangaben.
+Die Sammlung enthält zwei von ihren Urhebern veröffentlichte Seedance 2.5 Flash Prompts und elf Demos mit Quellenangaben.
 
 <a id="quick-start"></a>
 ## 🚀 Schnellstart
@@ -36,6 +36,7 @@ Sieh dir die Abfolge der Einstellungen im Originalbeitrag an. Für eine eigene V
 - [Schnellstart](#quick-start)
 - [Action](#action)
   - [Fall 1: Monsterverfolgung auf einer Hängebrücke im Sturm](#action-case-1)
+  - [Fall 2: Raketenflug durch einen Uhrentunnel](#action-case-2)
 - [Demo-Galerie](#demo-gallery)
 - [Seedance 2.0 Prompt-Archiv](docs/seedance-2-0_de.md)
 - [Verwandte Repositorien](#related-repositories)
@@ -77,6 +78,28 @@ Sieh dir die Abfolge der Einstellungen im Originalbeitrag an. Für eine eigene V
 
 > [!NOTE]
 > Der Originalbeitrag enthält kein Referenzbild für die Figur. Im Prompt stehen sowohl Hochformat als auch 16:9. Lege bei der Anpassung ein Seitenverhältnis fest.
+
+<a id="action-case-2"></a>
+### Fall 2: [Raketenflug durch einen Uhrentunnel](https://x.com/SocialSight/status/2122375587029221577) (von [@SocialSight](https://x.com/SocialSight))
+
+| Ausgabe |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="Raketenflug durch einen Uhrentunnel"></a> |
+
+**Prompt:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> Der Autor veröffentlichte den vollständigen Prompt in einer Thread-Antwort. Der Ausgangsbeitrag liefert das verglichene Seedance-2.5-Flash-Material.
 
 <a id="demo-gallery"></a>
 ## 🌐 Demo-Galerie

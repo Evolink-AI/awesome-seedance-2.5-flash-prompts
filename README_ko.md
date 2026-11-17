@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 소개
 
-작성자가 공개한 Seedance 2.5 Flash 프롬프트 1개와 출처를 확인할 수 있는 데모 11개를 모았습니다.
+작성자가 공개한 Seedance 2.5 Flash 프롬프트 2개와 출처를 확인할 수 있는 데모 11개를 모았습니다.
 
 <a id="quick-start"></a>
 ## 🚀 빠른 시작
@@ -36,6 +36,7 @@
 - [빠른 시작](#quick-start)
 - [액션](#action)
   - [사례 1: 폭우 속 현수교에서 괴물에게 쫓기는 자동차](#action-case-1)
+  - [사례 2: 로켓선과 시계 빛 터널](#action-case-2)
 - [데모 갤러리](#demo-gallery)
 - [Seedance 2.0 프롬프트 아카이브](docs/seedance-2-0_ko.md)
 - [관련 저장소](#related-repositories)
@@ -77,6 +78,28 @@
 
 > [!NOTE]
 > 원본 게시물에는 인물 참조 이미지가 없습니다. 프롬프트 원문에는 세로형과 16:9가 함께 적혀 있습니다. 응용할 때 화면 비율을 지정하세요.
+
+<a id="action-case-2"></a>
+### 사례 2: [로켓선과 시계 빛 터널](https://x.com/SocialSight/status/2122375587029221577) (작성자 [@SocialSight](https://x.com/SocialSight))
+
+| 결과 |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="로켓선과 시계 빛 터널"></a> |
+
+**프롬프트:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> 작성자가 스레드 답글에서 전체 프롬프트를 공개했습니다. 비교된 Seedance 2.5 Flash 미디어는 루트 게시물에 있습니다.
 
 <a id="demo-gallery"></a>
 ## 🌐 데모 갤러리

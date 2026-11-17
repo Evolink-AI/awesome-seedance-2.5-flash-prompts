@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 Introdução
 
-A coleção reúne um prompt do Seedance 2.5 Flash publicado pelo autor e onze demonstrações com links para as fontes.
+A coleção reúne dois prompts do Seedance 2.5 Flash publicados pelos autores e onze demonstrações com links para as fontes.
 
 <a id="quick-start"></a>
 ## 🚀 Início rápido
@@ -36,6 +36,7 @@ Consulte a sequência de planos na publicação original. Para adaptar o prompt,
 - [Início rápido](#quick-start)
 - [Ação](#action)
   - [Caso 1: Perseguição de um monstro em uma ponte suspensa sob a tempestade](#action-case-1)
+  - [Caso 2: Voo de foguete pelo túnel de relógios](#action-case-2)
 - [Galeria de demonstrações](#demo-gallery)
 - [Arquivo de prompts do Seedance 2.0](docs/seedance-2-0_pt.md)
 - [Repositórios relacionados](#related-repositories)
@@ -77,6 +78,28 @@ Consulte a sequência de planos na publicação original. Para adaptar o prompt,
 
 > [!NOTE]
 > A publicação original não inclui a imagem de referência do personagem. O prompt indica formato vertical e 16:9. Escolha uma proporção ao adaptá-lo.
+
+<a id="action-case-2"></a>
+### Caso 2: [Voo de foguete pelo túnel de relógios](https://x.com/SocialSight/status/2122375587029221577) (por [@SocialSight](https://x.com/SocialSight))
+
+| Resultado |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="Voo de foguete pelo túnel de relógios"></a> |
+
+**Prompt:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> O autor publicou o prompt completo em uma resposta da thread. A publicação raiz fornece a mídia comparada do Seedance 2.5 Flash.
 
 <a id="demo-gallery"></a>
 ## 🌐 Galeria de demonstrações

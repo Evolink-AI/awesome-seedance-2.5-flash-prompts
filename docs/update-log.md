@@ -1,5 +1,11 @@
 # Update Log
 
+## 2026-11-17 — Seedance 2.5 Flash prompt update
+
+- Added one source-backed Action prompt case from @SocialSight to all eleven language variants.
+- Preserved the full prompt exactly from the author’s thread reply and retained the root post’s original comparison media and playback link.
+- Reviewed 136 deduplicated exact-model query matches: selected 1, deferred 0, unsure 0, and dropped 135 for source, prompt, model, or media-attribution limits.
+
 ## 2026-11-13 — Seedance 2.5 Flash
 
 - Added one creator-published prompt and eleven source-attributed demos to all eleven languages.

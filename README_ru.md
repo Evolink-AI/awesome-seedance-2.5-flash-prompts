@@ -22,7 +22,7 @@
 <a id="introduction"></a>
 ## 🍌 Введение
 
-В подборке есть один промпт Seedance 2.5 Flash, опубликованный автором, и одиннадцать демо со ссылками на источники.
+В подборке есть два промпта Seedance 2.5 Flash, опубликованных авторами, и одиннадцать демо со ссылками на источники.
 
 <a id="quick-start"></a>
 ## 🚀 Быстрый старт
@@ -36,6 +36,7 @@
 - [Быстрый старт](#quick-start)
 - [Экшен](#action)
   - [Пример 1: Погоня монстра за машиной на подвесном мосту в шторм](#action-case-1)
+  - [Пример 2: Полёт ракеты через туннель часов](#action-case-2)
 - [Галерея демо](#demo-gallery)
 - [Архив промптов Seedance 2.0](docs/seedance-2-0_ru.md)
 - [Связанные репозитории](#related-repositories)
@@ -77,6 +78,28 @@
 
 > [!NOTE]
 > В исходной публикации нет изображения персонажа. В промпте одновременно указаны вертикальный формат и 16:9. При адаптации выберите соотношение сторон.
+
+<a id="action-case-2"></a>
+### Пример 2: [Полёт ракеты через туннель часов](https://x.com/SocialSight/status/2122375587029221577) (автор [@SocialSight](https://x.com/SocialSight))
+
+| Результат |
+| :---: |
+| <a href="https://video.twimg.com/ext_tw_video/2122375561532071937/pu/vid/avc1/720x1280/Wn93LDeLOm576Lvt.mp4?tag=12"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2122375561532071937/pu/img/065c1iV-CPUHVRbs.jpg" width="300" alt="Полёт ракеты через туннель часов"></a> |
+
+**Промпт:**
+
+```
+Live-action cinematic sci-fi, 8s, 16:9, single continuous shot, no cuts, small cockpit of a rocketship launching into a tunnel of light and floating clock faces, 84° diagonal field of view, camera 1 meter behind her right shoulder looking forward, Kodak Vision3 500T grain, silent. @character. 100% matches the reference.
+
+0–2s: First frame already has @character seated at the controls, both hands gripping the yoke, eyes locked on a glowing ring ahead. She wants to fly through it before it closes.
+2–5s: The ship accelerates. Her body presses back into the seat, cheeks and braid pulled back by the g-force, hands steady on the yoke. Clock faces streak past the canopy, their numbers still readable for a moment before they smear.
+5–8s: She pulls the yoke hard left, the ship banks, her braid swings across her shoulder with a delay, and she exhales as the ring flashes past.
+
+Camera stays fixed in the cockpit, shaking slightly from engine vibration, magenta suit glow and white tunnel light on her face and the canopy glass, no limb smear, no floating braid while accelerating.
+```
+
+> [!NOTE]
+> Автор опубликовал полный промпт в ответе в ветке. В корневой публикации размещено сравниваемое медиа Seedance 2.5 Flash.
 
 <a id="demo-gallery"></a>
 ## 🌐 Галерея демо
