@@ -15,7 +15,7 @@ READMES = [
     'README_de.md', 'README_fr.md', 'README_tr.md', 'README_zh-TW.md',
     'README_zh-CN.md', 'README_ru.md',
 ]
-CAMPAIGN = 'awesome-seedance-2.0-prompts'
+CAMPAIGN = 'awesome-seedance-2.5-flash-prompts'
 CASE_RE = re.compile(r'^### [^:\n]+? (\d+): \[([^]]+)\]\(([^)]+)\) \([^()\n]+? \[@([^]]+)\]\(([^)]+)\)\)', re.M)
 PROMPT_RE = re.compile(r'^```[^\n]*\n(.*?)\n```$', re.M | re.S)
 BANNER_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="900"')
