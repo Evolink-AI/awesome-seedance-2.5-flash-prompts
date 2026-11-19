@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://evolink.ai/collections/seedance?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Coleção de modelos Seedance"></a>
+<a href="https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-flash-prompts&utm_content=readme_banner"><img src="https://cdn.evolink.ai/model-cards/seedance-2-5-flash/launch-20261112/seedance-2-5-flash-og.jpg" width="900" alt="Coleção de modelos Seedance"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Teste o Seedance 2.5 Flash no navegador](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try#playground)
+[![Teste o Seedance 2.5 Flash no navegador](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-5-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-flash-prompts&utm_content=model_try#playground)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
