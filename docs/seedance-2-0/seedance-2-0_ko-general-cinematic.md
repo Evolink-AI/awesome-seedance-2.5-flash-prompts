@@ -372,7 +372,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 
 <a id="general-cinematic-case-21"></a>
 <!-- Case 21: Historical scene with dramatic lighting (by @AskVenice) -->
-### 사례 21: [극적인 조명의 역사 장면](https://x.com/AskVenice/status/2039570736239595726) (작성자 [@AskVenice](https://x.com/AskVenice))
+### 사례 21: [극적인 조명의 역사 장면](https://x.com/AskVenice/status/2039570736239595726) (작성자 [@AskVenice](https://x.com/VeniceAI))
 
 | 결과 |
 | :----: |

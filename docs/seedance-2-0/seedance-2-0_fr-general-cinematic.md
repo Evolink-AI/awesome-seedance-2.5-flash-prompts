@@ -372,7 +372,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 
 <a id="general-cinematic-case-21"></a>
 <!-- Case 21: Historical scene with dramatic lighting (by @AskVenice) -->
-### Cas 21: [Scène historique à l’éclairage dramatique](https://x.com/AskVenice/status/2039570736239595726) (par [@AskVenice](https://x.com/AskVenice))
+### Cas 21: [Scène historique à l’éclairage dramatique](https://x.com/AskVenice/status/2039570736239595726) (par [@AskVenice](https://x.com/VeniceAI))
 
 | Résultat |
 | :----: |
