@@ -8,6 +8,14 @@
 
 Add a numbered case only when its full prompt is public. Place source-backed examples without a full prompt in the Demo Gallery. Preserve the creator attribution and pair each preview with its corresponding playback link. Check the index for duplicate sources and media IDs.
 
+## Repository description
+
+Use the following description in the repository’s About settings:
+
+> Seedance 2.5 Flash video prompts and creator demos in 11 languages, with an archive of Seedance 2.0 prompts.
+
+## Checks
+
 Run the repository and link checks before opening a pull request.
 
 ```bash
