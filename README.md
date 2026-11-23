@@ -29,6 +29,8 @@ This collection brings together two creator-published Seedance 2.5 Flash prompts
 
 Open the source post and review the shot progression. To adapt the prompt, supply your own character reference and choose an explicit aspect ratio before generating.
 
+[Try the diner time-freeze scene in Flash](docs/diner-time-freeze.md#english) using your own character reference.
+
 <a id="menu"></a>
 ## 📑 Menu
 
