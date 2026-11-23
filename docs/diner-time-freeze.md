@@ -19,6 +19,8 @@ EvoLink 已公开餐厅场景的 [Seedance 2.0 与 2.5 对比视频](https://x.c
 
 回放时先看 12–22 秒。选一滴咖啡，用它和桌沿的相对位置判断它有没有提前落下。再看 22 秒附近，餐盘是否随着主角碰门才开始下落。
 
+<a id="english"></a>
+
 ## English
 
 The [published comparison](https://x.com/EvoLinkAi/status/2108520097291620810) shows Seedance 2.0 and 2.5. To try the scene in Flash, use your own character reference, select 16:9, 720p and 30 seconds, and adapt the [original English shot sequence](https://x.com/EvoLinkAi/status/2107436382927171836) to match your character. During the walk to the door, track one suspended coffee droplet against the table. Check when it starts falling relative to the character touching the door.
